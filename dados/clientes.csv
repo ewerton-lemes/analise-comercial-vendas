@@ -1,0 +1,2501 @@
+cliente_id;nome;cidade;estado;data_cadastro
+1;Fernanda Carvalho;Campinas;SP;2025-06-22
+2;Lucas Lima;Guarulhos;SP;2025-06-28
+3;Eduardo Alves;São Bernardo do Campo;SP;2025-07-18
+4;Lucas Souza;Mogi das Cruzes;SP;2024-04-26
+5;Carlos Martins;Campinas;SP;2025-03-03
+6;Daniela Ribeiro;Guarulhos;SP;2025-04-16
+7;Mariana Barbosa;São Bernardo do Campo;SP;2024-03-19
+8;Igor Santos;Santos;SP;2024-04-29
+9;Rafael Fernandes;Mauá;SP;2024-05-14
+10;Daniela Martins;Osasco;SP;2024-01-18
+11;Carlos Fernandes;Santos;SP;2025-05-06
+12;Juliana Barbosa;Diadema;SP;2024-12-22
+13;Mariana Vieira;São Paulo;SP;2024-11-15
+14;Gabriel Oliveira;Campinas;SP;2025-01-06
+15;Bruno Pereira;Mauá;SP;2024-05-22
+16;Juliana Oliveira;São Paulo;SP;2025-03-28
+17;Helena Souza;Guarulhos;SP;2025-06-19
+18;Nicolas Lima;Campinas;SP;2024-12-16
+19;Rafael Ribeiro;Mogi das Cruzes;SP;2024-06-25
+20;Fernanda Ribeiro;Diadema;SP;2024-11-07
+21;Mariana Alves;Mauá;SP;2024-01-30
+22;Igor Oliveira;Guarulhos;SP;2024-05-01
+23;Vanessa Ferreira;Guarulhos;SP;2024-08-15
+24;Beatriz Pereira;Santo André;SP;2024-05-11
+25;Fernanda Almeida;São Bernardo do Campo;SP;2024-05-25
+26;Nicolas Lima;Osasco;SP;2024-08-20
+27;Beatriz Pereira;Guarulhos;SP;2024-11-10
+28;Lucas Santos;Diadema;SP;2024-05-08
+29;Helena Santos;São Paulo;SP;2024-08-02
+30;Lucas Martins;Mauá;SP;2024-05-13
+31;Igor Oliveira;Mauá;SP;2024-03-21
+32;Gabriel Vieira;Diadema;SP;2025-03-11
+33;Lucas Alves;Santos;SP;2024-04-24
+34;Camila Martins;Santo André;SP;2024-03-20
+35;Rafael Rodrigues;Diadema;SP;2024-01-20
+36;Igor Rodrigues;São Paulo;SP;2025-05-10
+37;Helena Fernandes;Campinas;SP;2025-03-17
+38;Beatriz Lima;Mogi das Cruzes;SP;2024-02-13
+39;Matheus Carvalho;Mogi das Cruzes;SP;2024-07-20
+40;Matheus Martins;São Paulo;SP;2024-04-20
+41;Mariana Pereira;São Bernardo do Campo;SP;2024-02-03
+42;Eduardo Soares;Santos;SP;2025-06-09
+43;Camila Oliveira;Santo André;SP;2024-03-01
+44;Bruno Souza;São Bernardo do Campo;SP;2025-04-25
+45;Eduardo Ferreira;São Paulo;SP;2024-05-01
+46;Larissa Barbosa;Diadema;SP;2024-09-16
+47;Carlos Martins;Santos;SP;2024-02-14
+48;Nicolas Barbosa;Santos;SP;2024-03-08
+49;Rafael Soares;São Bernardo do Campo;SP;2024-11-04
+50;Igor Fernandes;Diadema;SP;2024-01-11
+51;Ana Souza;Campinas;SP;2024-04-08
+52;Beatriz Lima;São Paulo;SP;2024-05-06
+53;Lucas Souza;Osasco;SP;2024-07-29
+54;Juliana Carvalho;São Bernardo do Campo;SP;2024-07-23
+55;Fernanda Almeida;São Paulo;SP;2024-07-08
+56;Ana Lima;Campinas;SP;2024-12-25
+57;Thiago Ferreira;Guarulhos;SP;2024-01-30
+58;Thiago Souza;Santo André;SP;2024-04-02
+59;Juliana Soares;Mauá;SP;2024-05-29
+60;Vanessa Alves;Osasco;SP;2024-10-11
+61;Eduardo Ribeiro;Mauá;SP;2025-08-16
+62;Fernanda Fernandes;Mauá;SP;2024-12-22
+63;Thiago Silva;Diadema;SP;2024-12-26
+64;Vanessa Costa;São Bernardo do Campo;SP;2024-06-13
+65;Camila Silva;Santos;SP;2025-05-27
+66;Daniela Ribeiro;São Paulo;SP;2024-09-04
+67;Juliana Pereira;Guarulhos;SP;2025-06-01
+68;Bruno Pereira;Guarulhos;SP;2025-08-06
+69;Matheus Oliveira;Santos;SP;2024-03-10
+70;Carlos Lopes;Santo André;SP;2024-04-11
+71;Carlos Fernandes;Santos;SP;2025-08-15
+72;Eduardo Rodrigues;Diadema;SP;2024-01-15
+73;Camila Fernandes;Osasco;SP;2025-06-25
+74;Fernanda Lima;Osasco;SP;2024-08-10
+75;Thiago Barbosa;Santo André;SP;2024-07-15
+76;Larissa Alves;São Bernardo do Campo;SP;2024-10-15
+77;Beatriz Alves;Diadema;SP;2024-06-24
+78;Juliana Martins;São Bernardo do Campo;SP;2025-07-04
+79;Mariana Almeida;Mogi das Cruzes;SP;2024-01-05
+80;Thiago Almeida;Mauá;SP;2024-04-11
+81;Daniela Pereira;Diadema;SP;2024-08-07
+82;Helena Oliveira;São Paulo;SP;2025-05-31
+83;Lucas Silva;Santo André;SP;2025-05-01
+84;Matheus Fernandes;Campinas;SP;2025-01-10
+85;Helena Vieira;Mauá;SP;2024-07-08
+86;Helena Silva;Santos;SP;2025-03-26
+87;Carlos Santos;Guarulhos;SP;2024-04-19
+88;Helena Oliveira;Santos;SP;2024-07-04
+89;Bruno Costa;Guarulhos;SP;2024-12-29
+90;Carlos Soares;Santos;SP;2025-01-23
+91;Helena Lima;Santo André;SP;2025-03-10
+92;Camila Alves;Osasco;SP;2024-08-07
+93;Beatriz Rodrigues;Guarulhos;SP;2025-06-10
+94;Matheus Vieira;Santos;SP;2024-08-21
+95;Camila Pereira;Santo André;SP;2025-02-21
+96;Camila Carvalho;Santos;SP;2024-04-25
+97;Gabriel Souza;Diadema;SP;2024-11-17
+98;Daniela Carvalho;Santo André;SP;2024-05-06
+99;Mariana Carvalho;Mogi das Cruzes;SP;2025-04-22
+100;Larissa Almeida;Mauá;SP;2024-04-22
+101;Bruno Souza;Diadema;SP;2025-06-16
+102;Bruno Martins;Mogi das Cruzes;SP;2024-05-19
+103;Lucas Souza;São Bernardo do Campo;SP;2025-05-22
+104;Helena Alves;Osasco;SP;2025-01-04
+105;Gabriel Fernandes;Mogi das Cruzes;SP;2024-10-22
+106;Rafael Rodrigues;Mogi das Cruzes;SP;2025-07-24
+107;Larissa Ferreira;Diadema;SP;2024-02-11
+108;Igor Almeida;São Paulo;SP;2024-03-25
+109;Helena Oliveira;Mogi das Cruzes;SP;2024-12-01
+110;Rafael Fernandes;Guarulhos;SP;2025-05-20
+111;Daniela Santos;Santo André;SP;2024-04-28
+112;Beatriz Silva;Guarulhos;SP;2025-01-29
+113;Carlos Pereira;Mauá;SP;2024-10-17
+114;Fernanda Carvalho;São Bernardo do Campo;SP;2025-04-12
+115;Camila Lopes;São Bernardo do Campo;SP;2024-11-15
+116;Gabriel Martins;Osasco;SP;2025-03-30
+117;Bruno Ferreira;Mauá;SP;2024-08-19
+118;Nicolas Silva;Osasco;SP;2025-07-21
+119;Nicolas Lima;Santos;SP;2025-02-21
+120;Rafael Gomes;Santos;SP;2024-10-24
+121;Larissa Fernandes;São Paulo;SP;2025-03-14
+122;Camila Rodrigues;Santo André;SP;2024-07-12
+123;Gabriel Gomes;São Bernardo do Campo;SP;2024-03-12
+124;Gabriel Santos;Santo André;SP;2025-05-02
+125;Matheus Fernandes;Guarulhos;SP;2025-01-11
+126;Bruno Costa;Mauá;SP;2024-07-02
+127;Bruno Santos;Osasco;SP;2024-01-14
+128;Matheus Lopes;Guarulhos;SP;2025-05-18
+129;Thiago Soares;Santos;SP;2024-04-17
+130;Fernanda Santos;Campinas;SP;2025-02-09
+131;Thiago Oliveira;Mogi das Cruzes;SP;2025-03-24
+132;Fernanda Oliveira;Osasco;SP;2025-06-19
+133;Vanessa Oliveira;Osasco;SP;2024-03-28
+134;Helena Martins;São Bernardo do Campo;SP;2024-05-02
+135;Daniela Vieira;Diadema;SP;2024-05-26
+136;Helena Vieira;Santo André;SP;2025-02-08
+137;Vanessa Santos;Campinas;SP;2025-02-14
+138;Vanessa Oliveira;São Bernardo do Campo;SP;2024-04-14
+139;Larissa Vieira;Mogi das Cruzes;SP;2024-06-21
+140;Matheus Soares;São Bernardo do Campo;SP;2024-03-07
+141;Lucas Lima;São Bernardo do Campo;SP;2025-01-07
+142;Gabriel Costa;São Bernardo do Campo;SP;2024-07-22
+143;Helena Lima;Santo André;SP;2024-12-12
+144;Nicolas Rodrigues;São Bernardo do Campo;SP;2024-07-24
+145;Juliana Almeida;São Bernardo do Campo;SP;2025-02-17
+146;Lucas Oliveira;São Bernardo do Campo;SP;2024-05-05
+147;Ana Almeida;São Bernardo do Campo;SP;2024-08-26
+148;Vanessa Vieira;Diadema;SP;2025-03-10
+149;Daniela Oliveira;Osasco;SP;2025-05-26
+150;Beatriz Alves;Campinas;SP;2024-10-12
+151;Thiago Lima;Guarulhos;SP;2025-08-18
+152;Eduardo Ribeiro;Guarulhos;SP;2024-10-06
+153;Carlos Pereira;Guarulhos;SP;2025-02-13
+154;Mariana Gomes;Mogi das Cruzes;SP;2024-12-30
+155;Fernanda Almeida;Diadema;SP;2025-05-02
+156;Beatriz Gomes;São Paulo;SP;2025-02-18
+157;Vanessa Soares;Santos;SP;2025-05-11
+158;Ana Fernandes;São Paulo;SP;2025-06-07
+159;Juliana Souza;Mogi das Cruzes;SP;2024-10-12
+160;Eduardo Lima;Osasco;SP;2024-05-30
+161;Daniela Souza;Diadema;SP;2025-04-10
+162;Beatriz Rodrigues;Osasco;SP;2024-04-20
+163;Igor Gomes;Mogi das Cruzes;SP;2024-05-05
+164;Vanessa Alves;Diadema;SP;2024-09-13
+165;Lucas Alves;Santo André;SP;2025-05-16
+166;Igor Soares;Mogi das Cruzes;SP;2025-05-24
+167;Camila Lima;Campinas;SP;2024-08-24
+168;Bruno Oliveira;Santos;SP;2024-05-17
+169;Larissa Lima;Santo André;SP;2024-01-31
+170;Bruno Silva;Mauá;SP;2024-04-11
+171;Lucas Rodrigues;São Bernardo do Campo;SP;2024-02-24
+172;Igor Ferreira;Diadema;SP;2024-03-10
+173;Rafael Fernandes;Campinas;SP;2025-05-25
+174;Larissa Fernandes;São Paulo;SP;2024-01-28
+175;Ana Souza;Santos;SP;2024-07-02
+176;Carlos Rodrigues;Mauá;SP;2025-01-26
+177;Beatriz Santos;Mogi das Cruzes;SP;2024-11-30
+178;Mariana Vieira;Santos;SP;2024-06-05
+179;Beatriz Rodrigues;São Paulo;SP;2024-11-06
+180;Larissa Rodrigues;Santos;SP;2024-04-08
+181;Bruno Gomes;Osasco;SP;2024-03-19
+182;Mariana Santos;Mauá;SP;2025-06-16
+183;Mariana Alves;Campinas;SP;2025-05-19
+184;Helena Souza;Mogi das Cruzes;SP;2025-04-22
+185;Mariana Fernandes;Guarulhos;SP;2024-07-25
+186;Larissa Barbosa;Santos;SP;2024-10-27
+187;Eduardo Pereira;Mogi das Cruzes;SP;2025-05-24
+188;Fernanda Ferreira;Osasco;SP;2025-05-17
+189;Larissa Silva;São Paulo;SP;2025-05-31
+190;Fernanda Costa;São Paulo;SP;2024-09-24
+191;Larissa Pereira;São Bernardo do Campo;SP;2025-07-09
+192;Igor Ferreira;Mauá;SP;2024-12-17
+193;Daniela Martins;Diadema;SP;2025-07-07
+194;Bruno Lopes;Guarulhos;SP;2025-07-13
+195;Helena Alves;Osasco;SP;2024-01-19
+196;Rafael Ribeiro;Osasco;SP;2024-02-02
+197;Juliana Pereira;Diadema;SP;2025-03-16
+198;Helena Silva;Santo André;SP;2024-05-01
+199;Gabriel Martins;Campinas;SP;2025-01-27
+200;Lucas Lima;Santos;SP;2025-04-05
+201;Carlos Lima;Santo André;SP;2024-11-18
+202;Mariana Soares;São Bernardo do Campo;SP;2025-01-20
+203;Nicolas Fernandes;Santo André;SP;2025-03-29
+204;Lucas Silva;Mogi das Cruzes;SP;2025-04-15
+205;Daniela Lima;Diadema;SP;2024-02-06
+206;Fernanda Vieira;Osasco;SP;2024-02-03
+207;Igor Santos;Osasco;SP;2024-06-30
+208;Daniela Barbosa;Campinas;SP;2025-07-24
+209;Larissa Ribeiro;Mogi das Cruzes;SP;2024-11-06
+210;Lucas Carvalho;Mauá;SP;2024-06-17
+211;Vanessa Soares;São Bernardo do Campo;SP;2025-05-18
+212;Daniela Martins;Mauá;SP;2025-03-17
+213;Matheus Alves;Osasco;SP;2024-05-17
+214;Igor Santos;Osasco;SP;2024-11-15
+215;Larissa Silva;Mauá;SP;2025-02-02
+216;Thiago Fernandes;Santo André;SP;2025-05-14
+217;Gabriel Ribeiro;Mogi das Cruzes;SP;2024-04-22
+218;Larissa Oliveira;Campinas;SP;2025-08-05
+219;Lucas Barbosa;Diadema;SP;2025-05-17
+220;Lucas Souza;Campinas;SP;2025-07-21
+221;Juliana Soares;Diadema;SP;2025-07-06
+222;Juliana Carvalho;São Bernardo do Campo;SP;2025-08-08
+223;Lucas Martins;Guarulhos;SP;2025-04-26
+224;Juliana Fernandes;Santo André;SP;2025-05-02
+225;Eduardo Alves;São Bernardo do Campo;SP;2025-07-29
+226;Larissa Martins;Santos;SP;2024-06-09
+227;Fernanda Barbosa;Mauá;SP;2025-06-02
+228;Matheus Gomes;Mauá;SP;2024-02-27
+229;Nicolas Fernandes;São Bernardo do Campo;SP;2025-02-04
+230;Ana Gomes;Campinas;SP;2024-09-26
+231;Juliana Alves;Campinas;SP;2025-05-21
+232;Larissa Vieira;Mogi das Cruzes;SP;2025-01-21
+233;Vanessa Costa;São Paulo;SP;2024-12-27
+234;Rafael Almeida;Campinas;SP;2024-10-18
+235;Rafael Alves;Mauá;SP;2024-11-24
+236;Thiago Lopes;Mogi das Cruzes;SP;2024-03-03
+237;Fernanda Oliveira;Campinas;SP;2024-01-29
+238;Juliana Soares;Santos;SP;2024-02-16
+239;Vanessa Costa;Santos;SP;2024-05-11
+240;Carlos Pereira;Osasco;SP;2025-01-10
+241;Juliana Pereira;Mogi das Cruzes;SP;2024-12-23
+242;Gabriel Rodrigues;Santo André;SP;2025-08-20
+243;Ana Santos;Santo André;SP;2024-01-28
+244;Helena Lopes;Santos;SP;2024-12-15
+245;Vanessa Oliveira;Diadema;SP;2025-01-24
+246;Rafael Carvalho;São Paulo;SP;2024-04-09
+247;Matheus Alves;Mauá;SP;2025-03-14
+248;Nicolas Lopes;Guarulhos;SP;2024-12-19
+249;Nicolas Pereira;Campinas;SP;2024-12-31
+250;Eduardo Silva;São Paulo;SP;2025-02-25
+251;Daniela Carvalho;São Bernardo do Campo;SP;2024-12-25
+252;Helena Ferreira;Santo André;SP;2024-02-27
+253;Thiago Almeida;Mogi das Cruzes;SP;2024-09-07
+254;Bruno Fernandes;Guarulhos;SP;2024-09-10
+255;Helena Souza;Mogi das Cruzes;SP;2024-08-28
+256;Rafael Rodrigues;Osasco;SP;2024-11-15
+257;Rafael Soares;Santo André;SP;2024-03-27
+258;Beatriz Barbosa;Osasco;SP;2024-03-08
+259;Lucas Almeida;Osasco;SP;2024-11-08
+260;Vanessa Soares;Santos;SP;2024-04-27
+261;Larissa Fernandes;Santos;SP;2024-12-11
+262;Rafael Ferreira;Santo André;SP;2024-06-22
+263;Camila Almeida;Osasco;SP;2024-01-21
+264;Igor Pereira;São Paulo;SP;2025-07-05
+265;Igor Soares;Mauá;SP;2024-11-29
+266;Camila Pereira;Guarulhos;SP;2024-02-08
+267;Igor Almeida;Osasco;SP;2025-04-16
+268;Carlos Gomes;Diadema;SP;2025-03-08
+269;Helena Lima;São Bernardo do Campo;SP;2025-08-04
+270;Lucas Costa;Diadema;SP;2025-06-11
+271;Beatriz Oliveira;Diadema;SP;2025-03-07
+272;Eduardo Rodrigues;Santos;SP;2024-09-30
+273;Helena Martins;Campinas;SP;2024-01-21
+274;Eduardo Alves;Santo André;SP;2025-04-25
+275;Carlos Carvalho;Osasco;SP;2024-01-23
+276;Larissa Costa;Osasco;SP;2024-11-20
+277;Beatriz Almeida;Santos;SP;2025-01-21
+278;Larissa Santos;Mogi das Cruzes;SP;2025-08-07
+279;Gabriel Carvalho;Mogi das Cruzes;SP;2025-02-03
+280;Nicolas Vieira;Guarulhos;SP;2024-11-26
+281;Ana Vieira;Mauá;SP;2025-08-09
+282;Nicolas Lopes;Diadema;SP;2024-04-10
+283;Ana Ribeiro;Santo André;SP;2025-05-15
+284;Juliana Martins;Mogi das Cruzes;SP;2024-04-12
+285;Larissa Fernandes;Campinas;SP;2024-07-29
+286;Beatriz Barbosa;Campinas;SP;2024-12-10
+287;Helena Lopes;Osasco;SP;2025-05-23
+288;Helena Lima;Mauá;SP;2025-05-29
+289;Larissa Lopes;Diadema;SP;2024-12-13
+290;Ana Martins;Diadema;SP;2024-06-19
+291;Lucas Martins;Mauá;SP;2024-11-02
+292;Fernanda Almeida;Guarulhos;SP;2025-01-07
+293;Eduardo Barbosa;Guarulhos;SP;2025-03-22
+294;Beatriz Silva;Campinas;SP;2024-07-25
+295;Nicolas Vieira;Osasco;SP;2025-05-23
+296;Matheus Silva;São Bernardo do Campo;SP;2024-03-18
+297;Carlos Carvalho;Osasco;SP;2025-07-02
+298;Eduardo Almeida;Osasco;SP;2024-08-07
+299;Fernanda Santos;Santo André;SP;2024-10-21
+300;Igor Martins;Santo André;SP;2024-09-28
+301;Lucas Alves;Diadema;SP;2024-02-18
+302;Rafael Costa;Mauá;SP;2024-10-31
+303;Lucas Martins;Santo André;SP;2025-08-10
+304;Igor Carvalho;Mogi das Cruzes;SP;2025-02-15
+305;Igor Oliveira;Osasco;SP;2024-08-19
+306;Camila Silva;Diadema;SP;2024-04-04
+307;Beatriz Santos;Santos;SP;2025-08-15
+308;Mariana Pereira;Mogi das Cruzes;SP;2024-04-07
+309;Carlos Santos;Mauá;SP;2024-12-10
+310;Ana Pereira;Campinas;SP;2024-10-06
+311;Gabriel Silva;Campinas;SP;2024-03-09
+312;Vanessa Rodrigues;São Paulo;SP;2025-08-03
+313;Helena Rodrigues;Campinas;SP;2025-06-27
+314;Camila Souza;São Bernardo do Campo;SP;2025-05-01
+315;Matheus Alves;Santo André;SP;2025-03-13
+316;Rafael Lima;Guarulhos;SP;2024-08-02
+317;Mariana Ferreira;São Bernardo do Campo;SP;2024-12-21
+318;Vanessa Barbosa;Campinas;SP;2024-03-19
+319;Daniela Ferreira;Mauá;SP;2024-11-05
+320;Juliana Souza;Guarulhos;SP;2025-05-31
+321;Matheus Silva;Guarulhos;SP;2024-11-03
+322;Juliana Vieira;Guarulhos;SP;2025-03-19
+323;Nicolas Martins;Mogi das Cruzes;SP;2025-07-06
+324;Gabriel Oliveira;Santos;SP;2024-11-16
+325;Matheus Pereira;São Paulo;SP;2024-07-23
+326;Daniela Gomes;São Paulo;SP;2025-02-28
+327;Vanessa Souza;Mauá;SP;2025-02-15
+328;Matheus Santos;Santos;SP;2024-09-14
+329;Mariana Fernandes;Guarulhos;SP;2025-06-11
+330;Larissa Ribeiro;Guarulhos;SP;2025-04-09
+331;Carlos Soares;Santo André;SP;2025-07-14
+332;Lucas Silva;Diadema;SP;2024-07-03
+333;Larissa Lopes;Campinas;SP;2024-01-20
+334;Daniela Carvalho;Guarulhos;SP;2025-06-12
+335;Mariana Almeida;Mauá;SP;2024-07-10
+336;Eduardo Carvalho;Santo André;SP;2025-08-13
+337;Fernanda Soares;São Bernardo do Campo;SP;2025-05-26
+338;Igor Barbosa;São Bernardo do Campo;SP;2024-08-06
+339;Beatriz Lopes;Santo André;SP;2025-04-23
+340;Rafael Carvalho;Mogi das Cruzes;SP;2024-10-01
+341;Matheus Lima;Campinas;SP;2025-06-29
+342;Lucas Pereira;Campinas;SP;2025-03-20
+343;Carlos Lima;Santos;SP;2025-08-02
+344;Rafael Pereira;Campinas;SP;2024-03-02
+345;Rafael Vieira;São Paulo;SP;2025-06-18
+346;Vanessa Martins;São Paulo;SP;2024-07-24
+347;Lucas Silva;Osasco;SP;2025-01-08
+348;Camila Costa;Osasco;SP;2025-04-18
+349;Fernanda Lopes;Mogi das Cruzes;SP;2024-05-31
+350;Gabriel Ribeiro;Mogi das Cruzes;SP;2024-09-03
+351;Igor Costa;Santos;SP;2024-06-03
+352;Igor Barbosa;Santo André;SP;2024-11-03
+353;Igor Fernandes;Santos;SP;2025-03-21
+354;Ana Soares;Mogi das Cruzes;SP;2025-02-24
+355;Gabriel Oliveira;Campinas;SP;2024-11-22
+356;Helena Carvalho;Santos;SP;2024-03-06
+357;Camila Fernandes;Campinas;SP;2024-07-27
+358;Helena Lopes;Diadema;SP;2025-02-26
+359;Camila Almeida;Diadema;SP;2024-09-30
+360;Ana Oliveira;Mogi das Cruzes;SP;2024-10-20
+361;Juliana Pereira;Diadema;SP;2024-06-13
+362;Nicolas Pereira;Mauá;SP;2024-09-19
+363;Juliana Vieira;Santos;SP;2024-08-29
+364;Mariana Lopes;Santos;SP;2025-02-19
+365;Beatriz Soares;Santo André;SP;2024-09-01
+366;Mariana Carvalho;Osasco;SP;2024-04-26
+367;Beatriz Costa;Mogi das Cruzes;SP;2024-06-02
+368;Mariana Almeida;Santos;SP;2024-07-15
+369;Igor Gomes;São Bernardo do Campo;SP;2024-01-29
+370;Igor Pereira;Guarulhos;SP;2024-09-08
+371;Daniela Alves;Mogi das Cruzes;SP;2024-11-13
+372;Lucas Souza;Santo André;SP;2025-04-20
+373;Beatriz Ferreira;Osasco;SP;2025-05-12
+374;Gabriel Alves;Mauá;SP;2025-07-27
+375;Camila Lima;Santo André;SP;2025-03-22
+376;Matheus Soares;Campinas;SP;2025-03-08
+377;Vanessa Gomes;Santo André;SP;2024-02-07
+378;Daniela Alves;São Paulo;SP;2024-07-25
+379;Juliana Pereira;São Paulo;SP;2024-06-12
+380;Mariana Ferreira;Santos;SP;2024-10-06
+381;Juliana Silva;Campinas;SP;2024-05-19
+382;Beatriz Rodrigues;Osasco;SP;2024-01-30
+383;Igor Santos;Santo André;SP;2024-09-21
+384;Bruno Fernandes;Mogi das Cruzes;SP;2024-10-11
+385;Juliana Rodrigues;Santos;SP;2025-07-17
+386;Camila Souza;São Paulo;SP;2024-06-29
+387;Ana Vieira;Mogi das Cruzes;SP;2024-02-13
+388;Juliana Lopes;Mogi das Cruzes;SP;2025-05-12
+389;Camila Almeida;Santo André;SP;2024-01-21
+390;Lucas Ferreira;São Paulo;SP;2024-02-26
+391;Bruno Lima;Mauá;SP;2024-03-26
+392;Camila Souza;Santo André;SP;2024-11-17
+393;Carlos Martins;Diadema;SP;2024-11-01
+394;Camila Oliveira;São Bernardo do Campo;SP;2024-03-06
+395;Matheus Santos;São Paulo;SP;2025-02-20
+396;Eduardo Rodrigues;Santos;SP;2025-01-07
+397;Matheus Gomes;Osasco;SP;2024-04-02
+398;Carlos Pereira;São Bernardo do Campo;SP;2025-02-10
+399;Daniela Fernandes;Mauá;SP;2024-05-23
+400;Larissa Barbosa;Santos;SP;2024-08-29
+401;Vanessa Barbosa;Mauá;SP;2024-04-24
+402;Helena Soares;Mauá;SP;2025-08-07
+403;Nicolas Almeida;São Bernardo do Campo;SP;2025-05-27
+404;Rafael Gomes;Campinas;SP;2024-05-03
+405;Matheus Carvalho;Mauá;SP;2025-06-18
+406;Juliana Vieira;Mauá;SP;2025-08-17
+407;Vanessa Santos;São Bernardo do Campo;SP;2025-06-21
+408;Vanessa Souza;Santo André;SP;2024-09-14
+409;Gabriel Alves;Guarulhos;SP;2025-05-23
+410;Igor Oliveira;Mauá;SP;2024-04-02
+411;Fernanda Pereira;São Bernardo do Campo;SP;2024-08-31
+412;Fernanda Fernandes;Santos;SP;2024-05-05
+413;Carlos Ferreira;Diadema;SP;2024-11-16
+414;Ana Carvalho;Santo André;SP;2024-12-03
+415;Rafael Barbosa;Santo André;SP;2025-08-21
+416;Camila Gomes;Santos;SP;2025-02-03
+417;Bruno Pereira;Santo André;SP;2024-08-29
+418;Juliana Gomes;Mauá;SP;2025-03-09
+419;Rafael Oliveira;São Bernardo do Campo;SP;2024-08-11
+420;Helena Lima;Guarulhos;SP;2024-05-27
+421;Matheus Alves;Campinas;SP;2024-04-19
+422;Larissa Souza;Campinas;SP;2024-06-28
+423;Beatriz Pereira;Santo André;SP;2024-08-07
+424;Eduardo Lima;Guarulhos;SP;2024-10-08
+425;Eduardo Oliveira;Mogi das Cruzes;SP;2025-03-26
+426;Bruno Ferreira;Diadema;SP;2025-02-22
+427;Juliana Barbosa;Mogi das Cruzes;SP;2024-09-17
+428;Matheus Gomes;Santo André;SP;2024-02-27
+429;Rafael Souza;Diadema;SP;2025-05-17
+430;Rafael Gomes;Mogi das Cruzes;SP;2025-06-30
+431;Nicolas Lima;São Bernardo do Campo;SP;2025-01-18
+432;Thiago Fernandes;Osasco;SP;2024-04-25
+433;Camila Almeida;São Paulo;SP;2024-11-20
+434;Carlos Barbosa;Campinas;SP;2025-07-12
+435;Bruno Carvalho;São Paulo;SP;2025-03-09
+436;Lucas Barbosa;Santos;SP;2025-05-01
+437;Igor Silva;São Paulo;SP;2024-09-09
+438;Carlos Pereira;Campinas;SP;2024-10-11
+439;Matheus Vieira;Guarulhos;SP;2024-05-28
+440;Ana Lima;Santo André;SP;2025-01-06
+441;Matheus Santos;Santo André;SP;2025-05-01
+442;Fernanda Lopes;Campinas;SP;2025-01-11
+443;Thiago Almeida;Mogi das Cruzes;SP;2024-11-11
+444;Igor Ferreira;São Paulo;SP;2024-01-22
+445;Matheus Carvalho;São Bernardo do Campo;SP;2024-02-05
+446;Camila Oliveira;Guarulhos;SP;2024-02-25
+447;Camila Ribeiro;Campinas;SP;2024-09-02
+448;Larissa Costa;São Paulo;SP;2024-09-16
+449;Lucas Souza;Mogi das Cruzes;SP;2025-07-19
+450;Fernanda Costa;São Bernardo do Campo;SP;2025-01-28
+451;Larissa Lopes;Osasco;SP;2024-11-12
+452;Juliana Martins;Mauá;SP;2025-01-06
+453;Beatriz Santos;Santo André;SP;2024-05-04
+454;Rafael Oliveira;Mogi das Cruzes;SP;2025-07-01
+455;Lucas Lima;Osasco;SP;2024-08-30
+456;Lucas Souza;Mogi das Cruzes;SP;2025-03-29
+457;Nicolas Soares;São Paulo;SP;2025-02-01
+458;Ana Fernandes;Osasco;SP;2024-01-09
+459;Rafael Carvalho;Guarulhos;SP;2025-02-06
+460;Bruno Alves;Campinas;SP;2024-09-18
+461;Thiago Ribeiro;São Paulo;SP;2024-11-04
+462;Vanessa Lopes;Santo André;SP;2024-04-02
+463;Rafael Santos;Mauá;SP;2024-08-29
+464;Gabriel Lima;Guarulhos;SP;2024-10-31
+465;Beatriz Rodrigues;Santos;SP;2024-08-03
+466;Juliana Almeida;Mogi das Cruzes;SP;2024-06-13
+467;Camila Souza;Campinas;SP;2025-03-25
+468;Ana Barbosa;São Bernardo do Campo;SP;2024-11-20
+469;Helena Ferreira;Santo André;SP;2025-02-20
+470;Juliana Fernandes;Mauá;SP;2024-02-04
+471;Ana Fernandes;São Paulo;SP;2024-10-07
+472;Larissa Oliveira;Guarulhos;SP;2024-03-23
+473;Helena Souza;São Bernardo do Campo;SP;2025-05-18
+474;Rafael Souza;Mauá;SP;2025-04-27
+475;Eduardo Lopes;Mogi das Cruzes;SP;2025-02-26
+476;Juliana Soares;São Bernardo do Campo;SP;2024-12-06
+477;Igor Carvalho;São Paulo;SP;2025-03-08
+478;Camila Lopes;São Bernardo do Campo;SP;2024-04-12
+479;Helena Almeida;Mogi das Cruzes;SP;2024-06-13
+480;Beatriz Rodrigues;Guarulhos;SP;2024-09-24
+481;Nicolas Alves;Santos;SP;2025-06-02
+482;Vanessa Soares;São Bernardo do Campo;SP;2024-03-08
+483;Eduardo Oliveira;Mogi das Cruzes;SP;2024-12-26
+484;Igor Carvalho;Mauá;SP;2025-03-06
+485;Lucas Soares;Santo André;SP;2025-07-14
+486;Igor Silva;Osasco;SP;2024-11-30
+487;Juliana Gomes;Campinas;SP;2025-04-09
+488;Matheus Vieira;São Paulo;SP;2024-01-29
+489;Camila Rodrigues;Santos;SP;2024-02-23
+490;Rafael Fernandes;Santos;SP;2024-07-07
+491;Camila Ribeiro;Guarulhos;SP;2025-03-30
+492;Lucas Fernandes;Santo André;SP;2024-05-19
+493;Beatriz Martins;Mogi das Cruzes;SP;2024-01-04
+494;Rafael Costa;Santo André;SP;2025-02-14
+495;Gabriel Pereira;São Bernardo do Campo;SP;2024-07-23
+496;Matheus Martins;Osasco;SP;2024-11-08
+497;Helena Carvalho;São Paulo;SP;2024-11-17
+498;Bruno Costa;São Bernardo do Campo;SP;2025-08-12
+499;Camila Martins;Guarulhos;SP;2024-03-25
+500;Nicolas Rodrigues;São Bernardo do Campo;SP;2024-04-23
+501;Camila Santos;Mauá;SP;2024-06-10
+502;Eduardo Soares;Osasco;SP;2024-09-12
+503;Matheus Costa;São Paulo;SP;2025-06-12
+504;Daniela Almeida;Campinas;SP;2024-05-13
+505;Daniela Soares;Santo André;SP;2025-02-24
+506;Rafael Silva;Diadema;SP;2024-11-23
+507;Eduardo Carvalho;Guarulhos;SP;2025-04-07
+508;Eduardo Oliveira;Mauá;SP;2025-05-04
+509;Camila Lima;São Bernardo do Campo;SP;2024-05-16
+510;Lucas Barbosa;São Paulo;SP;2024-09-23
+511;Nicolas Oliveira;São Paulo;SP;2024-06-26
+512;Lucas Fernandes;Diadema;SP;2024-12-01
+513;Nicolas Costa;Mogi das Cruzes;SP;2024-10-15
+514;Camila Fernandes;Diadema;SP;2024-07-22
+515;Bruno Barbosa;Campinas;SP;2024-03-27
+516;Carlos Pereira;Osasco;SP;2025-02-28
+517;Juliana Pereira;Guarulhos;SP;2025-01-11
+518;Carlos Carvalho;São Bernardo do Campo;SP;2024-07-05
+519;Daniela Souza;Campinas;SP;2025-02-06
+520;Rafael Ferreira;Mogi das Cruzes;SP;2025-01-21
+521;Juliana Silva;Guarulhos;SP;2025-08-07
+522;Bruno Costa;Diadema;SP;2024-08-17
+523;Bruno Gomes;Osasco;SP;2024-01-22
+524;Mariana Ribeiro;São Paulo;SP;2024-01-24
+525;Larissa Rodrigues;São Paulo;SP;2025-07-25
+526;Helena Soares;Osasco;SP;2024-08-22
+527;Larissa Vieira;Campinas;SP;2024-04-01
+528;Fernanda Ferreira;Santos;SP;2025-04-18
+529;Fernanda Oliveira;Guarulhos;SP;2024-07-22
+530;Vanessa Martins;Campinas;SP;2024-09-25
+531;Vanessa Pereira;Mogi das Cruzes;SP;2024-06-21
+532;Camila Vieira;São Bernardo do Campo;SP;2024-02-20
+533;Eduardo Pereira;Osasco;SP;2025-02-14
+534;Rafael Lima;Santos;SP;2025-03-15
+535;Rafael Lima;Osasco;SP;2024-09-23
+536;Ana Almeida;Mogi das Cruzes;SP;2024-06-01
+537;Juliana Fernandes;São Bernardo do Campo;SP;2024-04-01
+538;Fernanda Oliveira;São Paulo;SP;2025-01-11
+539;Rafael Ribeiro;Mauá;SP;2024-06-23
+540;Matheus Gomes;Osasco;SP;2025-08-03
+541;Larissa Lima;Campinas;SP;2024-04-30
+542;Rafael Gomes;Santo André;SP;2024-01-15
+543;Gabriel Martins;São Paulo;SP;2025-06-22
+544;Camila Souza;Mogi das Cruzes;SP;2025-03-21
+545;Helena Martins;Mogi das Cruzes;SP;2025-04-09
+546;Matheus Ribeiro;Santos;SP;2025-05-21
+547;Matheus Gomes;Santo André;SP;2024-05-01
+548;Juliana Silva;Santos;SP;2024-08-17
+549;Nicolas Lima;Mogi das Cruzes;SP;2024-07-27
+550;Ana Vieira;São Bernardo do Campo;SP;2024-07-14
+551;Bruno Barbosa;Diadema;SP;2024-09-29
+552;Camila Gomes;Campinas;SP;2024-10-21
+553;Helena Barbosa;Santos;SP;2025-05-21
+554;Mariana Pereira;Osasco;SP;2025-01-26
+555;Gabriel Barbosa;Osasco;SP;2024-05-13
+556;Igor Rodrigues;Mogi das Cruzes;SP;2025-03-17
+557;Daniela Santos;Santo André;SP;2024-07-30
+558;Juliana Almeida;Diadema;SP;2024-08-08
+559;Bruno Vieira;Santos;SP;2024-10-16
+560;Mariana Rodrigues;Campinas;SP;2024-07-12
+561;Carlos Gomes;Guarulhos;SP;2025-03-04
+562;Lucas Carvalho;Santos;SP;2024-07-03
+563;Fernanda Alves;Campinas;SP;2025-02-22
+564;Eduardo Fernandes;Mogi das Cruzes;SP;2024-05-29
+565;Mariana Soares;Santo André;SP;2024-01-30
+566;Thiago Lima;Santo André;SP;2024-10-24
+567;Fernanda Lima;Santos;SP;2024-09-25
+568;Camila Gomes;Osasco;SP;2024-08-29
+569;Lucas Souza;Mogi das Cruzes;SP;2025-04-06
+570;Rafael Oliveira;São Paulo;SP;2024-09-11
+571;Eduardo Pereira;Santos;SP;2025-01-13
+572;Nicolas Fernandes;Mauá;SP;2025-08-19
+573;Mariana Oliveira;Campinas;SP;2025-04-14
+574;Nicolas Silva;São Paulo;SP;2024-03-28
+575;Igor Fernandes;Diadema;SP;2024-01-11
+576;Daniela Almeida;Osasco;SP;2025-04-25
+577;Mariana Lima;Diadema;SP;2024-05-16
+578;Matheus Martins;São Bernardo do Campo;SP;2024-11-27
+579;Mariana Souza;Osasco;SP;2025-02-11
+580;Helena Lopes;Guarulhos;SP;2024-08-05
+581;Ana Barbosa;Santos;SP;2025-01-27
+582;Beatriz Costa;Mauá;SP;2025-03-09
+583;Vanessa Pereira;São Bernardo do Campo;SP;2024-09-19
+584;Carlos Almeida;Santos;SP;2024-03-15
+585;Juliana Carvalho;Mogi das Cruzes;SP;2024-04-07
+586;Daniela Rodrigues;Santos;SP;2025-07-24
+587;Bruno Santos;Campinas;SP;2024-03-01
+588;Juliana Lopes;Diadema;SP;2024-02-23
+589;Daniela Souza;Santo André;SP;2024-12-06
+590;Helena Fernandes;Osasco;SP;2024-08-28
+591;Eduardo Martins;Mauá;SP;2025-04-27
+592;Rafael Ribeiro;Osasco;SP;2024-12-28
+593;Beatriz Carvalho;Guarulhos;SP;2024-02-16
+594;Matheus Rodrigues;Guarulhos;SP;2024-01-06
+595;Larissa Souza;Santos;SP;2024-09-16
+596;Camila Barbosa;Guarulhos;SP;2025-05-31
+597;Larissa Lima;São Paulo;SP;2025-01-25
+598;Bruno Ribeiro;Campinas;SP;2024-11-05
+599;Gabriel Almeida;Campinas;SP;2025-02-08
+600;Rafael Pereira;São Paulo;SP;2025-01-14
+601;Mariana Souza;São Bernardo do Campo;SP;2024-05-15
+602;Mariana Fernandes;Guarulhos;SP;2025-07-26
+603;Mariana Santos;Mogi das Cruzes;SP;2024-02-12
+604;Nicolas Lima;São Bernardo do Campo;SP;2025-08-17
+605;Gabriel Souza;Guarulhos;SP;2024-07-02
+606;Rafael Oliveira;São Paulo;SP;2024-09-23
+607;Gabriel Barbosa;Diadema;SP;2024-06-22
+608;Ana Santos;Mauá;SP;2025-05-30
+609;Lucas Pereira;Mogi das Cruzes;SP;2025-05-19
+610;Eduardo Vieira;Santos;SP;2024-12-13
+611;Gabriel Oliveira;Diadema;SP;2025-04-24
+612;Beatriz Alves;Diadema;SP;2024-05-15
+613;Matheus Alves;Santo André;SP;2024-04-01
+614;Helena Costa;São Paulo;SP;2024-11-20
+615;Eduardo Barbosa;Osasco;SP;2025-06-27
+616;Ana Lima;São Bernardo do Campo;SP;2025-03-19
+617;Eduardo Rodrigues;Diadema;SP;2024-05-25
+618;Beatriz Lima;Guarulhos;SP;2024-09-23
+619;Fernanda Souza;São Paulo;SP;2024-04-29
+620;Ana Rodrigues;São Bernardo do Campo;SP;2024-11-16
+621;Ana Ribeiro;Mogi das Cruzes;SP;2024-02-15
+622;Helena Vieira;Guarulhos;SP;2024-05-10
+623;Lucas Silva;Mogi das Cruzes;SP;2025-05-26
+624;Fernanda Lima;São Paulo;SP;2024-10-14
+625;Bruno Rodrigues;Osasco;SP;2025-01-04
+626;Larissa Soares;Santos;SP;2025-03-16
+627;Daniela Oliveira;Mauá;SP;2024-10-16
+628;Camila Almeida;Osasco;SP;2024-09-26
+629;Mariana Soares;São Paulo;SP;2024-09-27
+630;Matheus Souza;Diadema;SP;2025-06-13
+631;Rafael Soares;Santo André;SP;2024-11-16
+632;Helena Barbosa;Santos;SP;2025-03-22
+633;Bruno Soares;São Paulo;SP;2024-06-17
+634;Juliana Almeida;Guarulhos;SP;2024-11-19
+635;Ana Santos;Santo André;SP;2025-05-18
+636;Camila Martins;Guarulhos;SP;2024-06-03
+637;Larissa Souza;São Bernardo do Campo;SP;2025-07-23
+638;Camila Almeida;Santos;SP;2025-03-26
+639;Carlos Oliveira;Guarulhos;SP;2024-02-24
+640;Lucas Barbosa;Guarulhos;SP;2024-07-12
+641;Eduardo Oliveira;São Bernardo do Campo;SP;2024-06-01
+642;Eduardo Lima;Santos;SP;2024-02-25
+643;Vanessa Vieira;Mauá;SP;2024-08-23
+644;Beatriz Costa;São Bernardo do Campo;SP;2024-07-06
+645;Nicolas Barbosa;São Bernardo do Campo;SP;2024-02-06
+646;Thiago Gomes;Santos;SP;2025-04-26
+647;Rafael Soares;São Bernardo do Campo;SP;2024-09-23
+648;Vanessa Carvalho;Diadema;SP;2024-06-16
+649;Daniela Souza;Campinas;SP;2025-04-23
+650;Beatriz Alves;Santos;SP;2025-03-22
+651;Larissa Almeida;Santos;SP;2024-04-28
+652;Helena Carvalho;Mauá;SP;2025-05-21
+653;Lucas Almeida;Guarulhos;SP;2024-02-11
+654;Nicolas Carvalho;Diadema;SP;2025-03-28
+655;Daniela Costa;Osasco;SP;2024-12-31
+656;Larissa Costa;Mogi das Cruzes;SP;2025-07-28
+657;Igor Ribeiro;Mauá;SP;2025-05-11
+658;Eduardo Lopes;Guarulhos;SP;2025-04-13
+659;Carlos Oliveira;Campinas;SP;2025-05-19
+660;Carlos Oliveira;Campinas;SP;2024-04-25
+661;Larissa Souza;Santos;SP;2024-05-31
+662;Mariana Rodrigues;Mauá;SP;2024-05-06
+663;Beatriz Santos;Santos;SP;2024-12-23
+664;Matheus Fernandes;Osasco;SP;2024-04-05
+665;Beatriz Costa;Campinas;SP;2024-07-27
+666;Daniela Carvalho;Santos;SP;2024-10-17
+667;Mariana Carvalho;Diadema;SP;2024-07-03
+668;Bruno Gomes;Mogi das Cruzes;SP;2024-06-21
+669;Vanessa Gomes;Osasco;SP;2025-06-04
+670;Mariana Souza;Osasco;SP;2024-10-06
+671;Matheus Soares;Santos;SP;2025-07-30
+672;Gabriel Rodrigues;Osasco;SP;2025-08-22
+673;Camila Pereira;Osasco;SP;2024-08-05
+674;Daniela Ribeiro;Mauá;SP;2025-08-20
+675;Beatriz Ribeiro;Mauá;SP;2024-01-05
+676;Daniela Lima;Osasco;SP;2025-06-22
+677;Matheus Pereira;Diadema;SP;2025-08-07
+678;Larissa Fernandes;São Bernardo do Campo;SP;2024-07-03
+679;Vanessa Barbosa;Diadema;SP;2025-03-02
+680;Beatriz Silva;Santos;SP;2024-03-19
+681;Vanessa Lima;São Bernardo do Campo;SP;2024-09-09
+682;Ana Ferreira;Mauá;SP;2025-05-25
+683;Igor Gomes;Santos;SP;2024-04-06
+684;Lucas Ribeiro;Santo André;SP;2024-12-02
+685;Ana Ferreira;Osasco;SP;2024-01-27
+686;Eduardo Vieira;Mogi das Cruzes;SP;2024-10-18
+687;Nicolas Oliveira;Mogi das Cruzes;SP;2024-05-04
+688;Eduardo Silva;Mauá;SP;2025-02-07
+689;Carlos Soares;São Paulo;SP;2025-01-17
+690;Gabriel Martins;São Paulo;SP;2024-04-18
+691;Larissa Almeida;Santo André;SP;2024-11-27
+692;Lucas Ferreira;Diadema;SP;2024-06-06
+693;Mariana Gomes;São Paulo;SP;2024-01-30
+694;Lucas Vieira;Santos;SP;2024-03-24
+695;Vanessa Oliveira;Campinas;SP;2025-04-16
+696;Bruno Rodrigues;Santo André;SP;2025-05-06
+697;Fernanda Barbosa;São Paulo;SP;2025-04-09
+698;Bruno Oliveira;Santo André;SP;2024-10-02
+699;Igor Almeida;São Bernardo do Campo;SP;2024-01-06
+700;Larissa Lopes;São Bernardo do Campo;SP;2024-12-03
+701;Vanessa Almeida;Osasco;SP;2024-02-14
+702;Larissa Lima;São Paulo;SP;2025-04-08
+703;Gabriel Soares;Santo André;SP;2024-11-28
+704;Daniela Ribeiro;Santos;SP;2025-08-05
+705;Larissa Souza;Santos;SP;2024-05-12
+706;Juliana Vieira;Santos;SP;2024-08-04
+707;Camila Soares;Diadema;SP;2024-02-19
+708;Juliana Santos;Diadema;SP;2024-10-16
+709;Helena Martins;Campinas;SP;2024-11-26
+710;Vanessa Santos;Guarulhos;SP;2024-02-26
+711;Ana Alves;São Paulo;SP;2024-03-13
+712;Juliana Alves;Mogi das Cruzes;SP;2025-07-14
+713;Eduardo Lima;Osasco;SP;2025-01-25
+714;Juliana Costa;Campinas;SP;2024-04-04
+715;Daniela Silva;Campinas;SP;2025-02-12
+716;Camila Carvalho;Santo André;SP;2024-09-18
+717;Fernanda Rodrigues;Osasco;SP;2024-07-01
+718;Nicolas Fernandes;Diadema;SP;2024-09-02
+719;Helena Soares;São Bernardo do Campo;SP;2025-02-12
+720;Beatriz Ribeiro;São Bernardo do Campo;SP;2024-04-01
+721;Carlos Martins;Santo André;SP;2024-01-22
+722;Bruno Carvalho;Santo André;SP;2024-08-01
+723;Ana Almeida;Guarulhos;SP;2024-06-15
+724;Carlos Costa;Diadema;SP;2025-02-01
+725;Matheus Carvalho;Mauá;SP;2025-02-16
+726;Matheus Martins;Diadema;SP;2024-10-18
+727;Larissa Gomes;São Bernardo do Campo;SP;2024-06-06
+728;Daniela Martins;Guarulhos;SP;2024-05-03
+729;Ana Costa;Osasco;SP;2024-11-01
+730;Fernanda Barbosa;Mogi das Cruzes;SP;2025-05-17
+731;Rafael Ribeiro;Campinas;SP;2025-03-18
+732;Carlos Carvalho;Mogi das Cruzes;SP;2024-11-13
+733;Daniela Pereira;Diadema;SP;2024-05-14
+734;Larissa Vieira;Guarulhos;SP;2025-01-02
+735;Nicolas Soares;Diadema;SP;2024-04-08
+736;Carlos Martins;Santo André;SP;2025-01-11
+737;Juliana Costa;São Paulo;SP;2025-06-08
+738;Helena Costa;Diadema;SP;2024-07-23
+739;Fernanda Oliveira;Mauá;SP;2025-05-16
+740;Thiago Souza;Guarulhos;SP;2025-04-01
+741;Thiago Soares;São Paulo;SP;2025-02-01
+742;Gabriel Ribeiro;Osasco;SP;2025-05-02
+743;Mariana Rodrigues;Osasco;SP;2024-10-01
+744;Helena Souza;Mauá;SP;2025-07-30
+745;Eduardo Lima;Mauá;SP;2025-03-09
+746;Gabriel Ferreira;Guarulhos;SP;2024-04-02
+747;Vanessa Rodrigues;São Bernardo do Campo;SP;2025-03-08
+748;Carlos Ferreira;Diadema;SP;2025-01-12
+749;Camila Almeida;São Paulo;SP;2024-07-09
+750;Matheus Vieira;Mauá;SP;2025-03-20
+751;Rafael Vieira;São Paulo;SP;2025-03-12
+752;Vanessa Costa;Santo André;SP;2024-04-05
+753;Lucas Rodrigues;Santos;SP;2024-02-11
+754;Rafael Oliveira;São Paulo;SP;2025-06-09
+755;Camila Almeida;Osasco;SP;2024-12-15
+756;Juliana Lima;Santos;SP;2025-04-19
+757;Matheus Santos;Diadema;SP;2024-08-17
+758;Mariana Soares;Campinas;SP;2024-06-07
+759;Carlos Gomes;Osasco;SP;2025-05-22
+760;Rafael Almeida;Santos;SP;2025-06-23
+761;Bruno Santos;São Bernardo do Campo;SP;2025-06-21
+762;Mariana Gomes;Campinas;SP;2024-03-26
+763;Carlos Oliveira;São Paulo;SP;2024-10-24
+764;Vanessa Barbosa;Mauá;SP;2025-04-24
+765;Thiago Martins;Mogi das Cruzes;SP;2025-03-23
+766;Rafael Vieira;Diadema;SP;2024-03-22
+767;Beatriz Santos;Diadema;SP;2025-05-04
+768;Rafael Vieira;Santos;SP;2024-11-03
+769;Gabriel Costa;Guarulhos;SP;2024-06-01
+770;Vanessa Lopes;São Bernardo do Campo;SP;2024-05-10
+771;Thiago Rodrigues;Mauá;SP;2024-11-03
+772;Bruno Almeida;Santo André;SP;2024-09-11
+773;Daniela Costa;Mauá;SP;2025-06-19
+774;Carlos Soares;Campinas;SP;2025-03-13
+775;Fernanda Santos;Campinas;SP;2024-10-29
+776;Helena Almeida;Osasco;SP;2025-08-05
+777;Rafael Soares;Guarulhos;SP;2024-02-18
+778;Thiago Barbosa;Mogi das Cruzes;SP;2025-07-18
+779;Fernanda Ribeiro;Diadema;SP;2024-03-19
+780;Mariana Gomes;São Paulo;SP;2024-02-16
+781;Nicolas Carvalho;Santos;SP;2025-06-09
+782;Lucas Barbosa;Mauá;SP;2024-04-20
+783;Bruno Costa;Santo André;SP;2025-06-06
+784;Carlos Costa;Guarulhos;SP;2025-03-11
+785;Daniela Fernandes;Mauá;SP;2025-02-26
+786;Nicolas Gomes;Santos;SP;2024-04-06
+787;Igor Barbosa;Mauá;SP;2025-04-20
+788;Eduardo Costa;Campinas;SP;2025-08-05
+789;Carlos Vieira;Campinas;SP;2024-09-16
+790;Eduardo Ribeiro;Mogi das Cruzes;SP;2024-12-29
+791;Juliana Martins;Santos;SP;2024-09-17
+792;Eduardo Barbosa;São Bernardo do Campo;SP;2025-08-22
+793;Carlos Gomes;Mogi das Cruzes;SP;2024-03-24
+794;Beatriz Martins;Mauá;SP;2025-05-30
+795;Lucas Rodrigues;Diadema;SP;2024-01-17
+796;Thiago Oliveira;São Bernardo do Campo;SP;2024-04-26
+797;Larissa Soares;Santos;SP;2025-04-18
+798;Mariana Silva;Diadema;SP;2024-07-02
+799;Mariana Gomes;Santos;SP;2024-07-05
+800;Fernanda Alves;São Bernardo do Campo;SP;2025-02-06
+801;Lucas Lopes;São Bernardo do Campo;SP;2024-02-16
+802;Gabriel Pereira;Guarulhos;SP;2024-03-26
+803;Eduardo Rodrigues;Santo André;SP;2025-03-02
+804;Carlos Gomes;Mauá;SP;2024-10-31
+805;Daniela Soares;Osasco;SP;2024-11-17
+806;Beatriz Soares;Diadema;SP;2025-04-10
+807;Bruno Costa;Guarulhos;SP;2025-04-05
+808;Vanessa Rodrigues;Guarulhos;SP;2024-09-28
+809;Vanessa Martins;Mauá;SP;2024-12-15
+810;Eduardo Ferreira;Mauá;SP;2024-07-10
+811;Fernanda Barbosa;Osasco;SP;2024-08-04
+812;Fernanda Almeida;Osasco;SP;2024-07-08
+813;Bruno Carvalho;São Bernardo do Campo;SP;2024-03-21
+814;Mariana Pereira;Osasco;SP;2024-09-22
+815;Rafael Barbosa;Osasco;SP;2024-04-18
+816;Juliana Almeida;Diadema;SP;2025-03-20
+817;Helena Fernandes;São Paulo;SP;2025-07-01
+818;Helena Gomes;Santo André;SP;2024-01-19
+819;Camila Alves;Campinas;SP;2024-01-06
+820;Mariana Vieira;Osasco;SP;2025-02-08
+821;Rafael Almeida;Diadema;SP;2024-04-29
+822;Juliana Martins;Mogi das Cruzes;SP;2024-01-14
+823;Thiago Soares;Diadema;SP;2024-06-24
+824;Larissa Ferreira;Campinas;SP;2025-05-03
+825;Gabriel Barbosa;Mogi das Cruzes;SP;2025-04-16
+826;Eduardo Lima;São Paulo;SP;2025-02-18
+827;Bruno Lopes;São Bernardo do Campo;SP;2025-05-13
+828;Mariana Fernandes;São Bernardo do Campo;SP;2024-11-06
+829;Daniela Soares;Osasco;SP;2025-01-04
+830;Daniela Gomes;Campinas;SP;2025-02-08
+831;Carlos Ferreira;Guarulhos;SP;2024-11-05
+832;Igor Almeida;Guarulhos;SP;2024-03-30
+833;Thiago Rodrigues;São Paulo;SP;2024-05-08
+834;Larissa Oliveira;São Bernardo do Campo;SP;2024-05-18
+835;Helena Almeida;Diadema;SP;2024-01-15
+836;Mariana Silva;Campinas;SP;2024-07-14
+837;Larissa Santos;Santo André;SP;2024-04-24
+838;Nicolas Soares;São Paulo;SP;2024-01-17
+839;Mariana Pereira;Osasco;SP;2024-07-11
+840;Nicolas Oliveira;Guarulhos;SP;2024-01-28
+841;Mariana Pereira;Santo André;SP;2024-08-02
+842;Ana Costa;Mogi das Cruzes;SP;2025-05-07
+843;Daniela Costa;Mogi das Cruzes;SP;2024-05-28
+844;Eduardo Rodrigues;São Paulo;SP;2024-09-04
+845;Bruno Gomes;Osasco;SP;2025-03-22
+846;Camila Rodrigues;São Bernardo do Campo;SP;2025-07-05
+847;Camila Almeida;Santos;SP;2024-07-14
+848;Vanessa Silva;São Bernardo do Campo;SP;2024-03-29
+849;Carlos Silva;São Bernardo do Campo;SP;2024-11-04
+850;Igor Alves;Santos;SP;2025-04-19
+851;Eduardo Fernandes;Santos;SP;2024-05-31
+852;Vanessa Soares;Santo André;SP;2025-04-30
+853;Larissa Souza;Santos;SP;2025-03-08
+854;Juliana Pereira;Mogi das Cruzes;SP;2024-01-23
+855;Juliana Souza;Diadema;SP;2024-04-29
+856;Bruno Pereira;Campinas;SP;2024-06-19
+857;Larissa Barbosa;São Paulo;SP;2024-06-05
+858;Rafael Oliveira;Mauá;SP;2025-03-31
+859;Daniela Lopes;Diadema;SP;2025-05-11
+860;Vanessa Fernandes;Santos;SP;2025-04-27
+861;Ana Soares;São Paulo;SP;2024-01-21
+862;Matheus Pereira;Santo André;SP;2025-04-05
+863;Eduardo Gomes;Campinas;SP;2025-08-22
+864;Larissa Silva;São Paulo;SP;2024-09-05
+865;Vanessa Ribeiro;Santo André;SP;2024-07-25
+866;Helena Vieira;São Bernardo do Campo;SP;2024-10-28
+867;Larissa Ferreira;Diadema;SP;2025-08-06
+868;Carlos Soares;Santo André;SP;2025-02-05
+869;Mariana Oliveira;São Paulo;SP;2024-02-22
+870;Thiago Fernandes;Mogi das Cruzes;SP;2024-12-07
+871;Thiago Soares;São Paulo;SP;2024-01-09
+872;Beatriz Silva;Guarulhos;SP;2024-04-15
+873;Nicolas Lopes;Mauá;SP;2025-03-18
+874;Bruno Martins;Santo André;SP;2025-03-01
+875;Mariana Lima;Osasco;SP;2025-05-22
+876;Ana Ribeiro;Guarulhos;SP;2025-08-15
+877;Carlos Ribeiro;São Paulo;SP;2025-07-21
+878;Helena Souza;Santo André;SP;2024-10-24
+879;Matheus Costa;Mauá;SP;2024-02-07
+880;Eduardo Santos;São Bernardo do Campo;SP;2025-05-14
+881;Mariana Fernandes;Mauá;SP;2025-02-13
+882;Lucas Ferreira;Santos;SP;2025-05-12
+883;Rafael Lopes;Guarulhos;SP;2025-06-09
+884;Fernanda Rodrigues;Osasco;SP;2025-05-14
+885;Carlos Almeida;Mogi das Cruzes;SP;2024-08-25
+886;Bruno Gomes;Diadema;SP;2024-03-03
+887;Gabriel Santos;Santos;SP;2025-06-24
+888;Gabriel Santos;Guarulhos;SP;2024-01-20
+889;Lucas Gomes;Campinas;SP;2025-03-08
+890;Thiago Martins;São Bernardo do Campo;SP;2025-08-13
+891;Beatriz Lopes;Santos;SP;2024-11-19
+892;Igor Santos;Mogi das Cruzes;SP;2025-07-20
+893;Gabriel Gomes;Santos;SP;2024-03-06
+894;Mariana Santos;São Paulo;SP;2024-10-01
+895;Lucas Lima;São Paulo;SP;2025-03-03
+896;Daniela Ribeiro;São Bernardo do Campo;SP;2025-04-29
+897;Larissa Martins;Santos;SP;2024-04-29
+898;Rafael Martins;Santo André;SP;2025-05-21
+899;Lucas Ferreira;Osasco;SP;2024-12-21
+900;Camila Lopes;Mogi das Cruzes;SP;2025-04-04
+901;Mariana Soares;Mauá;SP;2025-03-22
+902;Igor Oliveira;Campinas;SP;2024-01-22
+903;Larissa Oliveira;São Paulo;SP;2024-06-14
+904;Larissa Barbosa;Osasco;SP;2024-10-21
+905;Fernanda Fernandes;Osasco;SP;2024-07-15
+906;Juliana Costa;Osasco;SP;2025-04-25
+907;Daniela Oliveira;Santo André;SP;2024-12-18
+908;Lucas Gomes;São Bernardo do Campo;SP;2025-03-24
+909;Juliana Almeida;Santos;SP;2024-08-25
+910;Vanessa Carvalho;Santo André;SP;2025-06-03
+911;Fernanda Almeida;São Paulo;SP;2024-08-12
+912;Mariana Almeida;Santo André;SP;2024-12-13
+913;Bruno Ribeiro;Mauá;SP;2025-04-24
+914;Vanessa Carvalho;São Paulo;SP;2024-05-14
+915;Igor Santos;Santos;SP;2024-10-27
+916;Carlos Martins;Santo André;SP;2025-02-03
+917;Mariana Soares;São Bernardo do Campo;SP;2025-03-02
+918;Fernanda Silva;Campinas;SP;2025-01-03
+919;Eduardo Barbosa;Osasco;SP;2025-04-28
+920;Rafael Santos;Mauá;SP;2024-06-14
+921;Eduardo Oliveira;Campinas;SP;2024-07-31
+922;Helena Ribeiro;Guarulhos;SP;2024-10-16
+923;Mariana Martins;Mauá;SP;2024-03-29
+924;Matheus Santos;Santos;SP;2025-05-09
+925;Vanessa Rodrigues;Diadema;SP;2024-05-12
+926;Rafael Ribeiro;São Bernardo do Campo;SP;2024-06-26
+927;Mariana Almeida;Mauá;SP;2024-07-23
+928;Carlos Vieira;São Bernardo do Campo;SP;2024-06-09
+929;Eduardo Soares;Diadema;SP;2025-05-18
+930;Mariana Martins;Campinas;SP;2024-04-13
+931;Lucas Lima;Mauá;SP;2025-03-01
+932;Helena Souza;Santo André;SP;2025-05-20
+933;Ana Ferreira;Diadema;SP;2024-11-06
+934;Camila Soares;Osasco;SP;2024-08-28
+935;Nicolas Fernandes;Mogi das Cruzes;SP;2024-08-02
+936;Daniela Lima;Santos;SP;2025-07-24
+937;Igor Almeida;Campinas;SP;2024-02-18
+938;Gabriel Barbosa;São Bernardo do Campo;SP;2024-01-19
+939;Juliana Lopes;Campinas;SP;2025-01-02
+940;Gabriel Souza;Diadema;SP;2024-09-24
+941;Eduardo Oliveira;Santos;SP;2024-12-31
+942;Rafael Ferreira;São Bernardo do Campo;SP;2024-06-11
+943;Rafael Oliveira;Campinas;SP;2024-06-27
+944;Lucas Ribeiro;Santo André;SP;2025-05-30
+945;Carlos Fernandes;Santos;SP;2024-02-02
+946;Beatriz Gomes;Campinas;SP;2024-03-06
+947;Juliana Ferreira;Mauá;SP;2024-12-11
+948;Fernanda Ribeiro;Campinas;SP;2025-03-16
+949;Thiago Pereira;Diadema;SP;2024-04-26
+950;Daniela Alves;Campinas;SP;2024-08-20
+951;Eduardo Pereira;Osasco;SP;2024-05-03
+952;Camila Silva;Guarulhos;SP;2025-07-29
+953;Mariana Fernandes;Santos;SP;2024-08-17
+954;Matheus Ribeiro;Santos;SP;2025-05-13
+955;Rafael Fernandes;Guarulhos;SP;2024-09-21
+956;Eduardo Barbosa;Campinas;SP;2024-12-14
+957;Carlos Oliveira;Osasco;SP;2024-12-29
+958;Juliana Martins;Campinas;SP;2024-02-17
+959;Camila Soares;São Paulo;SP;2025-07-24
+960;Larissa Carvalho;Osasco;SP;2024-09-30
+961;Matheus Oliveira;Mauá;SP;2024-06-03
+962;Eduardo Costa;Mauá;SP;2025-06-11
+963;Carlos Almeida;Santo André;SP;2024-04-16
+964;Rafael Soares;Mogi das Cruzes;SP;2024-02-21
+965;Mariana Rodrigues;Santo André;SP;2025-03-24
+966;Beatriz Vieira;Campinas;SP;2025-04-13
+967;Fernanda Rodrigues;São Bernardo do Campo;SP;2024-04-23
+968;Larissa Soares;Guarulhos;SP;2024-04-18
+969;Bruno Souza;Campinas;SP;2024-04-14
+970;Thiago Rodrigues;Campinas;SP;2025-07-29
+971;Juliana Ferreira;São Paulo;SP;2024-02-12
+972;Fernanda Costa;Diadema;SP;2025-06-03
+973;Helena Ribeiro;Diadema;SP;2024-04-17
+974;Thiago Gomes;Santo André;SP;2024-06-20
+975;Carlos Lima;Diadema;SP;2024-04-30
+976;Gabriel Fernandes;Diadema;SP;2024-07-29
+977;Igor Rodrigues;Diadema;SP;2025-01-05
+978;Juliana Barbosa;São Bernardo do Campo;SP;2024-06-09
+979;Beatriz Oliveira;Diadema;SP;2024-10-26
+980;Thiago Ferreira;São Bernardo do Campo;SP;2025-03-28
+981;Matheus Vieira;São Bernardo do Campo;SP;2025-06-02
+982;Eduardo Ferreira;São Paulo;SP;2025-05-25
+983;Vanessa Barbosa;Osasco;SP;2024-04-11
+984;Lucas Vieira;Guarulhos;SP;2024-06-06
+985;Bruno Silva;Mogi das Cruzes;SP;2025-01-07
+986;Carlos Santos;Campinas;SP;2024-12-08
+987;Matheus Lima;Santos;SP;2024-05-21
+988;Gabriel Vieira;Diadema;SP;2024-05-05
+989;Larissa Barbosa;Mogi das Cruzes;SP;2024-07-25
+990;Ana Lopes;Osasco;SP;2025-03-25
+991;Beatriz Gomes;Campinas;SP;2025-03-01
+992;Juliana Lopes;Mauá;SP;2024-01-07
+993;Helena Martins;Mogi das Cruzes;SP;2024-09-08
+994;Juliana Almeida;Mogi das Cruzes;SP;2025-04-30
+995;Carlos Santos;Campinas;SP;2024-12-15
+996;Fernanda Almeida;Campinas;SP;2024-10-20
+997;Larissa Lopes;São Bernardo do Campo;SP;2025-06-01
+998;Rafael Alves;São Bernardo do Campo;SP;2024-06-24
+999;Lucas Barbosa;São Paulo;SP;2024-03-28
+1000;Eduardo Costa;Mauá;SP;2024-09-29
+1001;Lucas Ribeiro;São Paulo;SP;2025-01-16
+1002;Nicolas Rodrigues;Santo André;SP;2025-02-28
+1003;Mariana Soares;Mauá;SP;2025-01-04
+1004;Beatriz Souza;São Bernardo do Campo;SP;2024-09-08
+1005;Lucas Pereira;São Bernardo do Campo;SP;2024-06-04
+1006;Rafael Souza;São Bernardo do Campo;SP;2025-06-26
+1007;Igor Almeida;Guarulhos;SP;2025-03-07
+1008;Helena Rodrigues;Campinas;SP;2024-08-21
+1009;Daniela Santos;Mogi das Cruzes;SP;2024-05-21
+1010;Juliana Martins;Diadema;SP;2025-03-15
+1011;Vanessa Carvalho;Mogi das Cruzes;SP;2025-02-27
+1012;Helena Ferreira;Osasco;SP;2025-02-23
+1013;Lucas Vieira;Mogi das Cruzes;SP;2025-04-14
+1014;Lucas Alves;São Bernardo do Campo;SP;2025-06-12
+1015;Fernanda Lopes;Mauá;SP;2025-01-05
+1016;Thiago Almeida;Mauá;SP;2024-01-31
+1017;Camila Gomes;São Paulo;SP;2025-03-29
+1018;Camila Silva;Diadema;SP;2024-05-29
+1019;Carlos Martins;Mauá;SP;2024-01-11
+1020;Thiago Almeida;Osasco;SP;2025-06-13
+1021;Helena Alves;Mauá;SP;2024-03-12
+1022;Matheus Ribeiro;Diadema;SP;2024-03-27
+1023;Bruno Santos;Diadema;SP;2024-12-12
+1024;Juliana Lopes;Diadema;SP;2024-11-18
+1025;Vanessa Lopes;Santos;SP;2025-02-15
+1026;Juliana Fernandes;Santos;SP;2024-06-17
+1027;Ana Souza;São Paulo;SP;2025-03-20
+1028;Larissa Rodrigues;Santos;SP;2024-03-03
+1029;Igor Ribeiro;Guarulhos;SP;2025-02-06
+1030;Nicolas Ribeiro;Mogi das Cruzes;SP;2024-02-07
+1031;Bruno Martins;Mogi das Cruzes;SP;2024-06-03
+1032;Bruno Vieira;São Paulo;SP;2025-08-11
+1033;Beatriz Alves;São Bernardo do Campo;SP;2024-02-29
+1034;Mariana Fernandes;Santos;SP;2025-06-16
+1035;Juliana Oliveira;Santos;SP;2024-10-29
+1036;Nicolas Soares;Mauá;SP;2025-03-05
+1037;Rafael Fernandes;São Paulo;SP;2025-02-15
+1038;Igor Barbosa;Santos;SP;2025-07-20
+1039;Vanessa Souza;Mauá;SP;2024-11-07
+1040;Eduardo Souza;Santos;SP;2024-11-17
+1041;Nicolas Ribeiro;São Paulo;SP;2024-12-18
+1042;Lucas Fernandes;São Bernardo do Campo;SP;2024-01-09
+1043;Mariana Rodrigues;Santo André;SP;2024-10-13
+1044;Gabriel Barbosa;Mogi das Cruzes;SP;2025-06-24
+1045;Thiago Martins;Mauá;SP;2024-05-30
+1046;Thiago Santos;Santo André;SP;2025-02-17
+1047;Bruno Santos;Santo André;SP;2025-04-01
+1048;Eduardo Costa;Mogi das Cruzes;SP;2024-07-29
+1049;Camila Soares;Campinas;SP;2025-07-11
+1050;Rafael Rodrigues;Mauá;SP;2025-03-28
+1051;Vanessa Soares;Santo André;SP;2024-12-19
+1052;Eduardo Costa;Diadema;SP;2025-02-18
+1053;Vanessa Costa;São Paulo;SP;2024-07-21
+1054;Fernanda Martins;Santos;SP;2024-11-04
+1055;Vanessa Gomes;Campinas;SP;2024-03-27
+1056;Matheus Costa;Mogi das Cruzes;SP;2024-02-07
+1057;Thiago Soares;Mogi das Cruzes;SP;2025-07-04
+1058;Beatriz Lopes;Guarulhos;SP;2024-12-08
+1059;Matheus Gomes;Santos;SP;2025-02-03
+1060;Camila Silva;Guarulhos;SP;2024-05-09
+1061;Mariana Costa;Campinas;SP;2025-06-16
+1062;Daniela Carvalho;Diadema;SP;2025-07-07
+1063;Matheus Gomes;Santos;SP;2024-10-17
+1064;Ana Barbosa;Campinas;SP;2024-08-06
+1065;Camila Lima;Mauá;SP;2024-04-05
+1066;Matheus Vieira;Mauá;SP;2025-06-07
+1067;Helena Santos;Osasco;SP;2025-07-19
+1068;Matheus Lopes;Mogi das Cruzes;SP;2024-11-15
+1069;Fernanda Soares;São Paulo;SP;2025-06-17
+1070;Vanessa Martins;Campinas;SP;2024-12-14
+1071;Eduardo Pereira;Mogi das Cruzes;SP;2024-06-12
+1072;Bruno Vieira;Diadema;SP;2024-01-24
+1073;Daniela Alves;São Bernardo do Campo;SP;2024-01-29
+1074;Ana Almeida;Mogi das Cruzes;SP;2025-07-06
+1075;Lucas Carvalho;Guarulhos;SP;2024-09-21
+1076;Eduardo Carvalho;Santo André;SP;2024-09-04
+1077;Gabriel Carvalho;Osasco;SP;2024-11-07
+1078;Thiago Barbosa;Campinas;SP;2025-03-08
+1079;Camila Santos;Guarulhos;SP;2025-06-01
+1080;Eduardo Soares;Guarulhos;SP;2024-04-23
+1081;Gabriel Fernandes;Guarulhos;SP;2024-03-02
+1082;Lucas Lopes;Mogi das Cruzes;SP;2025-01-16
+1083;Thiago Martins;Osasco;SP;2024-09-22
+1084;Lucas Ferreira;Guarulhos;SP;2025-06-03
+1085;Rafael Fernandes;Santos;SP;2024-12-28
+1086;Lucas Fernandes;Mauá;SP;2024-05-06
+1087;Mariana Lima;Santos;SP;2024-02-18
+1088;Vanessa Lopes;Diadema;SP;2024-05-07
+1089;Gabriel Pereira;Campinas;SP;2025-04-04
+1090;Igor Fernandes;Mauá;SP;2024-11-01
+1091;Juliana Pereira;Santos;SP;2025-08-09
+1092;Juliana Gomes;Mauá;SP;2024-01-06
+1093;Gabriel Lopes;São Paulo;SP;2025-04-09
+1094;Lucas Lopes;Campinas;SP;2024-12-13
+1095;Mariana Fernandes;Osasco;SP;2024-08-29
+1096;Igor Gomes;Diadema;SP;2025-08-18
+1097;Daniela Vieira;Campinas;SP;2025-08-02
+1098;Beatriz Martins;Campinas;SP;2025-06-30
+1099;Nicolas Ribeiro;Campinas;SP;2024-08-27
+1100;Eduardo Gomes;Campinas;SP;2024-12-24
+1101;Bruno Gomes;São Paulo;SP;2024-11-02
+1102;Carlos Ribeiro;Mauá;SP;2024-10-18
+1103;Rafael Lima;Santo André;SP;2025-08-09
+1104;Camila Alves;Santo André;SP;2024-05-23
+1105;Gabriel Fernandes;Mogi das Cruzes;SP;2025-01-21
+1106;Igor Fernandes;Santo André;SP;2025-06-16
+1107;Igor Rodrigues;Campinas;SP;2024-09-10
+1108;Daniela Barbosa;Guarulhos;SP;2024-04-17
+1109;Matheus Pereira;Campinas;SP;2024-12-01
+1110;Helena Santos;São Bernardo do Campo;SP;2025-06-12
+1111;Thiago Pereira;São Paulo;SP;2025-08-19
+1112;Helena Santos;Diadema;SP;2024-07-16
+1113;Daniela Carvalho;Santo André;SP;2025-01-04
+1114;Lucas Lopes;São Paulo;SP;2025-04-10
+1115;Daniela Rodrigues;Mogi das Cruzes;SP;2024-04-10
+1116;Ana Fernandes;Mogi das Cruzes;SP;2024-05-30
+1117;Fernanda Carvalho;Mogi das Cruzes;SP;2025-03-11
+1118;Camila Lopes;Santos;SP;2025-02-25
+1119;Gabriel Gomes;São Paulo;SP;2024-03-24
+1120;Lucas Gomes;Diadema;SP;2024-04-04
+1121;Bruno Oliveira;Mogi das Cruzes;SP;2024-03-04
+1122;Matheus Pereira;São Bernardo do Campo;SP;2025-03-11
+1123;Beatriz Santos;São Bernardo do Campo;SP;2024-05-13
+1124;Fernanda Carvalho;Diadema;SP;2025-05-02
+1125;Fernanda Santos;Mogi das Cruzes;SP;2024-08-07
+1126;Nicolas Lopes;Mogi das Cruzes;SP;2025-04-01
+1127;Fernanda Gomes;Mauá;SP;2024-03-20
+1128;Bruno Silva;Mogi das Cruzes;SP;2025-01-13
+1129;Juliana Vieira;Guarulhos;SP;2025-06-22
+1130;Vanessa Souza;Diadema;SP;2025-02-16
+1131;Lucas Gomes;Diadema;SP;2025-07-26
+1132;Rafael Fernandes;São Paulo;SP;2025-06-15
+1133;Thiago Lopes;São Bernardo do Campo;SP;2025-02-08
+1134;Eduardo Soares;Santos;SP;2024-09-27
+1135;Rafael Lima;Santo André;SP;2025-08-21
+1136;Gabriel Souza;Diadema;SP;2025-05-25
+1137;Lucas Ferreira;Santos;SP;2025-03-09
+1138;Rafael Lima;São Bernardo do Campo;SP;2025-03-26
+1139;Fernanda Silva;São Paulo;SP;2025-05-16
+1140;Lucas Gomes;Campinas;SP;2025-03-02
+1141;Matheus Alves;Campinas;SP;2024-06-15
+1142;Fernanda Barbosa;São Paulo;SP;2024-05-27
+1143;Nicolas Carvalho;Osasco;SP;2025-06-01
+1144;Thiago Costa;São Paulo;SP;2024-05-10
+1145;Carlos Martins;Campinas;SP;2025-05-11
+1146;Daniela Ferreira;São Paulo;SP;2025-04-13
+1147;Eduardo Lopes;Diadema;SP;2024-05-12
+1148;Lucas Pereira;Diadema;SP;2025-06-09
+1149;Ana Lima;Santo André;SP;2025-06-25
+1150;Nicolas Pereira;Osasco;SP;2024-04-30
+1151;Rafael Lima;Guarulhos;SP;2024-08-05
+1152;Lucas Gomes;São Paulo;SP;2025-04-11
+1153;Matheus Vieira;Guarulhos;SP;2025-04-29
+1154;Ana Lima;Mauá;SP;2024-02-03
+1155;Mariana Pereira;Campinas;SP;2024-06-09
+1156;Bruno Souza;Campinas;SP;2025-07-26
+1157;Rafael Gomes;Santo André;SP;2025-01-13
+1158;Fernanda Martins;Diadema;SP;2024-05-01
+1159;Thiago Gomes;Diadema;SP;2025-02-22
+1160;Daniela Gomes;Diadema;SP;2024-04-22
+1161;Mariana Barbosa;Santos;SP;2024-05-03
+1162;Helena Pereira;Campinas;SP;2025-01-13
+1163;Eduardo Lopes;Mogi das Cruzes;SP;2025-08-08
+1164;Eduardo Almeida;Diadema;SP;2024-10-23
+1165;Vanessa Ribeiro;Osasco;SP;2024-02-11
+1166;Larissa Fernandes;São Paulo;SP;2025-06-19
+1167;Camila Fernandes;Guarulhos;SP;2024-06-05
+1168;Gabriel Pereira;Santo André;SP;2024-04-30
+1169;Vanessa Oliveira;Osasco;SP;2025-01-15
+1170;Thiago Almeida;Osasco;SP;2024-11-08
+1171;Thiago Ribeiro;Mauá;SP;2025-01-18
+1172;Carlos Vieira;Guarulhos;SP;2024-11-06
+1173;Daniela Santos;Mauá;SP;2024-10-28
+1174;Beatriz Soares;Santos;SP;2025-05-12
+1175;Gabriel Vieira;Guarulhos;SP;2024-01-29
+1176;Beatriz Rodrigues;Santo André;SP;2024-05-26
+1177;Fernanda Costa;Mogi das Cruzes;SP;2024-05-25
+1178;Thiago Almeida;Campinas;SP;2025-03-07
+1179;Daniela Alves;Guarulhos;SP;2024-02-19
+1180;Matheus Lopes;Santo André;SP;2024-11-08
+1181;Carlos Soares;Osasco;SP;2024-10-17
+1182;Rafael Santos;Santos;SP;2024-08-08
+1183;Rafael Rodrigues;Mauá;SP;2024-07-06
+1184;Thiago Carvalho;Santos;SP;2025-05-15
+1185;Rafael Vieira;São Bernardo do Campo;SP;2024-01-03
+1186;Bruno Fernandes;São Bernardo do Campo;SP;2024-05-05
+1187;Rafael Gomes;Diadema;SP;2025-07-14
+1188;Ana Martins;São Paulo;SP;2024-12-23
+1189;Igor Silva;Guarulhos;SP;2024-03-10
+1190;Gabriel Vieira;Diadema;SP;2024-02-15
+1191;Carlos Santos;Santos;SP;2025-03-03
+1192;Larissa Ribeiro;Guarulhos;SP;2025-05-07
+1193;Carlos Fernandes;Mogi das Cruzes;SP;2025-08-09
+1194;Bruno Oliveira;Diadema;SP;2024-11-13
+1195;Camila Santos;Santo André;SP;2025-08-02
+1196;Juliana Carvalho;Mauá;SP;2025-04-08
+1197;Fernanda Rodrigues;Diadema;SP;2024-12-11
+1198;Larissa Ribeiro;Osasco;SP;2025-01-21
+1199;Nicolas Almeida;Santo André;SP;2025-05-01
+1200;Nicolas Martins;Santos;SP;2024-05-15
+1201;Carlos Fernandes;Diadema;SP;2024-05-21
+1202;Eduardo Ribeiro;Diadema;SP;2025-05-31
+1203;Daniela Ferreira;Osasco;SP;2025-04-16
+1204;Beatriz Martins;Campinas;SP;2025-04-05
+1205;Thiago Rodrigues;Diadema;SP;2025-04-04
+1206;Helena Silva;Diadema;SP;2024-06-01
+1207;Ana Gomes;Mogi das Cruzes;SP;2024-11-29
+1208;Rafael Fernandes;Santos;SP;2024-04-01
+1209;Larissa Fernandes;Mogi das Cruzes;SP;2025-02-23
+1210;Nicolas Pereira;Mogi das Cruzes;SP;2025-01-31
+1211;Helena Almeida;Campinas;SP;2024-08-26
+1212;Mariana Rodrigues;Diadema;SP;2025-02-08
+1213;Igor Alves;São Bernardo do Campo;SP;2024-12-13
+1214;Daniela Santos;Santo André;SP;2025-07-07
+1215;Larissa Barbosa;São Bernardo do Campo;SP;2024-02-16
+1216;Ana Pereira;São Paulo;SP;2025-03-29
+1217;Gabriel Oliveira;Guarulhos;SP;2024-10-11
+1218;Daniela Barbosa;São Paulo;SP;2024-03-31
+1219;Bruno Almeida;Mogi das Cruzes;SP;2024-06-18
+1220;Vanessa Santos;Guarulhos;SP;2024-01-26
+1221;Helena Santos;São Bernardo do Campo;SP;2025-08-08
+1222;Nicolas Almeida;Diadema;SP;2024-11-12
+1223;Helena Fernandes;Mauá;SP;2025-07-28
+1224;Gabriel Santos;Mauá;SP;2024-05-06
+1225;Eduardo Soares;São Paulo;SP;2025-07-26
+1226;Juliana Pereira;Osasco;SP;2024-03-28
+1227;Matheus Costa;Osasco;SP;2024-07-16
+1228;Matheus Barbosa;Santos;SP;2025-07-08
+1229;Lucas Pereira;São Bernardo do Campo;SP;2025-08-13
+1230;Juliana Rodrigues;São Paulo;SP;2024-02-24
+1231;Thiago Pereira;São Bernardo do Campo;SP;2025-08-06
+1232;Larissa Gomes;Santo André;SP;2025-06-18
+1233;Igor Santos;Santo André;SP;2024-07-12
+1234;Beatriz Vieira;Guarulhos;SP;2025-05-02
+1235;Fernanda Carvalho;Santo André;SP;2025-05-29
+1236;Beatriz Lopes;Santo André;SP;2024-01-20
+1237;Bruno Ribeiro;Santos;SP;2024-05-03
+1238;Nicolas Soares;Santos;SP;2025-06-28
+1239;Lucas Carvalho;Osasco;SP;2024-07-03
+1240;Larissa Rodrigues;São Paulo;SP;2024-01-20
+1241;Juliana Martins;Guarulhos;SP;2024-10-08
+1242;Fernanda Fernandes;Osasco;SP;2024-07-29
+1243;Camila Pereira;Osasco;SP;2024-09-08
+1244;Helena Gomes;Mauá;SP;2025-08-16
+1245;Eduardo Almeida;Diadema;SP;2025-03-30
+1246;Bruno Fernandes;Diadema;SP;2024-03-27
+1247;Larissa Carvalho;São Paulo;SP;2025-06-30
+1248;Beatriz Soares;Campinas;SP;2024-11-24
+1249;Eduardo Martins;São Bernardo do Campo;SP;2025-02-15
+1250;Helena Lima;Osasco;SP;2024-02-16
+1251;Gabriel Costa;Osasco;SP;2025-05-18
+1252;Carlos Almeida;Mogi das Cruzes;SP;2024-01-24
+1253;Mariana Oliveira;Mogi das Cruzes;SP;2024-12-14
+1254;Beatriz Alves;São Paulo;SP;2025-03-23
+1255;Bruno Lima;Campinas;SP;2024-07-03
+1256;Nicolas Barbosa;Mogi das Cruzes;SP;2025-02-28
+1257;Vanessa Santos;Campinas;SP;2024-01-25
+1258;Carlos Alves;Mogi das Cruzes;SP;2025-06-24
+1259;Matheus Fernandes;Santos;SP;2024-11-20
+1260;Gabriel Lopes;Osasco;SP;2025-01-26
+1261;Gabriel Costa;Mogi das Cruzes;SP;2024-09-20
+1262;Juliana Silva;Mauá;SP;2024-04-03
+1263;Gabriel Alves;São Paulo;SP;2024-04-27
+1264;Daniela Lopes;Santos;SP;2024-04-11
+1265;Helena Barbosa;Santo André;SP;2025-07-08
+1266;Gabriel Martins;Diadema;SP;2024-06-21
+1267;Helena Fernandes;Osasco;SP;2024-10-19
+1268;Lucas Gomes;Santos;SP;2024-05-27
+1269;Nicolas Almeida;Santos;SP;2024-07-06
+1270;Beatriz Ribeiro;São Paulo;SP;2024-09-18
+1271;Juliana Lima;São Bernardo do Campo;SP;2024-04-01
+1272;Mariana Soares;Diadema;SP;2024-06-06
+1273;Camila Almeida;Osasco;SP;2024-11-10
+1274;Daniela Lopes;Osasco;SP;2025-02-21
+1275;Lucas Alves;Guarulhos;SP;2024-06-22
+1276;Mariana Costa;Campinas;SP;2024-03-01
+1277;Larissa Santos;Santo André;SP;2024-11-29
+1278;Matheus Pereira;São Paulo;SP;2024-07-04
+1279;Eduardo Silva;Osasco;SP;2024-01-28
+1280;Igor Fernandes;Mauá;SP;2024-02-29
+1281;Matheus Vieira;Santos;SP;2024-11-01
+1282;Larissa Gomes;Campinas;SP;2025-02-03
+1283;Eduardo Alves;Diadema;SP;2024-04-11
+1284;Lucas Pereira;Diadema;SP;2024-11-23
+1285;Nicolas Vieira;Mauá;SP;2024-05-25
+1286;Helena Lopes;Campinas;SP;2025-02-26
+1287;Beatriz Costa;Diadema;SP;2024-11-27
+1288;Igor Lopes;Guarulhos;SP;2024-09-21
+1289;Camila Almeida;Santo André;SP;2025-01-19
+1290;Fernanda Ribeiro;Osasco;SP;2024-05-03
+1291;Fernanda Rodrigues;São Paulo;SP;2024-02-23
+1292;Beatriz Lopes;Santo André;SP;2024-07-26
+1293;Fernanda Fernandes;Mauá;SP;2024-09-02
+1294;Bruno Soares;Guarulhos;SP;2025-08-23
+1295;Bruno Oliveira;Mogi das Cruzes;SP;2024-08-30
+1296;Bruno Silva;São Bernardo do Campo;SP;2025-05-19
+1297;Larissa Rodrigues;Osasco;SP;2025-06-04
+1298;Helena Oliveira;Mogi das Cruzes;SP;2025-05-31
+1299;Eduardo Silva;Santo André;SP;2025-01-29
+1300;Gabriel Soares;São Bernardo do Campo;SP;2024-04-27
+1301;Rafael Ribeiro;Santos;SP;2024-10-02
+1302;Bruno Barbosa;Santo André;SP;2024-03-03
+1303;Vanessa Lopes;Campinas;SP;2024-11-21
+1304;Camila Silva;Guarulhos;SP;2025-04-20
+1305;Ana Fernandes;Osasco;SP;2025-07-20
+1306;Beatriz Carvalho;São Paulo;SP;2025-02-20
+1307;Ana Silva;São Bernardo do Campo;SP;2024-03-08
+1308;Thiago Lima;Guarulhos;SP;2025-05-10
+1309;Beatriz Gomes;Mogi das Cruzes;SP;2024-01-30
+1310;Ana Soares;Santos;SP;2025-02-21
+1311;Larissa Ferreira;São Paulo;SP;2024-08-27
+1312;Daniela Souza;Mogi das Cruzes;SP;2024-01-20
+1313;Thiago Rodrigues;Santos;SP;2024-10-02
+1314;Helena Alves;Campinas;SP;2025-07-21
+1315;Vanessa Soares;São Bernardo do Campo;SP;2025-08-23
+1316;Igor Ribeiro;Osasco;SP;2024-04-13
+1317;Igor Martins;Mogi das Cruzes;SP;2024-09-09
+1318;Carlos Ribeiro;Santos;SP;2025-07-22
+1319;Nicolas Almeida;Santo André;SP;2024-05-08
+1320;Matheus Pereira;Osasco;SP;2024-11-07
+1321;Helena Gomes;Campinas;SP;2025-08-04
+1322;Carlos Santos;Guarulhos;SP;2025-02-20
+1323;Carlos Martins;Santos;SP;2025-04-01
+1324;Nicolas Martins;Campinas;SP;2024-03-26
+1325;Beatriz Lopes;São Bernardo do Campo;SP;2025-05-27
+1326;Bruno Silva;São Paulo;SP;2024-07-27
+1327;Fernanda Oliveira;Mogi das Cruzes;SP;2024-05-25
+1328;Camila Carvalho;Mauá;SP;2025-01-17
+1329;Lucas Vieira;Santos;SP;2025-07-07
+1330;Daniela Soares;Guarulhos;SP;2024-06-21
+1331;Bruno Pereira;São Paulo;SP;2024-09-08
+1332;Gabriel Vieira;Santo André;SP;2025-07-04
+1333;Camila Lima;São Paulo;SP;2025-03-09
+1334;Bruno Oliveira;Diadema;SP;2025-07-22
+1335;Igor Fernandes;Guarulhos;SP;2025-04-07
+1336;Matheus Santos;Osasco;SP;2024-02-12
+1337;Fernanda Costa;Mogi das Cruzes;SP;2024-01-02
+1338;Ana Alves;São Paulo;SP;2025-04-20
+1339;Matheus Rodrigues;Guarulhos;SP;2024-10-23
+1340;Nicolas Oliveira;Santos;SP;2024-06-20
+1341;Juliana Ferreira;Santo André;SP;2024-01-01
+1342;Matheus Pereira;São Paulo;SP;2024-03-02
+1343;Matheus Martins;Diadema;SP;2025-05-08
+1344;Beatriz Costa;Santo André;SP;2024-10-06
+1345;Nicolas Rodrigues;São Bernardo do Campo;SP;2024-09-13
+1346;Carlos Soares;Osasco;SP;2025-01-24
+1347;Mariana Santos;São Bernardo do Campo;SP;2024-12-25
+1348;Daniela Carvalho;São Bernardo do Campo;SP;2024-08-05
+1349;Helena Oliveira;Santo André;SP;2025-08-22
+1350;Lucas Barbosa;Santo André;SP;2025-06-06
+1351;Vanessa Barbosa;Santos;SP;2024-10-15
+1352;Nicolas Costa;Osasco;SP;2024-02-16
+1353;Ana Lima;Mogi das Cruzes;SP;2024-06-14
+1354;Rafael Lopes;Guarulhos;SP;2025-06-30
+1355;Helena Ribeiro;Santo André;SP;2025-07-30
+1356;Beatriz Martins;Campinas;SP;2024-03-12
+1357;Larissa Ferreira;Campinas;SP;2024-11-03
+1358;Matheus Martins;Santo André;SP;2024-04-01
+1359;Carlos Barbosa;Guarulhos;SP;2025-02-08
+1360;Juliana Pereira;São Paulo;SP;2024-05-05
+1361;Carlos Oliveira;Diadema;SP;2024-05-23
+1362;Igor Rodrigues;Santos;SP;2025-07-23
+1363;Nicolas Rodrigues;Santos;SP;2024-10-13
+1364;Nicolas Costa;Guarulhos;SP;2025-03-18
+1365;Mariana Souza;São Bernardo do Campo;SP;2024-08-03
+1366;Carlos Silva;Santos;SP;2025-05-31
+1367;Juliana Almeida;Osasco;SP;2024-11-21
+1368;Mariana Lima;Santos;SP;2024-12-16
+1369;Daniela Rodrigues;Osasco;SP;2024-09-24
+1370;Carlos Ferreira;Santo André;SP;2025-04-08
+1371;Larissa Almeida;Campinas;SP;2024-10-06
+1372;Beatriz Fernandes;Santo André;SP;2024-09-08
+1373;Thiago Carvalho;Diadema;SP;2024-11-25
+1374;Daniela Silva;São Bernardo do Campo;SP;2024-12-15
+1375;Carlos Ribeiro;Campinas;SP;2024-08-03
+1376;Beatriz Oliveira;Guarulhos;SP;2025-04-15
+1377;Vanessa Barbosa;Santo André;SP;2024-12-02
+1378;Lucas Martins;Diadema;SP;2024-01-17
+1379;Ana Gomes;Osasco;SP;2024-05-16
+1380;Larissa Martins;Santos;SP;2024-01-03
+1381;Carlos Fernandes;Mogi das Cruzes;SP;2025-05-02
+1382;Helena Vieira;São Paulo;SP;2024-01-05
+1383;Thiago Ferreira;Campinas;SP;2024-01-10
+1384;Nicolas Ferreira;São Paulo;SP;2024-06-26
+1385;Eduardo Lima;Mogi das Cruzes;SP;2025-02-27
+1386;Juliana Lima;São Paulo;SP;2025-07-23
+1387;Camila Rodrigues;Guarulhos;SP;2025-05-15
+1388;Carlos Ferreira;Mauá;SP;2025-02-06
+1389;Larissa Lima;São Paulo;SP;2025-07-05
+1390;Larissa Gomes;Guarulhos;SP;2024-03-24
+1391;Camila Oliveira;Mauá;SP;2024-03-20
+1392;Mariana Lima;Mauá;SP;2025-07-05
+1393;Helena Lopes;Campinas;SP;2024-02-01
+1394;Vanessa Barbosa;Diadema;SP;2025-03-31
+1395;Gabriel Almeida;Diadema;SP;2024-05-06
+1396;Daniela Rodrigues;Mogi das Cruzes;SP;2024-12-27
+1397;Juliana Silva;Diadema;SP;2025-01-20
+1398;Nicolas Costa;Osasco;SP;2025-01-01
+1399;Vanessa Martins;Santo André;SP;2025-01-31
+1400;Lucas Almeida;Osasco;SP;2024-06-30
+1401;Lucas Carvalho;São Bernardo do Campo;SP;2024-01-09
+1402;Vanessa Rodrigues;Santos;SP;2024-05-07
+1403;Juliana Costa;Guarulhos;SP;2025-04-18
+1404;Vanessa Alves;Mogi das Cruzes;SP;2025-01-14
+1405;Camila Costa;Diadema;SP;2024-07-16
+1406;Fernanda Martins;Campinas;SP;2025-03-31
+1407;Lucas Gomes;Guarulhos;SP;2024-01-10
+1408;Camila Vieira;Mogi das Cruzes;SP;2024-08-14
+1409;Helena Costa;Guarulhos;SP;2024-01-21
+1410;Nicolas Lima;Mogi das Cruzes;SP;2024-10-14
+1411;Nicolas Ribeiro;Santo André;SP;2025-01-01
+1412;Daniela Vieira;Mogi das Cruzes;SP;2024-07-15
+1413;Gabriel Vieira;Mogi das Cruzes;SP;2024-04-02
+1414;Beatriz Ferreira;São Bernardo do Campo;SP;2024-11-06
+1415;Beatriz Silva;São Bernardo do Campo;SP;2024-08-14
+1416;Rafael Alves;Campinas;SP;2024-08-27
+1417;Rafael Gomes;Diadema;SP;2025-05-20
+1418;Carlos Carvalho;Santo André;SP;2025-01-06
+1419;Camila Rodrigues;Osasco;SP;2024-02-07
+1420;Juliana Pereira;Mauá;SP;2024-10-14
+1421;Igor Rodrigues;Campinas;SP;2025-05-19
+1422;Larissa Martins;Osasco;SP;2024-08-02
+1423;Carlos Almeida;Osasco;SP;2024-01-08
+1424;Vanessa Lopes;Mogi das Cruzes;SP;2024-07-19
+1425;Matheus Martins;Mogi das Cruzes;SP;2025-02-09
+1426;Beatriz Soares;São Paulo;SP;2024-04-23
+1427;Larissa Fernandes;Guarulhos;SP;2024-10-11
+1428;Bruno Ribeiro;Mogi das Cruzes;SP;2025-08-05
+1429;Beatriz Barbosa;Guarulhos;SP;2025-05-27
+1430;Carlos Souza;Osasco;SP;2025-05-20
+1431;Helena Ribeiro;Mogi das Cruzes;SP;2024-06-23
+1432;Fernanda Barbosa;Mogi das Cruzes;SP;2025-07-19
+1433;Bruno Vieira;Campinas;SP;2024-07-17
+1434;Nicolas Costa;Santo André;SP;2025-08-02
+1435;Larissa Souza;Osasco;SP;2025-08-01
+1436;Ana Souza;Diadema;SP;2024-06-28
+1437;Igor Pereira;Diadema;SP;2024-03-07
+1438;Thiago Soares;Campinas;SP;2024-05-11
+1439;Beatriz Vieira;Santos;SP;2024-03-07
+1440;Matheus Pereira;Guarulhos;SP;2024-05-10
+1441;Rafael Ribeiro;Mauá;SP;2024-09-22
+1442;Nicolas Almeida;Guarulhos;SP;2025-08-06
+1443;Matheus Soares;Osasco;SP;2024-08-21
+1444;Eduardo Ribeiro;Santos;SP;2025-06-19
+1445;Ana Lopes;Guarulhos;SP;2024-10-07
+1446;Daniela Gomes;Santo André;SP;2024-07-15
+1447;Larissa Oliveira;Santos;SP;2024-01-24
+1448;Daniela Rodrigues;Mogi das Cruzes;SP;2025-06-29
+1449;Mariana Gomes;Mauá;SP;2024-09-15
+1450;Lucas Almeida;Diadema;SP;2025-07-27
+1451;Gabriel Soares;Mauá;SP;2025-04-09
+1452;Camila Ribeiro;São Bernardo do Campo;SP;2024-01-03
+1453;Camila Souza;Diadema;SP;2025-03-13
+1454;Rafael Almeida;São Bernardo do Campo;SP;2024-02-23
+1455;Lucas Oliveira;Santos;SP;2024-11-26
+1456;Juliana Santos;Campinas;SP;2025-03-18
+1457;Daniela Silva;Mogi das Cruzes;SP;2025-02-20
+1458;Lucas Souza;Mauá;SP;2024-10-07
+1459;Fernanda Pereira;Guarulhos;SP;2024-05-04
+1460;Thiago Ferreira;Osasco;SP;2025-06-14
+1461;Beatriz Ferreira;São Bernardo do Campo;SP;2025-04-22
+1462;Lucas Fernandes;Diadema;SP;2025-05-22
+1463;Larissa Almeida;Mauá;SP;2025-01-05
+1464;Helena Martins;Mauá;SP;2025-06-13
+1465;Fernanda Ferreira;Diadema;SP;2024-02-14
+1466;Larissa Martins;Osasco;SP;2024-08-17
+1467;Ana Barbosa;Santos;SP;2024-02-18
+1468;Gabriel Almeida;São Bernardo do Campo;SP;2024-10-11
+1469;Matheus Carvalho;Campinas;SP;2025-03-06
+1470;Nicolas Silva;Guarulhos;SP;2025-06-29
+1471;Gabriel Alves;Diadema;SP;2025-04-04
+1472;Igor Oliveira;Mogi das Cruzes;SP;2024-11-19
+1473;Matheus Souza;Guarulhos;SP;2024-01-06
+1474;Beatriz Ferreira;Diadema;SP;2025-02-05
+1475;Mariana Costa;Diadema;SP;2024-07-18
+1476;Gabriel Almeida;Mogi das Cruzes;SP;2024-12-08
+1477;Daniela Lima;Osasco;SP;2024-03-24
+1478;Camila Soares;Santos;SP;2025-08-08
+1479;Lucas Barbosa;Guarulhos;SP;2024-01-26
+1480;Nicolas Barbosa;Mogi das Cruzes;SP;2024-08-19
+1481;Nicolas Vieira;Campinas;SP;2025-03-09
+1482;Daniela Ribeiro;Santo André;SP;2024-03-17
+1483;Mariana Almeida;Mauá;SP;2024-09-12
+1484;Vanessa Ferreira;Guarulhos;SP;2024-07-20
+1485;Juliana Barbosa;Diadema;SP;2024-06-17
+1486;Matheus Oliveira;Guarulhos;SP;2024-12-03
+1487;Eduardo Costa;Diadema;SP;2024-11-14
+1488;Daniela Pereira;Mauá;SP;2024-03-05
+1489;Juliana Souza;Osasco;SP;2024-04-09
+1490;Fernanda Ribeiro;Mogi das Cruzes;SP;2024-01-29
+1491;Eduardo Soares;São Paulo;SP;2025-05-06
+1492;Nicolas Carvalho;Guarulhos;SP;2025-03-18
+1493;Vanessa Rodrigues;São Bernardo do Campo;SP;2024-01-25
+1494;Matheus Martins;Campinas;SP;2024-12-08
+1495;Larissa Ferreira;Diadema;SP;2024-09-13
+1496;Camila Fernandes;São Paulo;SP;2024-09-10
+1497;Fernanda Fernandes;Campinas;SP;2024-04-20
+1498;Fernanda Lopes;Campinas;SP;2025-04-29
+1499;Juliana Rodrigues;Mogi das Cruzes;SP;2024-09-01
+1500;Fernanda Costa;Santos;SP;2024-12-14
+1501;Rafael Barbosa;Santo André;SP;2024-02-25
+1502;Bruno Ribeiro;Mauá;SP;2024-12-07
+1503;Ana Lopes;Diadema;SP;2025-06-16
+1504;Eduardo Alves;Diadema;SP;2024-08-30
+1505;Nicolas Fernandes;Mogi das Cruzes;SP;2024-03-15
+1506;Thiago Lopes;São Bernardo do Campo;SP;2025-03-25
+1507;Larissa Lopes;São Bernardo do Campo;SP;2024-04-07
+1508;Larissa Almeida;Osasco;SP;2025-04-02
+1509;Camila Ferreira;Santo André;SP;2025-08-15
+1510;Carlos Vieira;Diadema;SP;2024-05-07
+1511;Ana Pereira;Santo André;SP;2024-03-28
+1512;Juliana Santos;Mauá;SP;2024-03-03
+1513;Igor Pereira;Osasco;SP;2024-02-04
+1514;Beatriz Gomes;Guarulhos;SP;2025-01-21
+1515;Fernanda Almeida;Diadema;SP;2024-11-16
+1516;Matheus Lopes;São Paulo;SP;2024-03-07
+1517;Beatriz Soares;Diadema;SP;2024-05-10
+1518;Daniela Vieira;Santos;SP;2024-03-04
+1519;Daniela Lima;Mauá;SP;2025-03-28
+1520;Beatriz Ribeiro;Campinas;SP;2024-02-26
+1521;Beatriz Santos;Santo André;SP;2024-11-04
+1522;Rafael Fernandes;São Paulo;SP;2025-03-18
+1523;Gabriel Carvalho;Osasco;SP;2024-03-08
+1524;Daniela Pereira;Santos;SP;2024-04-14
+1525;Juliana Santos;São Paulo;SP;2024-02-27
+1526;Rafael Lima;São Paulo;SP;2025-07-26
+1527;Mariana Oliveira;Santos;SP;2024-02-23
+1528;Rafael Souza;Osasco;SP;2024-10-28
+1529;Helena Alves;Guarulhos;SP;2025-01-25
+1530;Matheus Ribeiro;Santo André;SP;2025-02-15
+1531;Vanessa Carvalho;São Paulo;SP;2024-04-08
+1532;Fernanda Barbosa;São Bernardo do Campo;SP;2025-02-24
+1533;Eduardo Alves;Mauá;SP;2024-08-26
+1534;Gabriel Santos;Diadema;SP;2024-01-11
+1535;Matheus Ribeiro;Mauá;SP;2025-04-09
+1536;Beatriz Lima;Osasco;SP;2025-01-28
+1537;Vanessa Fernandes;Mauá;SP;2025-04-20
+1538;Fernanda Costa;Mauá;SP;2025-03-14
+1539;Juliana Gomes;Mauá;SP;2024-04-13
+1540;Matheus Lima;Mauá;SP;2024-12-13
+1541;Thiago Souza;Santos;SP;2024-01-27
+1542;Eduardo Carvalho;São Bernardo do Campo;SP;2025-04-09
+1543;Bruno Lima;Campinas;SP;2025-06-13
+1544;Eduardo Rodrigues;Mogi das Cruzes;SP;2024-12-02
+1545;Helena Rodrigues;Campinas;SP;2024-07-16
+1546;Lucas Pereira;São Bernardo do Campo;SP;2024-04-20
+1547;Nicolas Lopes;Santos;SP;2024-04-15
+1548;Eduardo Vieira;Mauá;SP;2024-01-13
+1549;Igor Carvalho;Osasco;SP;2024-03-10
+1550;Nicolas Almeida;Mauá;SP;2024-07-17
+1551;Carlos Oliveira;Campinas;SP;2025-08-09
+1552;Nicolas Soares;Santo André;SP;2024-05-09
+1553;Igor Ribeiro;Campinas;SP;2025-06-05
+1554;Rafael Lopes;Campinas;SP;2024-09-19
+1555;Lucas Vieira;São Paulo;SP;2024-12-29
+1556;Ana Oliveira;Guarulhos;SP;2025-03-07
+1557;Rafael Ribeiro;São Paulo;SP;2025-05-07
+1558;Carlos Fernandes;Campinas;SP;2025-03-31
+1559;Nicolas Alves;Mogi das Cruzes;SP;2024-07-09
+1560;Larissa Alves;Mauá;SP;2024-09-05
+1561;Camila Lima;Campinas;SP;2024-05-20
+1562;Lucas Gomes;Guarulhos;SP;2024-02-15
+1563;Lucas Fernandes;Campinas;SP;2024-03-02
+1564;Matheus Rodrigues;Mauá;SP;2024-05-10
+1565;Matheus Lopes;Mogi das Cruzes;SP;2024-11-15
+1566;Lucas Santos;Diadema;SP;2025-08-21
+1567;Bruno Souza;Mauá;SP;2025-03-22
+1568;Rafael Silva;Diadema;SP;2025-06-09
+1569;Daniela Ferreira;Campinas;SP;2025-01-01
+1570;Rafael Almeida;Mogi das Cruzes;SP;2024-11-14
+1571;Ana Carvalho;Santos;SP;2025-08-20
+1572;Gabriel Rodrigues;Mauá;SP;2025-07-08
+1573;Juliana Ferreira;Santos;SP;2024-05-29
+1574;Igor Oliveira;Mogi das Cruzes;SP;2024-05-30
+1575;Mariana Lima;Mauá;SP;2025-04-25
+1576;Carlos Ribeiro;Osasco;SP;2024-11-12
+1577;Fernanda Santos;São Bernardo do Campo;SP;2024-12-17
+1578;Nicolas Gomes;Campinas;SP;2024-10-25
+1579;Helena Carvalho;Mauá;SP;2025-01-12
+1580;Carlos Souza;Diadema;SP;2024-01-09
+1581;Ana Alves;São Paulo;SP;2025-06-14
+1582;Camila Oliveira;Diadema;SP;2025-08-23
+1583;Eduardo Vieira;Mogi das Cruzes;SP;2024-05-28
+1584;Helena Soares;São Bernardo do Campo;SP;2024-02-28
+1585;Rafael Silva;Santos;SP;2024-08-31
+1586;Ana Costa;Santo André;SP;2025-06-03
+1587;Daniela Carvalho;Mauá;SP;2025-07-26
+1588;Eduardo Lopes;Santos;SP;2024-02-25
+1589;Carlos Pereira;Diadema;SP;2025-03-08
+1590;Nicolas Oliveira;Osasco;SP;2024-12-18
+1591;Daniela Souza;São Paulo;SP;2024-07-19
+1592;Lucas Ribeiro;São Paulo;SP;2024-07-24
+1593;Juliana Rodrigues;Diadema;SP;2024-07-25
+1594;Nicolas Rodrigues;Mogi das Cruzes;SP;2024-03-11
+1595;Eduardo Oliveira;Osasco;SP;2024-12-15
+1596;Thiago Vieira;Guarulhos;SP;2024-07-12
+1597;Ana Barbosa;Diadema;SP;2025-05-02
+1598;Fernanda Almeida;Mogi das Cruzes;SP;2025-04-23
+1599;Mariana Alves;Guarulhos;SP;2024-12-05
+1600;Eduardo Carvalho;Campinas;SP;2025-08-15
+1601;Vanessa Almeida;Santos;SP;2025-08-02
+1602;Gabriel Oliveira;Santo André;SP;2024-12-09
+1603;Daniela Rodrigues;Mogi das Cruzes;SP;2024-11-02
+1604;Daniela Vieira;Santos;SP;2025-03-04
+1605;Nicolas Ribeiro;Guarulhos;SP;2024-12-02
+1606;Larissa Costa;Santos;SP;2024-06-15
+1607;Eduardo Pereira;Diadema;SP;2024-04-17
+1608;Igor Oliveira;Guarulhos;SP;2025-04-10
+1609;Helena Fernandes;São Bernardo do Campo;SP;2024-02-13
+1610;Vanessa Barbosa;Mogi das Cruzes;SP;2025-05-22
+1611;Vanessa Gomes;Guarulhos;SP;2024-08-12
+1612;Ana Gomes;Santos;SP;2024-01-04
+1613;Gabriel Soares;Diadema;SP;2024-08-16
+1614;Vanessa Soares;Santo André;SP;2024-08-23
+1615;Gabriel Martins;Diadema;SP;2025-04-22
+1616;Juliana Santos;São Paulo;SP;2024-08-06
+1617;Helena Lopes;Osasco;SP;2024-09-01
+1618;Nicolas Souza;Santos;SP;2025-05-07
+1619;Helena Lopes;São Paulo;SP;2024-12-05
+1620;Vanessa Oliveira;Mogi das Cruzes;SP;2025-01-19
+1621;Thiago Silva;Mogi das Cruzes;SP;2024-07-29
+1622;Mariana Costa;Santos;SP;2025-02-13
+1623;Eduardo Martins;Mogi das Cruzes;SP;2024-07-07
+1624;Matheus Carvalho;Diadema;SP;2024-01-07
+1625;Mariana Fernandes;Osasco;SP;2025-01-06
+1626;Fernanda Lopes;Mauá;SP;2024-01-11
+1627;Carlos Silva;Osasco;SP;2024-03-16
+1628;Matheus Oliveira;Santo André;SP;2025-01-01
+1629;Ana Lima;Santo André;SP;2024-01-31
+1630;Gabriel Santos;Campinas;SP;2025-07-22
+1631;Bruno Martins;São Paulo;SP;2024-04-27
+1632;Thiago Gomes;Diadema;SP;2024-05-25
+1633;Thiago Carvalho;Santo André;SP;2024-10-24
+1634;Larissa Martins;Diadema;SP;2025-03-26
+1635;Carlos Fernandes;Santo André;SP;2024-07-18
+1636;Beatriz Barbosa;São Paulo;SP;2025-08-22
+1637;Eduardo Lima;Mogi das Cruzes;SP;2025-01-03
+1638;Carlos Gomes;Diadema;SP;2024-02-14
+1639;Carlos Soares;Campinas;SP;2024-01-31
+1640;Gabriel Rodrigues;Diadema;SP;2024-07-22
+1641;Beatriz Costa;São Paulo;SP;2024-07-21
+1642;Nicolas Vieira;Santo André;SP;2024-10-17
+1643;Carlos Gomes;Diadema;SP;2024-06-27
+1644;Larissa Pereira;São Paulo;SP;2024-08-12
+1645;Bruno Pereira;Santo André;SP;2024-09-25
+1646;Carlos Carvalho;Mogi das Cruzes;SP;2024-06-27
+1647;Daniela Almeida;Guarulhos;SP;2024-12-13
+1648;Vanessa Barbosa;Campinas;SP;2025-07-21
+1649;Bruno Gomes;Santos;SP;2024-09-08
+1650;Fernanda Souza;Guarulhos;SP;2024-07-01
+1651;Ana Rodrigues;Santo André;SP;2024-07-19
+1652;Ana Ferreira;Santo André;SP;2024-01-23
+1653;Camila Ribeiro;Campinas;SP;2024-06-29
+1654;Thiago Soares;Diadema;SP;2024-09-25
+1655;Igor Ferreira;Santo André;SP;2024-04-13
+1656;Mariana Rodrigues;Santo André;SP;2024-01-22
+1657;Igor Souza;Santo André;SP;2024-05-20
+1658;Ana Costa;São Paulo;SP;2025-01-23
+1659;Larissa Lima;Guarulhos;SP;2024-04-23
+1660;Thiago Oliveira;Diadema;SP;2024-12-12
+1661;Igor Vieira;Campinas;SP;2024-08-03
+1662;Carlos Lopes;Diadema;SP;2024-11-08
+1663;Rafael Soares;Campinas;SP;2025-04-12
+1664;Mariana Santos;Mogi das Cruzes;SP;2024-09-02
+1665;Camila Vieira;Osasco;SP;2025-01-13
+1666;Fernanda Ribeiro;Campinas;SP;2025-01-16
+1667;Fernanda Lima;Santo André;SP;2024-06-24
+1668;Daniela Vieira;São Bernardo do Campo;SP;2025-06-23
+1669;Daniela Pereira;Mogi das Cruzes;SP;2025-03-20
+1670;Thiago Silva;Campinas;SP;2024-03-07
+1671;Bruno Silva;Santos;SP;2024-05-01
+1672;Helena Santos;São Paulo;SP;2024-05-27
+1673;Camila Ribeiro;Osasco;SP;2024-05-13
+1674;Nicolas Rodrigues;Guarulhos;SP;2024-07-13
+1675;Fernanda Santos;Campinas;SP;2024-07-15
+1676;Beatriz Carvalho;Diadema;SP;2025-06-29
+1677;Helena Costa;Campinas;SP;2025-01-22
+1678;Helena Carvalho;Mogi das Cruzes;SP;2025-01-18
+1679;Lucas Lima;Mauá;SP;2024-11-21
+1680;Carlos Vieira;Mauá;SP;2025-03-15
+1681;Mariana Souza;São Bernardo do Campo;SP;2024-09-07
+1682;Thiago Santos;Mogi das Cruzes;SP;2024-02-17
+1683;Fernanda Pereira;Campinas;SP;2024-07-12
+1684;Thiago Santos;São Bernardo do Campo;SP;2025-07-02
+1685;Nicolas Oliveira;Diadema;SP;2024-10-28
+1686;Rafael Gomes;Osasco;SP;2024-06-01
+1687;Juliana Costa;São Paulo;SP;2024-12-01
+1688;Carlos Fernandes;Santo André;SP;2024-09-10
+1689;Rafael Silva;Guarulhos;SP;2024-02-24
+1690;Mariana Alves;São Paulo;SP;2024-10-13
+1691;Juliana Vieira;Campinas;SP;2024-05-09
+1692;Juliana Barbosa;Mogi das Cruzes;SP;2025-06-04
+1693;Helena Almeida;Mauá;SP;2025-08-21
+1694;Mariana Vieira;Mogi das Cruzes;SP;2025-05-15
+1695;Camila Alves;Santo André;SP;2024-08-02
+1696;Beatriz Pereira;Mogi das Cruzes;SP;2024-03-24
+1697;Eduardo Silva;Santos;SP;2025-04-26
+1698;Larissa Silva;São Bernardo do Campo;SP;2024-03-07
+1699;Helena Fernandes;Mauá;SP;2024-06-20
+1700;Mariana Silva;Mauá;SP;2025-06-04
+1701;Lucas Silva;Mogi das Cruzes;SP;2025-02-01
+1702;Nicolas Gomes;Santo André;SP;2025-06-05
+1703;Daniela Alves;Campinas;SP;2025-01-18
+1704;Thiago Pereira;Santos;SP;2025-05-25
+1705;Larissa Lopes;Mauá;SP;2025-06-15
+1706;Bruno Rodrigues;São Paulo;SP;2025-04-20
+1707;Igor Oliveira;Santo André;SP;2024-07-02
+1708;Bruno Pereira;Mogi das Cruzes;SP;2024-11-25
+1709;Thiago Carvalho;Mauá;SP;2025-01-17
+1710;Mariana Almeida;Osasco;SP;2025-06-22
+1711;Carlos Vieira;Santos;SP;2025-05-09
+1712;Daniela Soares;São Paulo;SP;2025-05-21
+1713;Eduardo Martins;Guarulhos;SP;2025-04-30
+1714;Carlos Vieira;Santos;SP;2024-10-01
+1715;Matheus Santos;Osasco;SP;2025-08-18
+1716;Larissa Rodrigues;Mauá;SP;2025-02-14
+1717;Helena Gomes;Diadema;SP;2025-08-20
+1718;Igor Costa;Santo André;SP;2024-02-07
+1719;Nicolas Costa;Osasco;SP;2024-07-31
+1720;Lucas Almeida;Santo André;SP;2024-08-12
+1721;Igor Pereira;Santo André;SP;2024-07-26
+1722;Carlos Alves;Guarulhos;SP;2025-04-07
+1723;Eduardo Vieira;Santo André;SP;2024-08-28
+1724;Daniela Rodrigues;Diadema;SP;2025-02-09
+1725;Daniela Ferreira;Mauá;SP;2024-08-11
+1726;Rafael Almeida;Mogi das Cruzes;SP;2024-11-09
+1727;Lucas Carvalho;São Bernardo do Campo;SP;2025-03-11
+1728;Daniela Fernandes;Diadema;SP;2025-01-21
+1729;Mariana Alves;São Bernardo do Campo;SP;2025-08-08
+1730;Rafael Gomes;Santos;SP;2024-06-09
+1731;Rafael Lima;Osasco;SP;2025-01-18
+1732;Daniela Oliveira;Campinas;SP;2024-09-17
+1733;Fernanda Gomes;Osasco;SP;2025-07-17
+1734;Vanessa Santos;Santos;SP;2024-03-27
+1735;Gabriel Costa;São Paulo;SP;2024-05-17
+1736;Eduardo Oliveira;São Paulo;SP;2024-03-27
+1737;Helena Ribeiro;Guarulhos;SP;2024-10-29
+1738;Nicolas Soares;São Paulo;SP;2025-03-31
+1739;Bruno Gomes;Mauá;SP;2025-06-15
+1740;Igor Ferreira;Guarulhos;SP;2024-12-26
+1741;Ana Martins;Santos;SP;2024-08-23
+1742;Rafael Fernandes;Guarulhos;SP;2025-08-20
+1743;Beatriz Pereira;Mogi das Cruzes;SP;2024-02-12
+1744;Daniela Almeida;Osasco;SP;2025-04-21
+1745;Daniela Rodrigues;São Bernardo do Campo;SP;2025-06-08
+1746;Daniela Silva;Santo André;SP;2024-12-10
+1747;Bruno Pereira;Santo André;SP;2025-03-12
+1748;Eduardo Alves;São Bernardo do Campo;SP;2025-04-06
+1749;Nicolas Ribeiro;São Paulo;SP;2025-04-23
+1750;Carlos Vieira;São Paulo;SP;2025-03-18
+1751;Matheus Lima;Diadema;SP;2025-02-22
+1752;Carlos Silva;Guarulhos;SP;2025-01-11
+1753;Carlos Alves;São Paulo;SP;2025-05-24
+1754;Rafael Rodrigues;Diadema;SP;2024-11-20
+1755;Carlos Costa;São Bernardo do Campo;SP;2024-10-06
+1756;Daniela Santos;Diadema;SP;2025-01-26
+1757;Rafael Santos;Guarulhos;SP;2024-01-26
+1758;Fernanda Vieira;Guarulhos;SP;2024-07-02
+1759;Larissa Martins;Guarulhos;SP;2025-03-28
+1760;Camila Silva;Diadema;SP;2024-08-27
+1761;Nicolas Carvalho;Campinas;SP;2024-09-28
+1762;Fernanda Ribeiro;Mauá;SP;2024-03-18
+1763;Gabriel Ferreira;Diadema;SP;2025-01-02
+1764;Igor Lima;Campinas;SP;2024-03-25
+1765;Rafael Rodrigues;Guarulhos;SP;2024-10-28
+1766;Bruno Barbosa;Campinas;SP;2025-05-28
+1767;Vanessa Barbosa;Santo André;SP;2025-06-09
+1768;Helena Gomes;Santo André;SP;2025-07-13
+1769;Camila Carvalho;Mogi das Cruzes;SP;2024-03-21
+1770;Beatriz Lopes;Guarulhos;SP;2024-10-10
+1771;Bruno Oliveira;Mogi das Cruzes;SP;2024-08-21
+1772;Igor Martins;Santo André;SP;2024-04-10
+1773;Eduardo Carvalho;Mauá;SP;2024-05-01
+1774;Gabriel Soares;Osasco;SP;2024-03-14
+1775;Helena Fernandes;Santo André;SP;2025-01-03
+1776;Ana Martins;Campinas;SP;2024-02-09
+1777;Mariana Lopes;Guarulhos;SP;2025-07-13
+1778;Beatriz Lopes;Santo André;SP;2024-07-24
+1779;Mariana Vieira;São Paulo;SP;2024-12-07
+1780;Thiago Costa;Mauá;SP;2024-07-20
+1781;Nicolas Lima;Mauá;SP;2024-12-03
+1782;Fernanda Silva;Osasco;SP;2024-09-13
+1783;Lucas Barbosa;São Paulo;SP;2024-11-05
+1784;Helena Silva;Santo André;SP;2024-10-08
+1785;Igor Santos;Santo André;SP;2024-07-14
+1786;Camila Soares;Campinas;SP;2024-05-21
+1787;Mariana Vieira;Mogi das Cruzes;SP;2025-07-10
+1788;Helena Ferreira;Guarulhos;SP;2024-09-24
+1789;Daniela Pereira;Mogi das Cruzes;SP;2024-01-09
+1790;Helena Lima;São Bernardo do Campo;SP;2024-11-02
+1791;Beatriz Santos;Diadema;SP;2024-10-15
+1792;Helena Vieira;Mauá;SP;2024-12-20
+1793;Nicolas Ribeiro;Campinas;SP;2025-02-17
+1794;Fernanda Ferreira;Mogi das Cruzes;SP;2025-02-19
+1795;Helena Vieira;Guarulhos;SP;2025-08-16
+1796;Lucas Ribeiro;Campinas;SP;2024-01-13
+1797;Matheus Silva;Santos;SP;2025-04-28
+1798;Mariana Vieira;Mauá;SP;2025-06-08
+1799;Matheus Rodrigues;São Bernardo do Campo;SP;2024-06-01
+1800;Matheus Alves;Diadema;SP;2025-02-11
+1801;Camila Fernandes;Guarulhos;SP;2024-08-21
+1802;Juliana Ferreira;Mogi das Cruzes;SP;2024-08-20
+1803;Camila Santos;Santo André;SP;2024-08-02
+1804;Carlos Santos;Guarulhos;SP;2025-04-30
+1805;Helena Barbosa;São Paulo;SP;2024-08-27
+1806;Helena Silva;Guarulhos;SP;2025-06-12
+1807;Thiago Lopes;Guarulhos;SP;2025-07-19
+1808;Ana Costa;Diadema;SP;2025-04-24
+1809;Vanessa Alves;Santo André;SP;2025-04-17
+1810;Eduardo Costa;Mogi das Cruzes;SP;2024-12-14
+1811;Fernanda Costa;São Paulo;SP;2024-03-28
+1812;Bruno Silva;Mogi das Cruzes;SP;2024-11-16
+1813;Eduardo Vieira;Campinas;SP;2024-07-11
+1814;Eduardo Souza;São Paulo;SP;2025-03-15
+1815;Thiago Ribeiro;São Paulo;SP;2025-03-03
+1816;Carlos Ribeiro;Mauá;SP;2024-08-02
+1817;Nicolas Vieira;Santo André;SP;2025-03-25
+1818;Daniela Costa;Campinas;SP;2025-04-05
+1819;Juliana Costa;Osasco;SP;2025-07-25
+1820;Eduardo Ferreira;Mauá;SP;2024-01-31
+1821;Larissa Lopes;Diadema;SP;2025-01-18
+1822;Lucas Ferreira;São Paulo;SP;2024-05-22
+1823;Beatriz Barbosa;Santos;SP;2025-08-14
+1824;Mariana Pereira;Mogi das Cruzes;SP;2024-05-11
+1825;Matheus Ferreira;Mogi das Cruzes;SP;2024-11-08
+1826;Nicolas Gomes;Mauá;SP;2024-01-10
+1827;Juliana Rodrigues;Mauá;SP;2025-05-26
+1828;Fernanda Silva;Guarulhos;SP;2024-12-29
+1829;Matheus Martins;Santos;SP;2024-12-13
+1830;Matheus Santos;São Bernardo do Campo;SP;2024-08-18
+1831;Fernanda Barbosa;São Paulo;SP;2025-03-05
+1832;Lucas Barbosa;Mauá;SP;2025-03-11
+1833;Helena Vieira;Mogi das Cruzes;SP;2025-02-17
+1834;Daniela Lopes;Guarulhos;SP;2025-07-04
+1835;Eduardo Costa;Diadema;SP;2024-11-02
+1836;Carlos Pereira;Santos;SP;2024-11-29
+1837;Mariana Costa;Osasco;SP;2024-01-24
+1838;Fernanda Oliveira;Osasco;SP;2025-08-04
+1839;Lucas Almeida;Santo André;SP;2024-02-02
+1840;Ana Lima;Mauá;SP;2024-05-22
+1841;Gabriel Pereira;São Paulo;SP;2024-06-06
+1842;Carlos Ribeiro;Guarulhos;SP;2024-12-04
+1843;Igor Souza;Osasco;SP;2025-08-04
+1844;Ana Santos;Santos;SP;2025-08-10
+1845;Nicolas Almeida;Osasco;SP;2025-02-04
+1846;Larissa Ferreira;Guarulhos;SP;2025-01-25
+1847;Larissa Lopes;Mogi das Cruzes;SP;2024-07-28
+1848;Nicolas Ribeiro;Santo André;SP;2025-02-04
+1849;Beatriz Martins;São Bernardo do Campo;SP;2024-03-06
+1850;Daniela Lopes;Campinas;SP;2025-07-01
+1851;Matheus Pereira;Santos;SP;2025-01-30
+1852;Fernanda Almeida;São Paulo;SP;2024-07-11
+1853;Carlos Santos;Mauá;SP;2025-05-01
+1854;Juliana Silva;São Bernardo do Campo;SP;2024-04-21
+1855;Lucas Lima;Santo André;SP;2024-12-02
+1856;Daniela Oliveira;Mauá;SP;2025-08-06
+1857;Lucas Ferreira;Guarulhos;SP;2025-04-07
+1858;Nicolas Ferreira;Osasco;SP;2024-11-07
+1859;Carlos Fernandes;Mogi das Cruzes;SP;2024-04-05
+1860;Carlos Costa;Guarulhos;SP;2024-06-24
+1861;Vanessa Barbosa;Mogi das Cruzes;SP;2024-04-16
+1862;Camila Silva;São Bernardo do Campo;SP;2025-07-20
+1863;Larissa Ferreira;Campinas;SP;2024-06-30
+1864;Vanessa Carvalho;São Paulo;SP;2024-02-02
+1865;Fernanda Santos;São Bernardo do Campo;SP;2025-05-15
+1866;Daniela Costa;São Paulo;SP;2024-01-28
+1867;Gabriel Alves;Diadema;SP;2024-07-10
+1868;Larissa Fernandes;São Bernardo do Campo;SP;2024-07-22
+1869;Beatriz Lima;Mogi das Cruzes;SP;2024-03-12
+1870;Juliana Gomes;Mauá;SP;2025-01-30
+1871;Helena Souza;Guarulhos;SP;2024-10-17
+1872;Bruno Martins;Santos;SP;2024-07-29
+1873;Matheus Fernandes;Santo André;SP;2024-08-26
+1874;Camila Rodrigues;Mogi das Cruzes;SP;2024-10-25
+1875;Bruno Ribeiro;Santos;SP;2025-06-20
+1876;Ana Carvalho;Mogi das Cruzes;SP;2024-03-12
+1877;Carlos Gomes;São Paulo;SP;2025-04-10
+1878;Vanessa Lopes;São Paulo;SP;2024-02-28
+1879;Gabriel Souza;Osasco;SP;2025-01-12
+1880;Ana Alves;São Paulo;SP;2025-06-14
+1881;Fernanda Gomes;Osasco;SP;2024-01-12
+1882;Carlos Lopes;São Paulo;SP;2024-06-24
+1883;Daniela Gomes;Mauá;SP;2024-11-30
+1884;Nicolas Lopes;Guarulhos;SP;2025-02-24
+1885;Camila Lima;São Bernardo do Campo;SP;2025-02-04
+1886;Carlos Fernandes;Santos;SP;2024-06-09
+1887;Nicolas Ferreira;Mogi das Cruzes;SP;2024-04-23
+1888;Mariana Martins;Santos;SP;2024-05-12
+1889;Mariana Ferreira;Campinas;SP;2025-07-03
+1890;Rafael Santos;Diadema;SP;2025-03-04
+1891;Igor Almeida;São Bernardo do Campo;SP;2025-05-04
+1892;Rafael Lima;Guarulhos;SP;2024-03-11
+1893;Helena Lima;São Paulo;SP;2025-02-02
+1894;Matheus Santos;Campinas;SP;2024-07-30
+1895;Eduardo Souza;Mogi das Cruzes;SP;2024-05-13
+1896;Carlos Ribeiro;São Paulo;SP;2024-07-29
+1897;Beatriz Carvalho;Mogi das Cruzes;SP;2024-11-13
+1898;Matheus Pereira;Diadema;SP;2025-03-18
+1899;Beatriz Santos;São Paulo;SP;2025-05-01
+1900;Nicolas Soares;São Bernardo do Campo;SP;2024-06-11
+1901;Larissa Fernandes;Campinas;SP;2025-08-11
+1902;Camila Vieira;São Paulo;SP;2024-11-13
+1903;Helena Lopes;Campinas;SP;2024-07-26
+1904;Juliana Oliveira;São Paulo;SP;2025-05-29
+1905;Nicolas Santos;Santo André;SP;2025-04-14
+1906;Thiago Vieira;Guarulhos;SP;2024-10-09
+1907;Thiago Vieira;Mogi das Cruzes;SP;2024-07-25
+1908;Vanessa Rodrigues;Diadema;SP;2024-01-08
+1909;Daniela Almeida;Campinas;SP;2024-05-26
+1910;Fernanda Ferreira;Diadema;SP;2025-04-01
+1911;Gabriel Alves;Guarulhos;SP;2024-03-06
+1912;Eduardo Santos;Guarulhos;SP;2025-02-12
+1913;Larissa Oliveira;Guarulhos;SP;2024-09-09
+1914;Larissa Alves;Mogi das Cruzes;SP;2025-06-22
+1915;Eduardo Barbosa;Diadema;SP;2024-12-02
+1916;Igor Costa;Diadema;SP;2025-08-05
+1917;Carlos Oliveira;São Bernardo do Campo;SP;2025-05-17
+1918;Nicolas Fernandes;Guarulhos;SP;2025-04-16
+1919;Nicolas Fernandes;São Bernardo do Campo;SP;2025-04-18
+1920;Lucas Lima;Mauá;SP;2025-08-12
+1921;Thiago Almeida;Osasco;SP;2024-02-10
+1922;Ana Barbosa;Mauá;SP;2024-04-03
+1923;Matheus Soares;Osasco;SP;2024-10-21
+1924;Larissa Souza;Guarulhos;SP;2025-04-12
+1925;Larissa Rodrigues;Diadema;SP;2024-12-21
+1926;Eduardo Vieira;Santos;SP;2024-10-31
+1927;Matheus Vieira;Campinas;SP;2025-02-04
+1928;Daniela Souza;Osasco;SP;2024-06-28
+1929;Matheus Souza;São Bernardo do Campo;SP;2025-03-01
+1930;Juliana Fernandes;São Paulo;SP;2024-09-12
+1931;Mariana Carvalho;Diadema;SP;2024-07-02
+1932;Igor Martins;Campinas;SP;2025-03-18
+1933;Camila Vieira;Osasco;SP;2025-04-13
+1934;Vanessa Lopes;Guarulhos;SP;2025-01-28
+1935;Bruno Ferreira;Guarulhos;SP;2024-07-06
+1936;Igor Martins;Santo André;SP;2025-08-05
+1937;Eduardo Barbosa;Campinas;SP;2024-04-07
+1938;Vanessa Martins;Mauá;SP;2025-02-06
+1939;Bruno Martins;Campinas;SP;2024-02-14
+1940;Lucas Pereira;Osasco;SP;2024-09-02
+1941;Bruno Lopes;Santos;SP;2024-06-10
+1942;Igor Ribeiro;Campinas;SP;2024-10-07
+1943;Ana Costa;Mogi das Cruzes;SP;2025-07-04
+1944;Juliana Gomes;São Bernardo do Campo;SP;2024-10-25
+1945;Igor Lopes;Diadema;SP;2024-03-09
+1946;Daniela Pereira;São Paulo;SP;2024-08-10
+1947;Eduardo Gomes;Campinas;SP;2025-05-20
+1948;Rafael Costa;Guarulhos;SP;2025-02-25
+1949;Igor Carvalho;Diadema;SP;2025-07-20
+1950;Vanessa Oliveira;Mauá;SP;2024-05-04
+1951;Gabriel Almeida;Campinas;SP;2025-01-12
+1952;Gabriel Carvalho;São Paulo;SP;2024-03-19
+1953;Camila Soares;Mogi das Cruzes;SP;2024-04-17
+1954;Mariana Santos;Guarulhos;SP;2025-05-31
+1955;Thiago Ferreira;São Paulo;SP;2024-11-29
+1956;Carlos Gomes;São Paulo;SP;2025-02-23
+1957;Thiago Martins;Campinas;SP;2025-04-06
+1958;Eduardo Soares;Guarulhos;SP;2024-06-17
+1959;Matheus Silva;Diadema;SP;2024-09-15
+1960;Fernanda Alves;Santo André;SP;2024-07-31
+1961;Gabriel Santos;Mauá;SP;2025-06-02
+1962;Helena Santos;Mogi das Cruzes;SP;2024-02-15
+1963;Rafael Santos;Campinas;SP;2025-04-18
+1964;Mariana Alves;São Bernardo do Campo;SP;2024-01-28
+1965;Igor Ribeiro;Campinas;SP;2024-03-15
+1966;Rafael Soares;Santo André;SP;2025-04-17
+1967;Nicolas Souza;Santos;SP;2025-01-25
+1968;Ana Pereira;Mogi das Cruzes;SP;2024-12-17
+1969;Mariana Lopes;Mauá;SP;2025-02-12
+1970;Vanessa Almeida;São Bernardo do Campo;SP;2024-07-18
+1971;Fernanda Lopes;Campinas;SP;2025-02-10
+1972;Matheus Fernandes;Diadema;SP;2024-02-08
+1973;Mariana Ribeiro;São Paulo;SP;2024-01-11
+1974;Fernanda Lima;Diadema;SP;2024-09-13
+1975;Carlos Gomes;Campinas;SP;2024-04-27
+1976;Ana Martins;Mogi das Cruzes;SP;2024-05-19
+1977;Bruno Ferreira;Diadema;SP;2024-11-30
+1978;Matheus Alves;Guarulhos;SP;2025-04-20
+1979;Helena Pereira;Santo André;SP;2025-05-11
+1980;Gabriel Lima;Osasco;SP;2025-04-17
+1981;Larissa Soares;Mauá;SP;2024-03-10
+1982;Ana Silva;São Paulo;SP;2024-03-25
+1983;Camila Rodrigues;Santos;SP;2025-07-15
+1984;Fernanda Barbosa;São Bernardo do Campo;SP;2024-09-05
+1985;Ana Pereira;São Bernardo do Campo;SP;2025-03-24
+1986;Igor Barbosa;Guarulhos;SP;2024-05-23
+1987;Juliana Lima;Santos;SP;2025-04-27
+1988;Larissa Martins;Guarulhos;SP;2024-10-12
+1989;Mariana Almeida;Diadema;SP;2024-06-14
+1990;Igor Alves;Osasco;SP;2024-06-23
+1991;Rafael Gomes;Santos;SP;2024-01-19
+1992;Thiago Barbosa;Santos;SP;2024-04-12
+1993;Nicolas Vieira;São Bernardo do Campo;SP;2024-06-30
+1994;Daniela Silva;Mogi das Cruzes;SP;2024-10-28
+1995;Thiago Ribeiro;São Bernardo do Campo;SP;2024-05-07
+1996;Beatriz Barbosa;Santo André;SP;2025-07-01
+1997;Vanessa Gomes;São Paulo;SP;2025-02-04
+1998;Juliana Souza;São Bernardo do Campo;SP;2024-06-21
+1999;Camila Oliveira;Guarulhos;SP;2024-03-20
+2000;Lucas Lima;Campinas;SP;2024-01-12
+2001;Lucas Lima;Mogi das Cruzes;SP;2024-10-06
+2002;Igor Gomes;Mogi das Cruzes;SP;2024-06-06
+2003;Gabriel Rodrigues;Campinas;SP;2025-03-27
+2004;Thiago Pereira;Campinas;SP;2025-01-01
+2005;Bruno Barbosa;São Paulo;SP;2024-07-01
+2006;Nicolas Costa;São Paulo;SP;2024-08-09
+2007;Eduardo Silva;Osasco;SP;2024-02-05
+2008;Camila Gomes;Santo André;SP;2025-06-29
+2009;Igor Carvalho;São Bernardo do Campo;SP;2024-08-09
+2010;Nicolas Martins;Mauá;SP;2025-03-28
+2011;Bruno Vieira;Santo André;SP;2024-02-18
+2012;Matheus Alves;Osasco;SP;2025-06-19
+2013;Lucas Pereira;Diadema;SP;2024-04-15
+2014;Beatriz Lopes;Mogi das Cruzes;SP;2025-02-03
+2015;Mariana Soares;São Paulo;SP;2024-11-11
+2016;Juliana Ferreira;Guarulhos;SP;2025-03-30
+2017;Beatriz Ferreira;São Paulo;SP;2024-02-23
+2018;Juliana Souza;Santos;SP;2024-01-05
+2019;Camila Rodrigues;Campinas;SP;2024-02-19
+2020;Igor Fernandes;Campinas;SP;2025-01-21
+2021;Fernanda Costa;São Paulo;SP;2024-07-25
+2022;Carlos Pereira;Mogi das Cruzes;SP;2024-09-12
+2023;Mariana Pereira;Santos;SP;2025-01-18
+2024;Juliana Carvalho;Guarulhos;SP;2024-09-01
+2025;Lucas Ribeiro;Guarulhos;SP;2024-07-23
+2026;Igor Vieira;São Bernardo do Campo;SP;2024-04-03
+2027;Juliana Almeida;Mogi das Cruzes;SP;2024-01-17
+2028;Daniela Lopes;Diadema;SP;2025-03-07
+2029;Bruno Vieira;Diadema;SP;2024-01-29
+2030;Matheus Barbosa;Osasco;SP;2024-01-15
+2031;Carlos Lopes;Mauá;SP;2024-12-11
+2032;Gabriel Soares;São Bernardo do Campo;SP;2024-07-15
+2033;Daniela Martins;Osasco;SP;2024-03-05
+2034;Thiago Gomes;São Bernardo do Campo;SP;2024-08-13
+2035;Larissa Santos;Guarulhos;SP;2024-04-08
+2036;Eduardo Rodrigues;Osasco;SP;2024-06-20
+2037;Gabriel Costa;São Bernardo do Campo;SP;2024-06-20
+2038;Larissa Vieira;Guarulhos;SP;2024-02-15
+2039;Rafael Rodrigues;São Bernardo do Campo;SP;2025-03-01
+2040;Lucas Ferreira;Mauá;SP;2025-06-08
+2041;Carlos Lopes;São Bernardo do Campo;SP;2024-04-20
+2042;Lucas Ferreira;Mauá;SP;2024-11-30
+2043;Lucas Santos;São Bernardo do Campo;SP;2024-11-26
+2044;Ana Almeida;Guarulhos;SP;2025-07-29
+2045;Igor Alves;Mogi das Cruzes;SP;2024-07-13
+2046;Fernanda Vieira;Diadema;SP;2024-07-31
+2047;Fernanda Lopes;Mogi das Cruzes;SP;2025-07-08
+2048;Carlos Rodrigues;São Paulo;SP;2025-02-08
+2049;Vanessa Carvalho;Mauá;SP;2025-03-14
+2050;Larissa Martins;Campinas;SP;2024-05-03
+2051;Larissa Lopes;São Bernardo do Campo;SP;2024-08-25
+2052;Nicolas Silva;Diadema;SP;2024-08-06
+2053;Bruno Fernandes;Mogi das Cruzes;SP;2024-04-18
+2054;Gabriel Ribeiro;Campinas;SP;2024-12-31
+2055;Ana Costa;Mauá;SP;2024-11-27
+2056;Thiago Alves;Osasco;SP;2024-06-26
+2057;Ana Silva;Campinas;SP;2024-01-16
+2058;Helena Pereira;Mogi das Cruzes;SP;2025-02-15
+2059;Mariana Gomes;São Bernardo do Campo;SP;2024-11-19
+2060;Eduardo Souza;Osasco;SP;2024-01-13
+2061;Nicolas Soares;Santo André;SP;2025-02-02
+2062;Matheus Gomes;São Bernardo do Campo;SP;2024-08-05
+2063;Fernanda Oliveira;Osasco;SP;2025-04-14
+2064;Bruno Gomes;Campinas;SP;2024-08-13
+2065;Juliana Almeida;São Paulo;SP;2024-03-08
+2066;Thiago Barbosa;Diadema;SP;2024-10-12
+2067;Thiago Costa;São Paulo;SP;2025-01-12
+2068;Larissa Rodrigues;Santo André;SP;2024-02-14
+2069;Lucas Lopes;Campinas;SP;2024-03-09
+2070;Mariana Alves;Guarulhos;SP;2024-08-11
+2071;Fernanda Martins;Mogi das Cruzes;SP;2025-02-24
+2072;Ana Pereira;Mogi das Cruzes;SP;2024-11-04
+2073;Helena Rodrigues;Mauá;SP;2025-05-26
+2074;Gabriel Silva;Campinas;SP;2024-04-14
+2075;Matheus Soares;Osasco;SP;2025-07-03
+2076;Fernanda Souza;São Bernardo do Campo;SP;2025-08-05
+2077;Mariana Santos;Santo André;SP;2024-06-24
+2078;Nicolas Lima;Diadema;SP;2024-09-14
+2079;Beatriz Barbosa;Campinas;SP;2024-04-07
+2080;Bruno Barbosa;Diadema;SP;2024-11-28
+2081;Bruno Souza;Campinas;SP;2025-02-01
+2082;Ana Santos;Diadema;SP;2024-05-16
+2083;Daniela Carvalho;Santos;SP;2024-12-06
+2084;Rafael Martins;São Bernardo do Campo;SP;2024-06-28
+2085;Daniela Fernandes;Guarulhos;SP;2024-11-21
+2086;Igor Lopes;Mauá;SP;2025-05-08
+2087;Eduardo Alves;Santos;SP;2024-03-10
+2088;Ana Gomes;Mogi das Cruzes;SP;2024-12-09
+2089;Larissa Souza;São Bernardo do Campo;SP;2024-01-19
+2090;Thiago Lima;Diadema;SP;2025-08-22
+2091;Vanessa Barbosa;Mogi das Cruzes;SP;2025-04-04
+2092;Eduardo Carvalho;Mogi das Cruzes;SP;2025-01-26
+2093;Daniela Soares;Santo André;SP;2025-06-07
+2094;Vanessa Souza;São Paulo;SP;2024-08-26
+2095;Juliana Souza;Mauá;SP;2025-05-30
+2096;Daniela Lopes;São Bernardo do Campo;SP;2024-01-14
+2097;Gabriel Barbosa;São Bernardo do Campo;SP;2024-08-26
+2098;Gabriel Lima;Osasco;SP;2024-01-22
+2099;Thiago Alves;Mauá;SP;2024-05-07
+2100;Mariana Carvalho;Diadema;SP;2024-11-12
+2101;Juliana Ferreira;São Bernardo do Campo;SP;2024-08-30
+2102;Bruno Fernandes;Diadema;SP;2025-03-14
+2103;Camila Alves;Campinas;SP;2024-09-06
+2104;Camila Costa;Diadema;SP;2024-03-22
+2105;Helena Silva;São Paulo;SP;2024-03-02
+2106;Ana Oliveira;Mauá;SP;2024-05-20
+2107;Daniela Vieira;São Paulo;SP;2025-01-18
+2108;Camila Rodrigues;São Paulo;SP;2025-05-25
+2109;Carlos Soares;Mogi das Cruzes;SP;2024-10-30
+2110;Carlos Souza;Santos;SP;2024-07-25
+2111;Igor Pereira;São Paulo;SP;2024-06-04
+2112;Rafael Gomes;Mauá;SP;2025-01-19
+2113;Igor Almeida;Santos;SP;2024-07-28
+2114;Bruno Souza;Mauá;SP;2024-02-08
+2115;Fernanda Santos;Mogi das Cruzes;SP;2024-08-31
+2116;Juliana Ribeiro;Guarulhos;SP;2025-03-30
+2117;Lucas Carvalho;Mogi das Cruzes;SP;2024-12-02
+2118;Daniela Souza;Mogi das Cruzes;SP;2024-05-17
+2119;Bruno Silva;São Bernardo do Campo;SP;2024-10-11
+2120;Eduardo Ferreira;Guarulhos;SP;2024-11-21
+2121;Lucas Ribeiro;Santos;SP;2024-02-10
+2122;Rafael Barbosa;São Paulo;SP;2025-06-17
+2123;Igor Oliveira;Mauá;SP;2025-02-28
+2124;Mariana Costa;São Bernardo do Campo;SP;2024-10-22
+2125;Fernanda Souza;Campinas;SP;2024-01-25
+2126;Nicolas Martins;Osasco;SP;2024-08-22
+2127;Rafael Lima;Santo André;SP;2024-12-05
+2128;Nicolas Lopes;São Bernardo do Campo;SP;2024-12-16
+2129;Larissa Ferreira;Guarulhos;SP;2024-09-05
+2130;Daniela Rodrigues;São Paulo;SP;2024-07-29
+2131;Bruno Ferreira;Mogi das Cruzes;SP;2025-07-06
+2132;Daniela Carvalho;Santo André;SP;2024-02-25
+2133;Matheus Lopes;Campinas;SP;2024-09-11
+2134;Matheus Almeida;Mogi das Cruzes;SP;2024-08-15
+2135;Fernanda Barbosa;Diadema;SP;2025-01-25
+2136;Nicolas Ribeiro;Diadema;SP;2025-06-17
+2137;Vanessa Silva;São Paulo;SP;2024-11-25
+2138;Eduardo Lopes;Mogi das Cruzes;SP;2024-07-06
+2139;Camila Souza;Mogi das Cruzes;SP;2025-03-28
+2140;Larissa Almeida;Campinas;SP;2024-01-07
+2141;Bruno Oliveira;Mauá;SP;2024-03-07
+2142;Igor Costa;Campinas;SP;2025-05-18
+2143;Ana Soares;Osasco;SP;2024-03-12
+2144;Matheus Vieira;Mogi das Cruzes;SP;2024-07-16
+2145;Helena Costa;São Paulo;SP;2024-02-23
+2146;Thiago Soares;Guarulhos;SP;2024-05-24
+2147;Vanessa Souza;Mauá;SP;2024-07-28
+2148;Larissa Pereira;Osasco;SP;2024-05-08
+2149;Camila Ribeiro;Santos;SP;2024-04-03
+2150;Nicolas Rodrigues;São Paulo;SP;2024-06-26
+2151;Beatriz Barbosa;Santo André;SP;2025-07-16
+2152;Bruno Silva;Mauá;SP;2024-07-28
+2153;Fernanda Soares;Santo André;SP;2024-08-29
+2154;Camila Lopes;Diadema;SP;2025-06-03
+2155;Fernanda Oliveira;Santos;SP;2024-03-21
+2156;Camila Costa;Diadema;SP;2025-03-12
+2157;Helena Costa;São Bernardo do Campo;SP;2025-04-23
+2158;Igor Santos;Guarulhos;SP;2024-11-14
+2159;Thiago Pereira;Diadema;SP;2024-06-17
+2160;Beatriz Martins;Osasco;SP;2024-07-21
+2161;Nicolas Pereira;São Paulo;SP;2024-09-07
+2162;Carlos Almeida;Santos;SP;2025-03-10
+2163;Rafael Vieira;Osasco;SP;2024-06-29
+2164;Rafael Oliveira;São Paulo;SP;2024-09-11
+2165;Camila Almeida;Guarulhos;SP;2024-11-06
+2166;Lucas Souza;Mauá;SP;2024-10-19
+2167;Camila Silva;Osasco;SP;2025-08-13
+2168;Daniela Martins;Mogi das Cruzes;SP;2025-04-04
+2169;Larissa Santos;Diadema;SP;2024-07-25
+2170;Beatriz Fernandes;São Paulo;SP;2024-10-05
+2171;Ana Oliveira;Osasco;SP;2025-05-07
+2172;Vanessa Barbosa;Osasco;SP;2024-03-22
+2173;Juliana Soares;Campinas;SP;2025-01-03
+2174;Beatriz Alves;Santos;SP;2025-02-11
+2175;Rafael Costa;Guarulhos;SP;2025-01-21
+2176;Mariana Santos;Santos;SP;2024-06-20
+2177;Helena Almeida;São Bernardo do Campo;SP;2025-04-27
+2178;Lucas Fernandes;Campinas;SP;2025-03-27
+2179;Vanessa Barbosa;Osasco;SP;2025-03-08
+2180;Camila Ribeiro;São Bernardo do Campo;SP;2025-06-01
+2181;Rafael Souza;Santos;SP;2025-03-19
+2182;Daniela Pereira;Guarulhos;SP;2024-06-08
+2183;Ana Costa;Mogi das Cruzes;SP;2025-05-08
+2184;Mariana Gomes;Diadema;SP;2024-01-21
+2185;Beatriz Soares;São Bernardo do Campo;SP;2025-01-25
+2186;Mariana Souza;São Bernardo do Campo;SP;2025-03-13
+2187;Bruno Ferreira;Osasco;SP;2024-03-26
+2188;Camila Rodrigues;Osasco;SP;2024-11-03
+2189;Larissa Souza;Santo André;SP;2025-07-04
+2190;Igor Barbosa;Santos;SP;2024-06-05
+2191;Gabriel Alves;Mauá;SP;2025-07-20
+2192;Daniela Martins;Santo André;SP;2024-06-28
+2193;Gabriel Almeida;São Paulo;SP;2024-09-20
+2194;Gabriel Costa;Guarulhos;SP;2025-01-24
+2195;Daniela Carvalho;Osasco;SP;2025-04-19
+2196;Bruno Vieira;Osasco;SP;2024-11-09
+2197;Daniela Almeida;Mogi das Cruzes;SP;2025-04-09
+2198;Rafael Vieira;Mogi das Cruzes;SP;2024-10-17
+2199;Thiago Rodrigues;Santos;SP;2025-01-19
+2200;Camila Silva;Santos;SP;2025-07-29
+2201;Thiago Santos;Guarulhos;SP;2025-05-07
+2202;Beatriz Carvalho;Mogi das Cruzes;SP;2024-03-14
+2203;Matheus Lopes;Santos;SP;2024-12-07
+2204;Thiago Ferreira;Santos;SP;2024-05-19
+2205;Matheus Ferreira;Santo André;SP;2025-04-25
+2206;Eduardo Souza;Mogi das Cruzes;SP;2024-07-19
+2207;Nicolas Barbosa;Diadema;SP;2024-06-07
+2208;Vanessa Costa;Osasco;SP;2024-07-13
+2209;Thiago Martins;Guarulhos;SP;2024-01-05
+2210;Larissa Barbosa;São Bernardo do Campo;SP;2024-01-14
+2211;Helena Lima;Mogi das Cruzes;SP;2025-05-27
+2212;Nicolas Costa;Guarulhos;SP;2025-01-18
+2213;Juliana Almeida;Guarulhos;SP;2025-05-18
+2214;Eduardo Rodrigues;Mauá;SP;2025-02-18
+2215;Larissa Barbosa;Campinas;SP;2025-03-01
+2216;Thiago Gomes;Santo André;SP;2025-02-08
+2217;Beatriz Costa;Guarulhos;SP;2025-01-17
+2218;Beatriz Alves;Guarulhos;SP;2025-01-28
+2219;Gabriel Alves;Campinas;SP;2025-05-16
+2220;Vanessa Gomes;Santo André;SP;2024-11-11
+2221;Mariana Rodrigues;Guarulhos;SP;2024-03-13
+2222;Fernanda Soares;Campinas;SP;2025-02-22
+2223;Beatriz Costa;Mogi das Cruzes;SP;2024-02-09
+2224;Daniela Ribeiro;Campinas;SP;2024-05-07
+2225;Beatriz Lopes;São Bernardo do Campo;SP;2025-01-29
+2226;Matheus Vieira;Santos;SP;2025-08-02
+2227;Larissa Fernandes;São Paulo;SP;2024-06-15
+2228;Juliana Carvalho;Santo André;SP;2024-07-17
+2229;Ana Soares;Mauá;SP;2025-03-22
+2230;Daniela Silva;Santos;SP;2024-09-18
+2231;Nicolas Rodrigues;Campinas;SP;2024-12-22
+2232;Bruno Santos;Mogi das Cruzes;SP;2025-06-05
+2233;Gabriel Lima;Osasco;SP;2025-05-15
+2234;Fernanda Gomes;Mauá;SP;2025-01-12
+2235;Igor Rodrigues;Mogi das Cruzes;SP;2024-02-29
+2236;Bruno Gomes;São Paulo;SP;2025-01-29
+2237;Gabriel Fernandes;Santo André;SP;2025-03-10
+2238;Bruno Ribeiro;São Bernardo do Campo;SP;2024-09-09
+2239;Rafael Souza;Guarulhos;SP;2024-09-05
+2240;Vanessa Fernandes;São Paulo;SP;2025-05-04
+2241;Helena Fernandes;São Bernardo do Campo;SP;2024-02-05
+2242;Nicolas Pereira;Santos;SP;2025-01-05
+2243;Thiago Gomes;Osasco;SP;2024-01-29
+2244;Bruno Martins;Mauá;SP;2024-05-31
+2245;Nicolas Carvalho;Diadema;SP;2024-09-24
+2246;Lucas Fernandes;Osasco;SP;2025-04-11
+2247;Bruno Silva;Osasco;SP;2024-05-30
+2248;Igor Alves;Mogi das Cruzes;SP;2024-09-17
+2249;Vanessa Almeida;Diadema;SP;2024-09-10
+2250;Helena Ribeiro;Santos;SP;2025-08-15
+2251;Matheus Fernandes;Santos;SP;2024-06-14
+2252;Vanessa Alves;Mogi das Cruzes;SP;2024-01-13
+2253;Gabriel Gomes;Mogi das Cruzes;SP;2024-04-29
+2254;Rafael Ferreira;Santo André;SP;2024-04-04
+2255;Carlos Ferreira;Diadema;SP;2025-01-28
+2256;Fernanda Soares;Campinas;SP;2025-02-11
+2257;Daniela Martins;Santo André;SP;2025-08-23
+2258;Bruno Carvalho;Campinas;SP;2024-03-23
+2259;Igor Fernandes;Santo André;SP;2025-06-14
+2260;Igor Rodrigues;São Bernardo do Campo;SP;2024-07-12
+2261;Fernanda Vieira;Mogi das Cruzes;SP;2025-03-09
+2262;Igor Silva;Osasco;SP;2024-06-18
+2263;Lucas Almeida;Santo André;SP;2025-03-13
+2264;Eduardo Santos;São Paulo;SP;2024-09-15
+2265;Eduardo Costa;Campinas;SP;2024-11-05
+2266;Vanessa Santos;Osasco;SP;2025-05-27
+2267;Vanessa Gomes;Santo André;SP;2025-06-29
+2268;Camila Vieira;Mogi das Cruzes;SP;2025-01-26
+2269;Beatriz Ribeiro;Campinas;SP;2025-08-23
+2270;Carlos Costa;Diadema;SP;2024-11-11
+2271;Thiago Pereira;Campinas;SP;2025-02-25
+2272;Fernanda Soares;Santos;SP;2024-04-01
+2273;Carlos Soares;Santo André;SP;2024-04-21
+2274;Fernanda Carvalho;Campinas;SP;2025-08-09
+2275;Beatriz Fernandes;Campinas;SP;2024-12-18
+2276;Nicolas Oliveira;Campinas;SP;2024-05-26
+2277;Mariana Pereira;Campinas;SP;2024-10-02
+2278;Gabriel Costa;São Bernardo do Campo;SP;2024-08-02
+2279;Lucas Ribeiro;Guarulhos;SP;2025-02-11
+2280;Juliana Alves;São Paulo;SP;2024-11-11
+2281;Vanessa Soares;Osasco;SP;2024-01-07
+2282;Camila Fernandes;Diadema;SP;2024-06-21
+2283;Ana Souza;Campinas;SP;2025-05-18
+2284;Mariana Almeida;Mogi das Cruzes;SP;2024-01-02
+2285;Helena Barbosa;Santo André;SP;2024-04-09
+2286;Vanessa Pereira;Osasco;SP;2024-03-12
+2287;Bruno Costa;Campinas;SP;2025-03-03
+2288;Nicolas Souza;São Bernardo do Campo;SP;2025-06-21
+2289;Nicolas Lima;Santos;SP;2025-03-02
+2290;Beatriz Gomes;São Paulo;SP;2024-10-22
+2291;Ana Soares;Osasco;SP;2025-03-17
+2292;Mariana Soares;Osasco;SP;2024-06-23
+2293;Thiago Almeida;Campinas;SP;2024-06-29
+2294;Camila Santos;Osasco;SP;2025-01-18
+2295;Juliana Alves;Mogi das Cruzes;SP;2024-07-09
+2296;Lucas Soares;Santos;SP;2024-05-17
+2297;Carlos Souza;Campinas;SP;2024-07-21
+2298;Fernanda Fernandes;Santos;SP;2025-05-13
+2299;Beatriz Silva;Santo André;SP;2024-07-05
+2300;Carlos Alves;Guarulhos;SP;2025-05-29
+2301;Gabriel Carvalho;São Paulo;SP;2024-04-22
+2302;Daniela Alves;Mauá;SP;2025-04-06
+2303;Beatriz Carvalho;Mogi das Cruzes;SP;2025-08-03
+2304;Carlos Rodrigues;Campinas;SP;2024-08-05
+2305;Ana Almeida;Mogi das Cruzes;SP;2024-07-09
+2306;Lucas Santos;Osasco;SP;2024-07-24
+2307;Carlos Oliveira;Campinas;SP;2024-03-01
+2308;Bruno Ferreira;São Paulo;SP;2024-07-06
+2309;Igor Fernandes;Santos;SP;2024-07-15
+2310;Carlos Vieira;Santos;SP;2024-09-22
+2311;Helena Lima;Osasco;SP;2025-02-22
+2312;Larissa Martins;Santo André;SP;2025-03-27
+2313;Rafael Martins;Mogi das Cruzes;SP;2024-04-21
+2314;Larissa Costa;Santo André;SP;2024-06-19
+2315;Ana Martins;Diadema;SP;2024-03-22
+2316;Daniela Fernandes;Campinas;SP;2024-10-27
+2317;Ana Barbosa;Diadema;SP;2024-03-28
+2318;Carlos Vieira;Mogi das Cruzes;SP;2025-01-21
+2319;Bruno Oliveira;Osasco;SP;2024-05-07
+2320;Mariana Soares;Guarulhos;SP;2024-10-10
+2321;Daniela Gomes;Mogi das Cruzes;SP;2024-03-06
+2322;Juliana Barbosa;São Paulo;SP;2024-12-16
+2323;Carlos Gomes;Campinas;SP;2024-01-31
+2324;Rafael Martins;Santos;SP;2025-08-22
+2325;Nicolas Silva;Guarulhos;SP;2024-08-28
+2326;Camila Ferreira;Santo André;SP;2025-05-04
+2327;Beatriz Pereira;São Paulo;SP;2025-05-11
+2328;Eduardo Martins;Mauá;SP;2024-04-13
+2329;Beatriz Gomes;Diadema;SP;2024-01-10
+2330;Eduardo Gomes;São Bernardo do Campo;SP;2024-03-03
+2331;Mariana Silva;Mogi das Cruzes;SP;2024-09-29
+2332;Beatriz Fernandes;Osasco;SP;2024-01-08
+2333;Eduardo Souza;Guarulhos;SP;2025-08-19
+2334;Bruno Silva;Osasco;SP;2024-02-12
+2335;Matheus Barbosa;São Paulo;SP;2024-04-09
+2336;Nicolas Fernandes;Diadema;SP;2024-08-04
+2337;Beatriz Oliveira;São Bernardo do Campo;SP;2025-06-18
+2338;Juliana Alves;Diadema;SP;2024-01-08
+2339;Mariana Alves;Santos;SP;2025-01-19
+2340;Larissa Soares;São Bernardo do Campo;SP;2025-06-16
+2341;Eduardo Ferreira;Santo André;SP;2024-09-29
+2342;Fernanda Pereira;São Bernardo do Campo;SP;2025-05-12
+2343;Vanessa Lima;São Paulo;SP;2025-04-29
+2344;Gabriel Souza;Guarulhos;SP;2024-12-11
+2345;Fernanda Vieira;Santos;SP;2025-03-15
+2346;Bruno Fernandes;Mogi das Cruzes;SP;2024-12-10
+2347;Rafael Fernandes;Guarulhos;SP;2025-01-14
+2348;Carlos Gomes;Santos;SP;2024-12-17
+2349;Carlos Lima;Mauá;SP;2024-11-18
+2350;Daniela Alves;São Bernardo do Campo;SP;2024-09-02
+2351;Matheus Lopes;Mogi das Cruzes;SP;2025-01-04
+2352;Lucas Ribeiro;Osasco;SP;2025-02-12
+2353;Eduardo Pereira;Diadema;SP;2025-01-22
+2354;Daniela Gomes;Diadema;SP;2024-02-28
+2355;Vanessa Oliveira;Santos;SP;2024-12-30
+2356;Gabriel Costa;São Paulo;SP;2024-12-04
+2357;Camila Almeida;Osasco;SP;2024-04-12
+2358;Lucas Barbosa;Mauá;SP;2024-01-04
+2359;Juliana Vieira;Campinas;SP;2025-04-12
+2360;Eduardo Vieira;Mauá;SP;2025-02-15
+2361;Matheus Ribeiro;Osasco;SP;2024-05-22
+2362;Lucas Carvalho;Mauá;SP;2024-01-27
+2363;Fernanda Silva;Osasco;SP;2024-05-05
+2364;Lucas Pereira;São Paulo;SP;2025-06-27
+2365;Helena Carvalho;Santo André;SP;2024-10-13
+2366;Igor Ribeiro;Osasco;SP;2024-09-11
+2367;Eduardo Costa;Osasco;SP;2025-01-12
+2368;Camila Almeida;Santo André;SP;2025-04-07
+2369;Rafael Ribeiro;Mogi das Cruzes;SP;2025-05-01
+2370;Juliana Lopes;Santos;SP;2025-06-11
+2371;Beatriz Souza;Guarulhos;SP;2025-02-27
+2372;Fernanda Barbosa;São Bernardo do Campo;SP;2024-07-11
+2373;Carlos Lima;Mogi das Cruzes;SP;2024-01-04
+2374;Eduardo Fernandes;Mauá;SP;2024-11-25
+2375;Gabriel Lima;Mogi das Cruzes;SP;2024-01-18
+2376;Carlos Oliveira;Santo André;SP;2025-01-03
+2377;Ana Soares;Campinas;SP;2024-02-16
+2378;Ana Vieira;Mauá;SP;2024-11-29
+2379;Matheus Martins;Mauá;SP;2025-03-30
+2380;Matheus Alves;Campinas;SP;2024-08-27
+2381;Bruno Fernandes;Diadema;SP;2025-05-11
+2382;Igor Fernandes;Diadema;SP;2025-02-13
+2383;Beatriz Lopes;Guarulhos;SP;2024-03-24
+2384;Eduardo Ribeiro;Campinas;SP;2024-12-22
+2385;Nicolas Pereira;São Bernardo do Campo;SP;2025-03-14
+2386;Matheus Gomes;Santo André;SP;2025-05-02
+2387;Eduardo Almeida;Mogi das Cruzes;SP;2024-04-12
+2388;Thiago Soares;Santos;SP;2025-01-29
+2389;Carlos Martins;Osasco;SP;2024-10-27
+2390;Mariana Soares;Guarulhos;SP;2024-07-18
+2391;Ana Pereira;Diadema;SP;2024-05-26
+2392;Vanessa Ferreira;Mauá;SP;2025-06-16
+2393;Thiago Rodrigues;Guarulhos;SP;2025-08-08
+2394;Rafael Ferreira;São Paulo;SP;2025-05-31
+2395;Fernanda Vieira;Mauá;SP;2024-02-02
+2396;Matheus Rodrigues;Santo André;SP;2024-05-10
+2397;Camila Ribeiro;Mauá;SP;2025-05-24
+2398;Bruno Pereira;Campinas;SP;2024-03-30
+2399;Camila Pereira;Santos;SP;2024-11-04
+2400;Carlos Lima;Mogi das Cruzes;SP;2025-07-15
+2401;Mariana Pereira;Diadema;SP;2025-04-23
+2402;Bruno Alves;Campinas;SP;2024-06-21
+2403;Thiago Ribeiro;São Bernardo do Campo;SP;2025-04-01
+2404;Nicolas Lopes;Campinas;SP;2024-04-28
+2405;Rafael Santos;Mauá;SP;2025-05-08
+2406;Bruno Costa;Santo André;SP;2025-07-07
+2407;Daniela Soares;Santos;SP;2024-09-03
+2408;Igor Lima;Mogi das Cruzes;SP;2024-09-06
+2409;Matheus Fernandes;São Paulo;SP;2024-08-04
+2410;Matheus Ferreira;Santo André;SP;2024-06-23
+2411;Nicolas Martins;Diadema;SP;2024-04-01
+2412;Mariana Vieira;Santo André;SP;2024-04-18
+2413;Carlos Soares;Mogi das Cruzes;SP;2025-03-21
+2414;Igor Martins;Santos;SP;2024-01-30
+2415;Helena Soares;Mogi das Cruzes;SP;2024-06-13
+2416;Nicolas Ribeiro;São Bernardo do Campo;SP;2024-11-30
+2417;Mariana Lopes;São Paulo;SP;2025-01-27
+2418;Camila Barbosa;São Paulo;SP;2024-10-14
+2419;Ana Soares;Campinas;SP;2024-08-13
+2420;Eduardo Almeida;Santo André;SP;2024-09-20
+2421;Fernanda Pereira;Santo André;SP;2025-05-02
+2422;Carlos Soares;Mogi das Cruzes;SP;2024-05-06
+2423;Igor Alves;Guarulhos;SP;2024-05-19
+2424;Eduardo Ferreira;Santo André;SP;2025-07-01
+2425;Fernanda Ribeiro;Mauá;SP;2025-05-18
+2426;Vanessa Souza;Campinas;SP;2024-04-02
+2427;Helena Carvalho;Mogi das Cruzes;SP;2024-12-06
+2428;Lucas Souza;São Bernardo do Campo;SP;2024-08-17
+2429;Camila Lopes;São Paulo;SP;2025-08-12
+2430;Camila Alves;Guarulhos;SP;2024-03-07
+2431;Matheus Ferreira;Santo André;SP;2024-12-17
+2432;Larissa Silva;Mogi das Cruzes;SP;2025-01-21
+2433;Helena Santos;Guarulhos;SP;2025-01-25
+2434;Eduardo Vieira;Diadema;SP;2025-07-29
+2435;Matheus Ferreira;Osasco;SP;2025-03-23
+2436;Eduardo Soares;Diadema;SP;2024-08-26
+2437;Bruno Vieira;Mogi das Cruzes;SP;2024-08-16
+2438;Eduardo Santos;Diadema;SP;2024-09-22
+2439;Fernanda Lima;Mauá;SP;2024-04-28
+2440;Fernanda Soares;Santo André;SP;2024-10-24
+2441;Nicolas Barbosa;Mogi das Cruzes;SP;2024-03-30
+2442;Matheus Silva;Guarulhos;SP;2024-04-24
+2443;Juliana Oliveira;Osasco;SP;2024-04-01
+2444;Gabriel Almeida;Santos;SP;2024-12-14
+2445;Vanessa Lopes;Diadema;SP;2024-07-11
+2446;Camila Ferreira;São Paulo;SP;2024-04-28
+2447;Helena Carvalho;Santo André;SP;2025-08-09
+2448;Vanessa Rodrigues;Campinas;SP;2025-01-11
+2449;Matheus Ferreira;Diadema;SP;2024-05-10
+2450;Vanessa Soares;São Paulo;SP;2024-11-16
+2451;Igor Ferreira;Campinas;SP;2025-01-24
+2452;Lucas Almeida;Osasco;SP;2025-08-13
+2453;Vanessa Vieira;Mogi das Cruzes;SP;2024-01-02
+2454;Carlos Pereira;Campinas;SP;2024-11-14
+2455;Nicolas Martins;Osasco;SP;2024-03-04
+2456;Eduardo Souza;Campinas;SP;2025-07-02
+2457;Ana Alves;São Paulo;SP;2024-07-13
+2458;Thiago Soares;Santo André;SP;2025-02-01
+2459;Larissa Rodrigues;Osasco;SP;2025-03-09
+2460;Vanessa Souza;Mauá;SP;2024-11-23
+2461;Fernanda Lopes;Osasco;SP;2025-01-08
+2462;Vanessa Barbosa;São Paulo;SP;2024-05-09
+2463;Bruno Fernandes;Santo André;SP;2025-06-16
+2464;Thiago Souza;Santo André;SP;2024-08-15
+2465;Carlos Lopes;Santos;SP;2024-04-19
+2466;Eduardo Barbosa;Guarulhos;SP;2025-02-08
+2467;Beatriz Silva;Santos;SP;2024-01-10
+2468;Larissa Soares;São Bernardo do Campo;SP;2025-07-05
+2469;Larissa Ribeiro;Campinas;SP;2025-04-16
+2470;Bruno Soares;Guarulhos;SP;2024-11-19
+2471;Larissa Pereira;Diadema;SP;2024-05-28
+2472;Camila Martins;Campinas;SP;2024-10-30
+2473;Mariana Vieira;Santos;SP;2024-08-12
+2474;Matheus Souza;Osasco;SP;2025-05-26
+2475;Larissa Rodrigues;Osasco;SP;2025-04-11
+2476;Igor Lopes;Santo André;SP;2024-05-30
+2477;Helena Oliveira;Santo André;SP;2024-10-17
+2478;Juliana Barbosa;Osasco;SP;2024-05-29
+2479;Beatriz Carvalho;Guarulhos;SP;2024-02-05
+2480;Igor Alves;Santos;SP;2024-11-23
+2481;Ana Silva;Diadema;SP;2024-11-12
+2482;Matheus Soares;Osasco;SP;2025-05-29
+2483;Daniela Soares;Campinas;SP;2024-05-06
+2484;Ana Martins;São Paulo;SP;2024-10-07
+2485;Gabriel Costa;Campinas;SP;2025-08-10
+2486;Larissa Ribeiro;Santos;SP;2025-05-04
+2487;Daniela Rodrigues;Santo André;SP;2024-08-08
+2488;Larissa Vieira;Osasco;SP;2025-05-21
+2489;Igor Lima;Mogi das Cruzes;SP;2024-10-25
+2490;Beatriz Carvalho;Mauá;SP;2025-01-20
+2491;Matheus Ribeiro;Osasco;SP;2024-03-01
+2492;Vanessa Lima;Campinas;SP;2024-12-07
+2493;Nicolas Alves;Guarulhos;SP;2024-06-05
+2494;Larissa Fernandes;São Bernardo do Campo;SP;2024-08-03
+2495;Beatriz Lopes;Campinas;SP;2024-08-18
+2496;Fernanda Ribeiro;Santos;SP;2024-02-23
+2497;Beatriz Fernandes;São Bernardo do Campo;SP;2024-07-02
+2498;Camila Lima;São Bernardo do Campo;SP;2025-05-14
+2499;Juliana Vieira;Santos;SP;2025-02-05
+2500;Mariana Martins;Diadema;SP;2024-11-02

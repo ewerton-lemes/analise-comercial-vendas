@@ -1,0 +1,46 @@
+produto_id;nome_produto;categoria;preco_unitario
+1;Notebook Gamer;Informática;4500
+2;Mouse Óptico;Acessórios;80
+3;Teclado Mecânico;Acessórios;250
+4;Monitor 27 Polegadas;Informática;1400
+5;Cadeira Ergonômica;Mobiliário;950
+6;Headset Gamer;Acessórios;220
+7;Webcam Full HD;Informática;320
+8;Hub USB-C;Acessórios;110
+9;Suporte Articulado;Acessórios;150
+10;Mousepad Grande;Acessórios;50
+11;Smartphone Pro;Eletrônicos;3800
+12;Carregador Portátil;Eletrônicos;180
+13;"Smart TV 50""";Eletrônicos;2900
+14;Caixa de Som Bluetooth;Eletrônicos;350
+15;Mesa para Escritório;Mobiliário;750
+16;Estante de Livros;Mobiliário;520
+17;Micro-ondas 30L;Eletrodomésticos;650
+18;Cafeteira Elétrica;Eletrodomésticos;280
+19;Air Fryer 4L;Eletrodomésticos;490
+20;Liquidificador Turbo;Eletrodomésticos;190
+21;"Tablet 10""";Eletrônicos;1600
+22;Impressora Multifuncional;Informática;850
+23;Roteador Wi-Fi 6;Informática;400
+24;HD Externo 1TB;Informática;380
+25;SSD 512GB;Informática;310
+26;Placa de Vídeo;Informática;2200
+27;Memória RAM 16GB;Informática;350
+28;Fonte 600W;Informática;420
+29;Gabinete Gamer;Informática;380
+30;Cooler para Processador;Informática;160
+31;Luminária de Mesa;Mobiliário;120
+32;Gaveteiro Volante;Mobiliário;480
+33;Sofá 2 Lugares;Mobiliário;1200
+34;Poltrona Decorativa;Mobiliário;890
+35;Ventilador de Coluna;Eletrodomésticos;250
+36;Purificador de Água;Eletrodomésticos;550
+37;Ferro de Passar;Eletrodomésticos;140
+38;Aspirador de Pó;Eletrodomésticos;390
+39;Câmera de Segurança;Eletrônicos;290
+40;Smartwatch;Eletrônicos;600
+41;Pen Drive 64GB;Acessórios;45
+42;Cabo HDMI 2m;Acessórios;35
+43;Adaptador Wi-Fi;Acessórios;65
+44;Filtro de Linha;Acessórios;55
+45;Mochila para Notebook;Acessórios;180
