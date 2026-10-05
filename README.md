@@ -58,6 +58,8 @@ Com esse método aplicado vários insights foram obtidos e, a partir deles, cheg
 
 1. De 10/2025 a 08/2026 os valores ficaram entre R$ 1.712.021,25 e 2.036.392,50 de reais, ou seja, os valores se mantiveram relativamente próximos. O mês que apresentou queda na vendas foi o mês de setembro, no ano de 2025 foi R$1.241.196,25. No ano de 2026 foi de R$ 645.576,25, mas nos dados estão somente os 12 primeiros dias do mês.
 
+![grafico_de_linhas](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/grafico_de_linhas.png)
+
 2. As vendas de alto valor correspondem a 20,4% do total de vendas. Embora esse não seja um número expressivo, as vendas de alto valor são responsáveis por 69% do faturamento no período em que os dados foram coletados.
 
 3. A quantidade de produtos vendidos está relacionada com as vendas de alto valor (IV=0,37). Dentre as vendas de 4 produtos e 5 produtos, as vendas de alto valor correspondem a 50% e 57%. Já na faixa de 3 produtos vendidos, 37% das vendas são de alto valor. Porém, há um detalhe importante relacionado às essas quantidade de produtos vendidos, elas representam apenas 25% da quantidade de vendas, isto é, 75% das vendas são de 2 ou um produto apenas.
