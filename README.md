@@ -16,4 +16,6 @@ _Quais características estão associadas às vendas de maior valor e onde estã
 
 # Método
 
+Os dados podem ser acessados na pasta dados (https://github.com/ewerton-lemes/analise-comercial-vendas/tree/main/dados).
 
+Para responder à pergunta de negócio acima, foi feita uma análise exploratótia dos dados com tabelas de frequência, medidas resumo e de variabilidade e também gráficos das variáveis relacionadas às vendas, aos produtos, aos clientes e funcionários. Foram aplicadas técnicas de ETL para tratamento dos dados e junção de tabelas para cruzar os dados e verificar a associção entre algumas variáveis. A planilha excel com todas as análises feitas está na pasta análise ()
