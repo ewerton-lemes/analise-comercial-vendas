@@ -9,6 +9,8 @@ Este projeto apresenta uma análise exploratória, de associação (Information 
 
 Fonte: https://www.kaggle.com/datasets/suzanemartinss/dados-de-vendas-informatica-brasil.
 
+Os dados também podem ser acessados na pasta dados (https://github.com/ewerton-lemes/analise-comercial-vendas/tree/main/dados).
+
 # Objetivos
 
 O objetivo principal dessa análise é responder a seguinte pergunta de negócio:
@@ -17,17 +19,38 @@ _Quais características estão associadas às vendas de maior valor e onde estã
 
 # Método
 
-Os dados podem ser acessados na pasta dados (https://github.com/ewerton-lemes/analise-comercial-vendas/tree/main/dados).
+Primeiramente separamos a pergunta de negócio em duas:
 
-Para responder à pergunta de negócio acima, foi feita uma análise exploratótia dos dados com tabelas de frequência, medidas resumo e de variabilidade e também gráficos das variáveis relacionadas às vendas, aos produtos, aos clientes e funcionários. Foram aplicadas técnicas de ETL para tratamento dos dados e junção de tabelas para cruzar os dados e verificar a associção entre algumas variáveis e a probabilidade de alguns eventos. A pasta de trabalho excel, com o nome Vendas, onde estão todas as análises feitas está na pasta análise (https://github.com/ewerton-lemes/analise-comercial-vendas/tree/main/analise).
+- _Quais características estão associadas às vendas de maior valor?_
+- _Onde estão as principais oportunidades de crescimento comercial?_
 
-A primeira parte da pergunta de negócio diz _Quais características estão associadas às vendas de maior valor..._. Pensando nisso definimos _vendas de alto valor_ as vendas com um valor total acima de R$ 1500,00. Foi adotado esse valor pois 80% das vendas estão abaixo dele. Os preços unitários dos produtos foram segmentados entre preço _preço Alto_ e _preço baixo_ onde preço baixo são produtos com preço unitário menor ou igual a R$ 850,00 e preço alto são produtos com preço acima desse valor. O valor de R$ 850,00 foi adotado pois 75% dos produtos estão abaixo de R$ 850,00. A quantidade de produtos vendidos, por venda, foi dividade em _quantidade baixa_ e _quantidade alta_ onde quantidade baixa signfica 2 ou menos produtos foram vendidos e quantidade alta 3 ate 5 produtos foram vendidos (5 é a quantidade máxima em uma venda). A quantidade 2 foi escolhida pois 75% das vendas tem até 2 produtos iguais vendidos. Ainda para responder a essa parte da pergunta de negócio, pensando no total de produtos vendidos no ano, produtos com mais de 800 unidades vendidas no ano foram classificados como _Alta frequência_ e os como uma quantidade menor ou igual a 800 vendidos no ano como _Baixa frequência_
+## Segmentação das variáveis
 
-Considerando agora a segunda parte de pergunta de negócio _... onde estão as principais oportunidades de crescimento comercial?_ mais algumas segmentações foram criadas. Foi calculado o Ticket Médio de cada cliente no período em que os dados foram coletados usando a fórmula:
+Para responder às duas partes da pergunta de negócio, algumas variáveis foram segmentadas com base na distribuição dos dados, utilizando quartis como referência para a definição dos pontos de corte.
 
-$$\mbox{Ticket Médio} = \displaystyle\frac{\mbox{Faturamento gerado pelo cliente}}{\mbox{número de vendas a esse cliente}}$$
+### 1. Características associadas às vendas de maior valor
 
-Considerando o Ticket Médio por cliente, os clientes foram segmentados em _Ticket Alto_ aqueles com ticket médio acima ou igual a R$ 1800,00 e _Ticket Baixo_ aqueles com ticket médio abaixo desse valor. Tickets médios abaixo desse valor correspondem a 75% dos clientes. Os clientes também foram segmentados de acordo com a quantidade de compras que fizeram do período em que os dados foram coletados, separamos em _Alta frequência_ os que fizeram mais de 9 compras no ano e o restante em _Baixa frequência._. A quantidade de até 9 produtos vendidos no ano correspondem a 75% dos clientes.
+| Variável | Segmentação | Critério | Justificativa |
+|---|---|---|---|
+| **Valor total da venda** | Alto valor / Não alto valor | > R$ 1.500 / ≤ R$ 1.500 | R$ 1.500 corresponde aproximadamente ao 80º percentil das vendas |
+| **Preço unitário** | Preço alto / Preço baixo | > R$ 850 / ≤ R$ 850 | R$ 850 corresponde aproximadamente ao 75º percentil dos preços unitários |
+| **Quantidade por venda** | Quantidade alta / Quantidade baixa | 3 a 5 / 1 a 2 produtos | Até 2 produtos correspondem aproximadamente a 75% das vendas |
+| **Frequência de vendas do produto** | Alta frequência / Baixa frequência | > 800 / ≤ 800 vendas no período | 75% dos produtos venderem 800 unidades ou menos |
+
+### 2. Identificação de oportunidades de crescimento comercial
+
+Além de segmentações, foi criada a nova variável **ticket médio por cliente**, calculado pela seguinte fórmula:
+
+$$
+\text{Ticket Médio} =
+\frac{\text{Faturamento gerado pelo cliente}}
+{\text{Número de vendas realizadas pelo cliente}}
+$$
+
+| Variável | Segmentação | Critério | Justificativa |
+|---|---|---|---|
+| **Ticket médio por cliente** | Ticket alto / Ticket baixo | ≥ R$ 1.800 / < R$ 1.800 | Tickets abaixo de R$ 1.800 correspondem aproximadamente a 75% dos clientes |
+| **Frequência de compras do cliente** | Alta frequência de compras / Baixa frequência de compras | > 9 / ≤ 9 compras no período | Até 9 compras correspondem aproximadamente a 75% dos clientes |
 
 Com esse método aplicado vários insights foram obtidos e, a partir deles, chegamos à resposta de pergunta de negócio. A seguir estão os principais insights.
 
