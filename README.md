@@ -1,3 +1,5 @@
+## Em construção...
+
 # Análise de Vendas e Opotunidades Comerciais
 Análise exploratória, de associação e probabilidades dos dados sobre vendas de uma loja física de protudos de informatica e eletrodomésticos utilizando o Excel.
 
