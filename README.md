@@ -62,11 +62,13 @@ Com esse método aplicado vários insights foram obtidos e, a partir deles, cheg
 
 2. As vendas de alto valor correspondem a 20,4% do total de vendas. Embora esse não seja um número expressivo, as vendas de alto valor são responsáveis por 69% do faturamento no período em que os dados foram coletados.
 
-3. A quantidade de produtos vendidos está relacionada com as vendas de alto valor (IV=0,37). Dentre as vendas de 4 produtos e 5 produtos, as vendas de alto valor correspondem a 50% e 57%. Já na faixa de 3 produtos vendidos, 37% das vendas são de alto valor. Porém, há um detalhe importante relacionado às essas quantidade de produtos vendidos, elas representam apenas 25% da quantidade de vendas, isto é, 75% das vendas são de 2 ou um produto apenas.
+3. A quantidade de produtos vendidos está relacionada com as vendas de alto valor (IV=0,37). Dentre as vendas de 4 produtos e 5 produtos, as vendas de alto valor correspondem a 50% e 57%. Já na faixa de 3 produtos vendidos, 37% das vendas são de alto valor. Porém, há um detalhe importante relacionado às essas quantidade de produtos vendidos, elas representam apenas 12,92% da quantidade de vendas, isto é, 87,08% das vendas são de 2 ou um produto apenas.
 
-4. O preço unitário dos produtos também tem uma forte associação com as vendas de alto valor (IV=0,42). Produtos com valores unitários acima de 1500 reais geram vendas de alto valor com apenas um produto vendido. Nas vendas de produtos com faixa de preço unitário entre R$ 785,00 e R$ 1385,00, em média, 35% são de alto valor.
+![quantidade_vendida](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/quantidade_vendida.png)
 
-5. Cruzando as variáveis quantidade de produtos vendidos e preço unitário, temos que 70,45% da vendas de alto valor ocorrem com a venda de até dois produtos com preços unitários acima de 850 reais enquanto que apenas 12,5% das vendas de alto valor ocorrem com mais de dois produtos vendidos com preço unitário abaixo de 850 reais.
+5. O preço unitário dos produtos também tem uma forte associação com as vendas de alto valor (IV=0,42). Produtos com valores unitários acima de 1500 reais geram vendas de alto valor com apenas um produto vendido. Nas vendas de produtos com faixa de preço unitário entre R$ 785,00 e R$ 1385,00, em média, 35% são de alto valor.
+
+6. Cruzando as variáveis quantidade de produtos vendidos e preço unitário, temos que 70,45% da vendas de alto valor ocorrem com a venda de até dois produtos com preços unitários acima de 850 reais enquanto que apenas 12,5% das vendas de alto valor ocorrem com mais de dois produtos vendidos com preço unitário abaixo de 850 reais.
 
 ![vendas_alto_valor](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/vendas_alto_valor.png)
 
@@ -92,9 +94,7 @@ Com esse método aplicado vários insights foram obtidos e, a partir deles, cheg
 
 10. A categoria de acessórios é a segunda categoria com maior quantidade de vendas (24,2%) porém é a que menos participa do faturamento total com apenas 4% de participação.
 
-![quantidade_categoria](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/quantidade_categoria.png)
-
-![quantidade_categoria](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/quantidade_categoria.png)
+![grafico_barras](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/grafico_barras.png)
 
 # Resposta da pergunta de negócio
 
