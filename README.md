@@ -68,17 +68,33 @@ Com esse método aplicado vários insights foram obtidos e, a partir deles, cheg
 
 5. Cruzando as variáveis quantidade de produtos vendidos e preço unitário, temos que 70,45% da vendas de alto valor ocorrem com a venda de até dois produtos com preços unitários acima de 850 reais enquanto que apenas 12,5% das vendas de alto valor ocorrem com mais de dois produtos vendidos com preço unitário abaixo de 850 reais.
 
+![vendas_alto_valor](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/vendas_alto_valor.png)
+
 6. A probabilidade de uma venda alta ocorrer com até dois produtos com preço unitários acima de 850 reais é de 69%, enquanto que é de apenas 25,7% em vendas com produtos com quantidade acima de 2 e preço abaixo de 850 reais.
+
+![probabilidades](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/probabilidades.png)
 
 7. A categoria possui uma associação importante com as vendas de alto valor (IV=0,78). Cerca de 52% das vendas de Eletrônicos correspondem a vendas de alto valor. Nas categorias de Informática e Mobiliário esses valores são 28% e 20%.
 
-8. Mais de 75% do faturamento estão em apenas 11 produtos.
+| Categoria | Taxa de Alto valor |
+|---|---:|
+| Acessórios | 0,0% |
+| Eletrodomésticos | 4,7% |
+| Eletrônicos | 52,4% |
+| Informática | 28,2% |
+| Mobiliário | 20,1% |
 
-9. Mais de 50% do faturamento estão em apenas 4 produtos.
+8. Mais de 75% do faturamento estão em apenas 11 produtos. Mais de 50% do faturamento estão em apenas 4 produtos.
 
-10. Os descontos não apresentam associação relevante com as vendas de alto valor. Aproximadamente 79% das vendas de alto valor não receberam desconto. Além disso, o número de vendas de alto valor corresponde a 20,4% do quantidade total de vendas e, restringindo às vendas que tiveram desconto, temos 21% de vendas de alto valor, ou seja, os resultados não indicam que a concessão de descontos esteja associada a uma maior ocorrência de vendas de alto valor.
+![produtos_faturamento](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/produtos_faturamento.png)
 
-11. A categoria de acessórios é a segunda categoria com maior quantidade de vendas (24,2%) porém é a que menos participa do faturamento total com apenas 4% de participação.
+9. Os descontos não apresentam associação relevante com as vendas de alto valor. Aproximadamente 79% das vendas de alto valor não receberam desconto. Além disso, o número de vendas de alto valor corresponde a 20,4% do quantidade total de vendas e, restringindo às vendas que tiveram desconto, temos 21% de vendas de alto valor, ou seja, os resultados não indicam que a concessão de descontos esteja associada a uma maior ocorrência de vendas de alto valor.
+
+10. A categoria de acessórios é a segunda categoria com maior quantidade de vendas (24,2%) porém é a que menos participa do faturamento total com apenas 4% de participação.
+
+![quantidade_categoria](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/quantidade_categoria.png)
+
+![quantidade_categoria](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/quantidade_categoria.png)
 
 # Resposta da pergunta de negócio
 
