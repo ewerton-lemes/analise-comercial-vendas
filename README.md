@@ -175,9 +175,11 @@ Além disso, o número de vendas de alto valor corresponde a 20,4% do quantidade
   <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/grafico_barras.png" alt="faturamento vendas" width="650">
 </p>
 
+11. Um percentual de 63,04% dos clientes apresentam simultaneamente baixa frequência de compras e baixo ticket médio. Além disso, a probabilidade de um cliente apresentar ticket alto é de 46,17% entre aqueles com alta frequência, contra 20,82% entre os de baixa frequência. 
+
 # Resposta da pergunta de negócio
 
-Parte A:
+Parte A: Quais características estão associadas às vendas de maior valor?
 
 Diante desses fatos, podemos concluir que as vendas de alto valor, acima de R$ 1500,00 estão predominantemente associadas a vendas de quantidade baixa de produtos e valores altos de preços unitários. Embora a quantidade de produtos também apresente forte associação com o alto valor, o cruzamento das variáveis indica que o preço unitário possui papel particularmente importante, 70,45% das vendas de alto valor ocorrem em transações com até dois produtos e preço unitário superior a R$850.
 
@@ -185,7 +187,7 @@ Diante desses fatos, podemos concluir que as vendas de alto valor, acima de R$ 1
 Parte B:
 Quais segmentos apresentam oportunidades de crescimento?
 
-63,04% dos clientes apresentam simultaneamente baixa frequência de compras e baixo ticket médio. Além disso, a probabilidade de um cliente apresentar ticket alto é de 46,17% entre aqueles com alta frequência, contra 20,82% entre os de baixa frequência. Os resultados sugerem que a frequência de compra está associada a uma maior ocorrência de tickets altos. Dessa forma, clientes de baixa frequência e baixo ticket podem representar uma oportunidade para estratégias de aumento da frequência de compras.
+Os resultados sugerem que a frequência de compra está associada a uma maior ocorrência de tickets altos. Dessa forma, clientes de baixa frequência e baixo ticket podem representar uma oportunidade para estratégias de aumento da frequência de compras.
 
 Adicionar produtos de maior valor na categoria de acessórios, pois é bastante procurada, tem uma variação preço muito pequena, com média de 131,74 reais e baixa participação no faturamento.
 
