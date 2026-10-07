@@ -30,12 +30,16 @@ Para responder às duas partes da pergunta de negócio, algumas variáveis foram
 
 ### 1. Características associadas às vendas de maior valor
 
+<div align="center">
+  
 | Variável | Segmentação | Critério | Justificativa |
 |---|---|---|---|
 | **Valor total da venda** | Alto valor / Não alto valor | > R$ 1.500 / ≤ R$ 1.500 | R$ 1.500 corresponde aproximadamente ao 80º percentil das vendas |
 | **Preço unitário** | Preço alto / Preço baixo | > R$ 850 / ≤ R$ 850 | R$ 850 corresponde aproximadamente ao 75º percentil dos preços unitários |
 | **Quantidade por venda** | Quantidade alta / Quantidade baixa | 3 a 5 / 1 a 2 produtos | Até 2 produtos correspondem aproximadamente a 75% das vendas |
 | **Frequência de vendas do produto** | Alta frequência / Baixa frequência | > 800 / ≤ 800 vendas no período | 75% dos produtos venderem 800 unidades ou menos |
+
+</div>
 
 ### 2. Identificação de oportunidades de crescimento comercial
 
@@ -47,10 +51,14 @@ $$
 {\text{Número de vendas realizadas pelo cliente}}
 $$
 
+<div align="center">
+
 | Variável | Segmentação | Critério | Justificativa |
 |---|---|---|---|
 | **Ticket médio por cliente** | Ticket alto / Ticket baixo | ≥ R$ 1.800 / < R$ 1.800 | Tickets abaixo de R$ 1.800 correspondem aproximadamente a 75% dos clientes |
 | **Frequência de compras do cliente** | Alta frequência de compras / Baixa frequência de compras | > 9 / ≤ 9 compras no período | Até 9 compras correspondem aproximadamente a 75% dos clientes |
+
+</div>
 
 Com esse método aplicado vários insights foram obtidos e, a partir deles, chegamos à resposta de pergunta de negócio. A seguir estão os principais insights.
 
@@ -58,11 +66,16 @@ Com esse método aplicado vários insights foram obtidos e, a partir deles, cheg
 
 1. De 10/2025 a 08/2026 os valores ficaram entre R$ 1.712.021,25 e 2.036.392,50 de reais, ou seja, os valores se mantiveram relativamente próximos. O mês que apresentou queda na vendas foi o mês de setembro, no ano de 2025 foi R$1.241.196,25. No ano de 2026 foi de R$ 645.576,25, mas nos dados estão somente os 12 primeiros dias do mês.
 
-![grafico_de_linhas](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/grafico_de_linhas.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/grafico_de_linhas.png" alt="grafico de linhas" width="800">
+</p>
 
 2. As vendas de alto valor correspondem a 20,4% do total de vendas. Embora esse não seja um número expressivo, as vendas de alto valor são responsáveis por 69% do faturamento no período em que os dados foram coletados.
 
-![percentual_faturamento_vendas](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/percentual_faturamento_vendas.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/percentual_faturamento_vendas.png" alt="faturamento vendas" width="500">
+</p>
+
 
 4. A quantidade de produtos vendidos está relacionada com as vendas de alto valor (IV=0,37). Dentre as vendas de 4 produtos e 5 produtos, as vendas de alto valor correspondem a 50% e 57%. Já na faixa de 3 produtos vendidos, 37% das vendas são de alto valor. Porém, há um detalhe importante relacionado às essas quantidade de produtos vendidos, elas representam apenas 12,92% da quantidade de vendas, isto é, 87,08% das vendas são de 2 ou um produto apenas.
 
