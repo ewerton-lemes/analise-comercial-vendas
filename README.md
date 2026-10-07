@@ -21,8 +21,8 @@ _Quais características estão associadas às vendas de maior valor e onde estã
 
 Primeiramente separamos a pergunta de negócio em duas:
 
-- _Quais características estão associadas às vendas de maior valor?_
-- _Onde estão as principais oportunidades de crescimento comercial?_
+- Parte A: _Quais características estão associadas às vendas de maior valor?_
+- Parte B: _Onde estão as principais oportunidades de crescimento comercial?_
 
 ## Segmentação das variáveis
 
@@ -129,11 +129,15 @@ Porém, há um detalhe importante relacionado às essas quantidades de produtos 
   <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/vendas_alto_valor.png" alt="faturamento vendas" width="500">
 </p>
 
-6. A probabilidade de uma venda de alto valor ocorrer com até dois produtos com preço unitários acima de 850 reais é de 69%, enquanto que é de apenas 25,7% em vendas com produtos com quantidade acima de 2 e preço abaixo de 850 reais.
+6. A probabilidade de uma venda de alto valor ocorrer com até dois produtos com preço unitários acima de 850 reais é de 69%, enquanto que é de apenas 25,7% em vendas com produtos com quantidade acima de 2 e preço abaixo de R$ 850,00.
 
-![probabilidades](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/probabilidades.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/probabilidades.png" alt="faturamento vendas" width="450">
+</p>
 
 7. A categoria possui uma associação importante com as vendas de alto valor (IV=0,78). Cerca de 52% das vendas de Eletrônicos correspondem a vendas de alto valor. Nas categorias de Informática e Mobiliário esses valores são 28% e 20%.
+
+<div align="center">
 
 | Categoria | Taxa de Alto valor |
 |---|---:|
@@ -143,19 +147,37 @@ Porém, há um detalhe importante relacionado às essas quantidades de produtos 
 | Informática | 28,2% |
 | Mobiliário | 20,1% |
 
+</div>
+
 8. Mais de 75% do faturamento estão em apenas 11 produtos. Mais de 50% do faturamento estão em apenas 4 produtos.
 
-![produtos_faturamento](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/produtos_faturamento.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/produtos_faturamento.png" alt="faturamento vendas" width="550">
+</p>
 
-9. Os descontos não apresentam associação relevante com as vendas de alto valor. Aproximadamente 79% das vendas de alto valor não receberam desconto. Além disso, o número de vendas de alto valor corresponde a 20,4% do quantidade total de vendas e, restringindo às vendas que tiveram desconto, temos 21% de vendas de alto valor, ou seja, os resultados não indicam que a concessão de descontos esteja associada a uma maior ocorrência de vendas de alto valor.
+9. Os descontos não apresentam associação relevante com as vendas de alto valor. Um total de 79,5% das vendas de alto valor não receberam desconto.
+
+<div align="center">
+  
+| Desconto| % em vendas de alto valor |
+|---|---:|
+| 10% | 4,5% |
+| 5% | 16,0% |
+| 0% | 79,5% |
+
+</div>
+
+Além disso, o número de vendas de alto valor corresponde a 20,4% do quantidade total de vendas e, restringindo às vendas que tiveram desconto, temos 21% de vendas de alto valor, ou seja, os resultados não indicam que a concessão de descontos esteja associada a uma maior ocorrência de vendas de alto valor.
 
 10. A categoria de acessórios é a segunda categoria com maior quantidade de vendas (24,2%) porém é a que menos participa do faturamento total com apenas 4% de participação.
 
-![grafico_barras](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/grafico_barras.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/grafico_barras.png" alt="faturamento vendas" width="650">
+</p>
 
 # Resposta da pergunta de negócio
 
-Diante desses fatos, podemos concluir que as vendas de alto valor, acima de 1500 reais, Estão predominantemente associadas a vendas de quantidade baixa de produtos e valores altos de preços unitários. Embora a quantidade de produtos também apresente forte associação com o alto valor (IV = 0,37), o cruzamento das variáveis indica que o preço unitário possui papel particularmente importante, 70,45% das vendas de alto valor ocorrem em transações com até dois produtos e preço unitário superior a R$850.
+Diante desses fatos, podemos concluir que as vendas de alto valor, acima de R$ 1500,00 estão predominantemente associadas a vendas de quantidade baixa de produtos e valores altos de preços unitários. Embora a quantidade de produtos também apresente forte associação com o alto valor, o cruzamento das variáveis indica que o preço unitário possui papel particularmente importante, 70,45% das vendas de alto valor ocorrem em transações com até dois produtos e preço unitário superior a R$850.
 
 
 Pergunta B — comercial
