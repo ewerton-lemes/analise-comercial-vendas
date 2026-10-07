@@ -1,11 +1,11 @@
 ## Em construção...
 
-# Análise de Vendas e Opotunidades Comerciais
-Análise exploratória, de associação e probabilidades dos dados sobre vendas de uma loja física de protudos de informatica e eletrodomésticos utilizando o Excel.
+# Análise de Vendas e Oportunidades Comerciais
+Análise exploratória, de associação e probabilidades dos dados sobre vendas de uma loja física de protudos de informática e eletrodomésticos utilizando o Excel.
 
 # Sobre o Projeto
 
-Este projeto apresenta uma análise exploratória, de associação (Information Value) e probabilidades de uma base de dados de uma loja física que atua na área de informática e eletrodomésticos. A base de dados é sintética (não possui dados reais), mas é muito boa para a análise de vendas e de oportunidades comercias. Os dados foram coletados no período de uma ano 12/09/2025 à 12/09/2026. 
+Este projeto apresenta uma análise exploratória, de associação (Information Value) e probabilidades de uma base de dados de uma loja física que atua na área de informática e eletrodomésticos. A base de dados é sintética (não possui dados reais), mas é muito boa para a análise de vendas e de oportunidades comercias. Os dados foram coletados no período de um ano 12/09/2025 à 12/09/2026. 
 
 Fonte: https://www.kaggle.com/datasets/suzanemartinss/dados-de-vendas-informatica-brasil.
 
@@ -19,7 +19,7 @@ _Quais características estão associadas às vendas de maior valor e onde estã
 
 # Método
 
-Primeiramente separamos a pergunta de negócio em duas:
+Primeiramente, separamos a pergunta de negócio em duas:
 
 - Parte A: _Quais características estão associadas às vendas de maior valor?_
 - Parte B: _Onde estão as principais oportunidades de crescimento comercial?_
@@ -37,7 +37,7 @@ Para responder às duas partes da pergunta de negócio, algumas variáveis foram
 | **Valor total da venda** | Alto valor / Não alto valor | > R$ 1.500 / ≤ R$ 1.500 | R$ 1.500 corresponde aproximadamente ao 80º percentil das vendas |
 | **Preço unitário** | Preço alto / Preço baixo | > R$ 850 / ≤ R$ 850 | R$ 850 corresponde aproximadamente ao 75º percentil dos preços unitários |
 | **Quantidade por venda** | Quantidade alta / Quantidade baixa | 3 a 5 / 1 a 2 produtos | Até 2 produtos correspondem aproximadamente a 75% das vendas |
-| **Frequência de vendas do produto** | Alta frequência / Baixa frequência | > 800 / ≤ 800 vendas no período | 75% dos produtos venderem 800 unidades ou menos |
+| **Frequência de vendas do produto** | Alta frequência / Baixa frequência | > 800 / ≤ 800 vendas no período | 75% dos produtos venderam até 800 |
 
 </div>
 
@@ -64,7 +64,7 @@ Com esse método aplicado vários insights foram obtidos e, a partir deles, cheg
 
 # Principais Insights
 
-1. De 10/2025 a 08/2026 os valores ficaram entre R$ 1.712.021,25 e 2.036.392,50 de reais, ou seja, os valores se mantiveram relativamente próximos. O mês que apresentou queda na vendas foi o mês de setembro, no ano de 2025 foi R$1.241.196,25. No ano de 2026 foi de R$ 645.576,25, mas nos dados estão somente os 12 primeiros dias do mês.
+1. De 10/2025 a 08/2026 os valores ficaram entre R$ 1.712.021,25 e R$ 2.036.392,50, ou seja, os valores se mantiveram relativamente próximos. O mês que apresentou queda nas vendas foi o mês de setembro, no ano de 2025 foi R$1.241.196,25. No ano de 2026 foi de R$ 645.576,25, mas nos dados estão somente os 12 primeiros dias do mês.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/grafico_de_linhas.png" alt="grafico de linhas" width="800">
@@ -91,13 +91,13 @@ Com esse método aplicado vários insights foram obtidos e, a partir deles, cheg
 
 </div>
 
-Porém, há um detalhe importante relacionado às essas quantidades de produtos vendidos, elas representam apenas 12,92% da quantidade de vendas, isto é, 87,08% das vendas são de 2 ou um produto apenas.
+Porém, há um detalhe importante relacionado a essas quantidades de produtos vendidos, elas representam apenas 12,92% da quantidade de vendas, isto é, 87,08% das vendas são de 2 ou um produto apenas.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/quantidade_vendida.png" alt="faturamento vendas" width="550">
 </p>
 
-4. O preço unitário dos produtos também tem uma forte associação com as vendas de alto valor (IV=0,42). Produtos com valores unitários acima de 1500 reais geram vendas de alto valor com apenas um produto vendido. Nas vendas de produtos com faixa de preço unitário entre R$ 785,00 e R$ 1385,00, em média, 35% são de alto valor.
+4. O preço unitário dos produtos também tem uma forte associação com as vendas de alto valor (IV=0,42). Produtos com valores unitários acima de R$ 1500,00 geram vendas de alto valor com apenas um produto vendido. Nas vendas de produtos com faixa de preço unitário entre R$ 785,00 e R$ 1385,00, em média, 35% são de alto valor.
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Porém, há um detalhe importante relacionado às essas quantidades de produtos 
 
 **Observação:** O preço mínimo é R$ 35,00 e o máximo é R$ 4500,00. As faixas de valores tem intervalos de R$ 150,00. Não existem preços unitários entre R$ 1234,00 e R$ 1385,00, entre R$ 1684,00 e R$ 2135,00, entre R$ 2284,00 e R$ 2885,00, entre R$ 3034,00 e R$ 3785,00 e, por fim, entre R$ 3934,00 e R$ 4385,00.
 
-5. Cruzando as variáveis quantidade de produtos vendidos e preço unitário, temos que 70,45% da vendas de alto valor ocorrem com a venda de até dois produtos com preços unitários acima de 850 reais enquanto que apenas 12,5% das vendas de alto valor ocorrem com mais de dois produtos vendidos com preço unitário abaixo de 850 reais.
+5. Cruzando as variáveis quantidade de produtos vendidos e preço unitário, temos que 70,45% da vendas de alto valor ocorrem com a venda de até dois produtos com preço unitário acima de R$ 850,00 reais enquanto que apenas 12,5% das vendas de alto valor ocorrem com mais de dois produtos vendidos com preço unitário abaixo de 850 reais.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/vendas_alto_valor.png" alt="faturamento vendas" width="500">
@@ -135,7 +135,7 @@ Porém, há um detalhe importante relacionado às essas quantidades de produtos 
   <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/probabilidades.png" alt="faturamento vendas" width="450">
 </p>
 
-7. A categoria possui uma associação importante com as vendas de alto valor (IV=0,78). Cerca de 52% das vendas de Eletrônicos correspondem a vendas de alto valor. Nas categorias de Informática e Mobiliário esses valores são 28% e 20%.
+7. A categoria possui uma associação importante com as vendas de alto valor (IV=0,78). Cerca de 52% das vendas de Eletrônicos correspondem a vendas de alto valor. Nas categorias de Informática e Mobiliário esses valores são de 28% e 20%, respectivamente.
 
 <div align="center">
 
@@ -185,16 +185,15 @@ Além disso, o número de vendas de alto valor corresponde a 20,4% do quantidade
 
 Parte A: Quais características estão associadas às vendas de maior valor?
 
-Diante desses fatos, podemos concluir que as vendas de alto valor, acima de R$ 1500,00 estão predominantemente associadas a vendas de quantidade baixa de produtos e valores altos de preços unitários. Embora a quantidade de produtos também apresente forte associação com o alto valor, o cruzamento das variáveis indica que o preço unitário possui papel particularmente importante, 70,45% das vendas de alto valor ocorrem em transações com até dois produtos e preço unitário superior a R$850.
-
+Diante desses fatos, podemos concluir que as vendas de alto valor, acima de R$ 1500,00 estão predominantemente associadas a vendas de quantidade baixa de produtos e valores altos de preços unitários. Embora a quantidade de produtos também apresente forte associação com o alto valor, o cruzamento das variáveis indica que o preço unitário possui papel particularmente importante, 70,45% das vendas de alto valor ocorrem em transações com até dois produtos e preço unitário superior a R$ 850,00.
 
 Parte B: Quais segmentos apresentam oportunidades de crescimento?
 
 - Metade do faturamento está concentrado em quatro produtos, ou seja, há uma forte dependência do faturamento em relação a esses produtos. Isso evidencia a necessidade de criar planos para não depender somente desses produtos. Uma possível consequência disso seria o aumento no faturamento.
 
-- Os resultados sugerem que a frequência de compra está associada a uma maior ocorrência de tickets altos. Dessa forma, clientes de baixa frequência e baixo ticket podem representar uma oportunidade para estratégias de aumento da frequência de compras.
+- Os resultados sugerem que a frequência de compra está associada a uma maior ocorrência de tickets altos (considerando os valores em ralação ao ano em que os dados foram coletados). Dessa forma, clientes de baixa frequência e baixo ticket podem representar uma oportunidade para estratégias de aumento da frequência de compras e de aumento do ticket médio.
 
-- Os descontos não estão associados a vendas de alto valor, o que sugere uma mudança na política de descontos para aumentar o número de vendas de alto valor.
+- Os descontos não apresentam associação atual com as vendas de alto valor. Isso indica que a política de descontos atual não tem sido efetiva para alavancar o valor total das vendas. Recomenda-se reformular a política de descontos para que passem a ser utilizados de forma estratégica, seja incentivando compras de alto valor, seja aplicados via cross-selling para aumentar a margem de produtos de menor valor unitário.
 
 - Adicionar produtos de maior valor na categoria de acessórios, pois é bastante procurada e tem uma variação de preço muito pequena, com média de R$ 131,74 e baixa participação no faturamento.
 
