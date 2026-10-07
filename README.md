@@ -77,7 +77,7 @@ Com esse método aplicado vários insights foram obtidos e, a partir deles, cheg
 </p>
 
 
-4. A quantidade de produtos vendidos está relacionada com as vendas de alto valor (IV=0,37). Dentre as vendas de 4 produtos e 5 produtos, as vendas de alto valor correspondem a 50,5% e 57,9%. Já na faixa de 3 produtos vendidos, 37,2% das vendas são de alto valor.
+3. A quantidade de produtos vendidos está relacionada com as vendas de alto valor (IV=0,37). Dentre as vendas de 4 produtos e 5 produtos, as vendas de alto valor correspondem a 50,5% e 57,9%. Já na faixa de 3 produtos vendidos, 37,2% das vendas são de alto valor.
 
 <div align="center">
 
@@ -94,10 +94,10 @@ Com esse método aplicado vários insights foram obtidos e, a partir deles, cheg
 Porém, há um detalhe importante relacionado às essas quantidades de produtos vendidos, elas representam apenas 12,92% da quantidade de vendas, isto é, 87,08% das vendas são de 2 ou um produto apenas.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/quantidade_vendida.png" alt="faturamento vendas" width="600">
+  <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/quantidade_vendida.png" alt="faturamento vendas" width="550">
 </p>
 
-5. O preço unitário dos produtos também tem uma forte associação com as vendas de alto valor (IV=0,42). Produtos com valores unitários acima de 1500 reais geram vendas de alto valor com apenas um produto vendido. Nas vendas de produtos com faixa de preço unitário entre R$ 785,00 e R$ 1385,00, em média, 35% são de alto valor.
+4. O preço unitário dos produtos também tem uma forte associação com as vendas de alto valor (IV=0,42). Produtos com valores unitários acima de 1500 reais geram vendas de alto valor com apenas um produto vendido. Nas vendas de produtos com faixa de preço unitário entre R$ 785,00 e R$ 1385,00, em média, 35% são de alto valor.
 
 <div align="center">
 
@@ -123,11 +123,13 @@ Porém, há um detalhe importante relacionado às essas quantidades de produtos 
 
 **Observação:** O preço mínimo é R$ 35,00 e o máximo é R$ 4500,00. As faixas de valores tem intervalos de R$ 150,00. Não existem preços unitários entre R$ 1234,00 e R$ 1385,00, entre R$ 1684,00 e R$ 2135,00, entre R$ 2284,00 e R$ 2885,00, entre R$ 3034,00 e R$ 3785,00 e, por fim, entre R$ 3934,00 e R$ 4385,00.
 
-7. Cruzando as variáveis quantidade de produtos vendidos e preço unitário, temos que 70,45% da vendas de alto valor ocorrem com a venda de até dois produtos com preços unitários acima de 850 reais enquanto que apenas 12,5% das vendas de alto valor ocorrem com mais de dois produtos vendidos com preço unitário abaixo de 850 reais.
+5. Cruzando as variáveis quantidade de produtos vendidos e preço unitário, temos que 70,45% da vendas de alto valor ocorrem com a venda de até dois produtos com preços unitários acima de 850 reais enquanto que apenas 12,5% das vendas de alto valor ocorrem com mais de dois produtos vendidos com preço unitário abaixo de 850 reais.
 
-![vendas_alto_valor](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/vendas_alto_valor.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/vendas_alto_valor.png" alt="faturamento vendas" width="500">
+</p>
 
-6. A probabilidade de uma venda alta ocorrer com até dois produtos com preço unitários acima de 850 reais é de 69%, enquanto que é de apenas 25,7% em vendas com produtos com quantidade acima de 2 e preço abaixo de 850 reais.
+6. A probabilidade de uma venda de alto valor ocorrer com até dois produtos com preço unitários acima de 850 reais é de 69%, enquanto que é de apenas 25,7% em vendas com produtos com quantidade acima de 2 e preço abaixo de 850 reais.
 
 ![probabilidades](https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/probabilidades.png)
 
