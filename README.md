@@ -188,13 +188,15 @@ Parte A: Quais características estão associadas às vendas de maior valor?
 Diante desses fatos, podemos concluir que as vendas de alto valor, acima de R$ 1500,00 estão predominantemente associadas a vendas de quantidade baixa de produtos e valores altos de preços unitários. Embora a quantidade de produtos também apresente forte associação com o alto valor, o cruzamento das variáveis indica que o preço unitário possui papel particularmente importante, 70,45% das vendas de alto valor ocorrem em transações com até dois produtos e preço unitário superior a R$850.
 
 
-Parte B:
-Quais segmentos apresentam oportunidades de crescimento?
+Parte B: Quais segmentos apresentam oportunidades de crescimento?
 
-Os resultados sugerem que a frequência de compra está associada a uma maior ocorrência de tickets altos. Dessa forma, clientes de baixa frequência e baixo ticket podem representar uma oportunidade para estratégias de aumento da frequência de compras.
+- Metade do faturamento está concentrado em quatro produtos, ou seja, há uma forte dependência do faturamento em relação a esses produtos. Isso evidencia a necessidade de criar planos para não depender somente desses produtos. Uma possível consequência disso seria o aumento no faturamento.
 
-Adicionar produtos de maior valor na categoria de acessórios, pois é bastante procurada, tem uma variação preço muito pequena, com média de 131,74 reais e baixa participação no faturamento.
+- Os resultados sugerem que a frequência de compra está associada a uma maior ocorrência de tickets altos. Dessa forma, clientes de baixa frequência e baixo ticket podem representar uma oportunidade para estratégias de aumento da frequência de compras.
 
-Há uma dependência muito alta de apenas 4 produtos responsáveis por mais de 50% do faturamento. Seria bom criar planos para não depender somente desse produtos.
+- Os descontos não estão associados a vendas de alto valor, o que sugere uma mudança na política de descontos para aumentar o número de vendas de alto valor.
+
+- Adicionar produtos de maior valor na categoria de acessórios, pois é bastante procurada e tem uma variação de preço muito pequena, com média de R$ 131,74 e baixa participação no faturamento.
+
 
 
