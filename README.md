@@ -175,7 +175,11 @@ Além disso, o número de vendas de alto valor corresponde a 20,4% do quantidade
   <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/grafico_barras.png" alt="faturamento vendas" width="650">
 </p>
 
-11. Um percentual de 63,04% dos clientes apresentam simultaneamente baixa frequência de compras e baixo ticket médio. Além disso, a probabilidade de um cliente apresentar ticket alto é de 46,17% entre aqueles com alta frequência, contra 20,82% entre os de baixa frequência. 
+11. Um percentual de 63,04% dos clientes apresentam simultaneamente baixa frequência de compras e baixo ticket médio. Além disso, a probabilidade de um cliente apresentar ticket alto é de 46,17% entre aqueles com alta frequência, contra 20,82% entre os de baixa frequência.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ewerton-lemes/analise-comercial-vendas/main/imagens/tickets.png" alt="faturamento vendas" width="550">
+</p>
 
 # Resposta da pergunta de negócio
 
