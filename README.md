@@ -191,11 +191,11 @@ Diante desses fatos, podemos concluir que as vendas de alto valor, acima de R$ 1
 
 Parte B: Quais segmentos apresentam oportunidades de crescimento?
 
-- Metade do faturamento está concentrado em quatro produtos, ou seja, há uma forte dependência do faturamento em relação a esses produtos. Isso evidencia a necessidade de criar planos para não depender somente desses produtos. Uma possível consequência disso seria o aumento no faturamento.
+- Mais da metade do faturamento está concentrado em quatro produtos, ou seja, há uma forte dependência do faturamento em relação a esses produtos. Isso evidencia a necessidade de criar planos para não depender somente desses produtos. Uma possível consequência disso seria o aumento no faturamento.
 
 - Os resultados sugerem que a frequência de compra está associada a uma maior ocorrência de tickets altos (considerando os valores em ralação ao ano em que os dados foram coletados). Dessa forma, clientes de baixa frequência e baixo ticket podem representar uma oportunidade para estratégias de aumento da frequência de compras e de aumento do ticket médio.
 
-- Os descontos não apresentam associação atual com as vendas de alto valor. Isso indica que a política de descontos atual não tem sido efetiva para alavancar o valor total das vendas. Recomenda-se reformular a política de descontos para que passem a ser utilizados de forma estratégica, seja incentivando compras de alto valor, seja aplicados via cross-selling para aumentar a margem de produtos de menor valor unitário.
+- Os descontos não apresentam associação atual com as vendas de alto valor. Isso indica que a política de descontos atual não tem sido efetiva para alavancar o valor total das vendas. Recomenda-se reformular a política de descontos para que passem a ser utilizados de forma estratégica, seja incentivando compras de alto valor, seja aplicados via _cross-selling_ para aumentar a margem de produtos de menor valor unitário.
 
 - Adicionar produtos de maior valor na categoria de acessórios, pois é bastante procurada e tem uma variação de preço muito pequena, com média de R$ 131,74 e baixa participação no faturamento.
 
