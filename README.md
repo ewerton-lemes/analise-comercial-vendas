@@ -37,7 +37,7 @@ Para responder às duas partes da pergunta de negócio, algumas variáveis foram
 | **Valor total da venda** | Alto valor / Não alto valor | > R$ 1.500 / ≤ R$ 1.500 | R$ 1.500 corresponde aproximadamente ao 80º percentil das vendas |
 | **Preço unitário** | Preço alto / Preço baixo | > R$ 850 / ≤ R$ 850 | R$ 850 corresponde aproximadamente ao 75º percentil dos preços unitários |
 | **Quantidade por venda** | Quantidade alta / Quantidade baixa | 3 a 5 / 1 a 2 produtos | Até 2 produtos correspondem aproximadamente a 75% das vendas |
-| **Frequência de vendas do produto** | Alta frequência / Baixa frequência | > 800 / ≤ 800 vendas no período | 75% dos produtos venderam até 800 |
+| **Frequência de vendas do produto** | Alta frequência / Baixa frequência | > 800 / ≤ 800 vendas no período | 75% dos produtos venderam até 800 unidades |
 
 </div>
 
@@ -46,12 +46,14 @@ Para responder às duas partes da pergunta de negócio, algumas variáveis foram
 Além de segmentações, foi criada a nova variável **ticket médio por cliente**, calculado pela seguinte fórmula:
 
 $$
-\text{Ticket Médio} =
+\text{Ticket Médio por cliente} =
 \frac{\text{Faturamento gerado pelo cliente}}
 {\text{Número de vendas realizadas pelo cliente}}
 $$
 
 <div align="center">
+
+com os valores considerados durante todo o período dos dados.
 
 | Variável | Segmentação | Critério | Justificativa |
 |---|---|---|---|
