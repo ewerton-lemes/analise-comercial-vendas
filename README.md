@@ -1,5 +1,5 @@
 # Análise de Vendas e Oportunidades Comerciais
-Análise exploratória, de associação e probabilidades dos dados sobre vendas de uma loja física de protudos de informática e eletrodomésticos utilizando o Excel.
+Análise exploratória, de associação e probabilidades dos dados sobre vendas de uma loja física de produtos de informática e eletrodomésticos utilizando o Excel.
 
 # Sobre o Projeto
 
